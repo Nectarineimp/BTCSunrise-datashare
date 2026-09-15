@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T11:17:53.541327+00:00",
+  "price": 77101.47,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 83.801,
+  "perp_cvd": 141.586,
+  "divergence": -57.785,
+  "poc": 77000.0,
+  "vah": 77100.0,
+  "val": 76900.0,
+  "analysis": "Perpetual swaps are driving the marginal breakout above the 77,100 VAH with heavy relative volume, while spot aggressive buying trails significantly. Without spot volume confirmation, this derivative-led push risks a sharp rejection back into the value area.",
+  "key_risk": "Lack of spot CVD follow-through above VAH leading to a leverage long liquidation back toward the POC."
+}

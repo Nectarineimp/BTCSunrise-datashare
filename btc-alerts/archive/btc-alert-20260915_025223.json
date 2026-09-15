@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T02:52:23.999703+00:00",
+  "price": 77793.5,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 14.0734,
+  "perp_cvd": -323.126,
+  "divergence": 337.1994,
+  "poc": 77850.0,
+  "vah": 77950.0,
+  "val": 77800.0,
+  "analysis": "Aggressive derivative shorting has pushed price below the Value Area Low while spot absorption remains mildly positive. This pronounced spot-perp CVD divergence increases the risk of a leverage squeeze if price reclaims 77,800 VAL.",
+  "key_risk": "Sustained acceptance below VAL (77,800) leading to spot order book withdrawal and accelerated downside momentum."
+}

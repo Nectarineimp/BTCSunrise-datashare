@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T08:57:43.173363+00:00",
+  "price": 76979.29,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 62.1319,
+  "perp_cvd": 371.087,
+  "divergence": -308.9551,
+  "poc": 76800.0,
+  "vah": 76900.0,
+  "val": 76750.0,
+  "analysis": "Price has expanded above VAH driven primarily by aggressive derivative buying, while spot CVD exhibits significant lagging divergence. Without follow-through spot accumulation, this breakout remains vulnerable to leverage exhaustion and a sharp mean-reversion back into the value area.",
+  "key_risk": "Lack of spot bid support leading to a failed breakout and rapid re-entry into the Value Area below 76,900."
+}

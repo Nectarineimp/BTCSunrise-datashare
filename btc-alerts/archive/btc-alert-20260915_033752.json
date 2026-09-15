@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T03:37:52.380026+00:00",
+  "price": 77857.59,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 39.1018,
+  "perp_cvd": 10.521,
+  "divergence": 28.5808,
+  "poc": 77750.0,
+  "vah": 77850.0,
+  "val": 77700.0,
+  "analysis": "Price has accepted above the Value Area High driven by robust spot CVD outperformance relative to perpetual futures. This positive spot-perp CVD divergence confirms genuine organic demand driving the breakout beyond $77,850.",
+  "key_risk": "A quick rejection below VAH ($77,850) triggering a value area re-entry back toward the POC ($77,750)."
+}

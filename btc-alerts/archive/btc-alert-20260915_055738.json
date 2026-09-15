@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T05:57:38.944188+00:00",
+  "price": 77605.9,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 32.8339,
+  "perp_cvd": -70.322,
+  "divergence": 103.1559,
+  "poc": 77400.0,
+  "vah": 77550.0,
+  "val": 77350.0,
+  "analysis": "Price has broken out above VAH driven by positive spot accumulation despite persistent derivative shorting. This spot-led absorption above value area structure sets up squeeze potential if perps are forced to cover.",
+  "key_risk": "Loss of acceptance above VAH (77,550) triggering a mean-reversion rotation back toward POC (77,400)."
+}

@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T13:12:57.407864+00:00",
+  "price": 77004.0,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 82.1426,
+  "perp_cvd": 38.55,
+  "divergence": 43.5926,
+  "poc": 76900.0,
+  "vah": 77050.0,
+  "val": 76850.0,
+  "analysis": "Spot cumulative volume delta is actively outpacing perpetual futures, driving price marginally above the Value Area High at $77,050. This spot-led delta expansion signals organic buying interest, though acceptance above VAH requires sustained volume confirmation.",
+  "key_risk": "Failure to maintain acceptance above VAH ($77,050) triggering a mean-reverting rotation back toward the POC at $76,900."
+}

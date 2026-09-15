@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T10:47:53.088809+00:00",
+  "price": 77076.7,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 80.0036,
+  "perp_cvd": 100.726,
+  "divergence": -20.7224,
+  "poc": 76950.0,
+  "vah": 77000.0,
+  "val": 76850.0,
+  "analysis": "Spot CVD delta is significantly outstripping perp CVD as price establishes acceptance above VAH at $77,000. This spot-driven demand confirms structural expansion rather than a speculative leverage squeeze.",
+  "key_risk": "A drop back inside the value area below $77,000 VAH would signal a false breakout and trigger mean reversion to the $76,950 POC."
+}

@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T03:57:29.721413+00:00",
+  "price": 77634.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 45.2658,
+  "perp_cvd": 109.117,
+  "divergence": -63.8512,
+  "poc": 77750.0,
+  "vah": 77800.0,
+  "val": 77650.0,
+  "analysis": "Price trading below Value Area Low despite positive derivative CVD points to heavy passive limit absorption of aggressive long orders. The heavy derivative imbalance without spot backing leaves recent buyer positions highly vulnerable to downside liquidation.",
+  "key_risk": "Downside long liquidation cascade triggered by perp buyer exhaustion below 77650 VAL."
+}

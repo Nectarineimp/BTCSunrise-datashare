@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T10:57:53.107257+00:00",
+  "price": 77050.7,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 88.1682,
+  "perp_cvd": 54.58,
+  "divergence": 33.5882,
+  "poc": 76950.0,
+  "vah": 77050.0,
+  "val": 76850.0,
+  "analysis": "Aggressive spot buying is driving price above the Value Area High at 77,050 with minimal contribution from derivative leverage. This strong positive spot CVD divergence confirms high-conviction demand supporting a bullish expansion.",
+  "key_risk": "Failure to sustain acceptance above VAH at 77,050, risking an auction re-entry back toward POC at 76,950."
+}

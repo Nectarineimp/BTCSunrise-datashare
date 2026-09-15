@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T14:02:58.125429+00:00",
+  "price": 76254.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -56.196,
+  "perp_cvd": -233.618,
+  "divergence": 177.422,
+  "poc": 76900.0,
+  "vah": 77150.0,
+  "val": 76450.0,
+  "analysis": "Aggressive perpetual selling has pushed price below the Value Area Low of 76,450 while spot CVD delta shows substantially weaker downside participation. This strong perp-led CVD divergence below value indicates short crowding and heightens the potential for a leverage squeeze if spot absorption holds.",
+  "key_risk": "Lack of spot passive bid support leading to a cascading breakdown through thin liquidity under 76,000."
+}

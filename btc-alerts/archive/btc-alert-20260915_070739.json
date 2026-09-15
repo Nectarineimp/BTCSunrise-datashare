@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T07:07:39.978883+00:00",
+  "price": 77223.52,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -36.1628,
+  "perp_cvd": -145.961,
+  "divergence": 109.7982,
+  "poc": 77350.0,
+  "vah": 77450.0,
+  "val": 77150.0,
+  "analysis": "Price has broken below the Value Area Low at $77,200, driven primarily by heavy perpetual futures selling that significantly outpaces spot distribution. The pronounced spot-perp CVD divergence suggests short-side leverage overextension, increasing the probability of a mean-reverting squeeze back toward the $77,350 POC.",
+  "key_risk": "Lack of spot sell-side follow-through below VAL, leaving aggressive perp shorts vulnerable to a liquidation squeeze."
+}
