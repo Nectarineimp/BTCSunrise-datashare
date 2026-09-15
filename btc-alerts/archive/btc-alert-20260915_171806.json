@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T17:18:06.709154+00:00",
+  "price": 76242.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 63.414,
+  "perp_cvd": -175.494,
+  "divergence": 238.908,
+  "poc": 76400.0,
+  "vah": 76500.0,
+  "val": 76250.0,
+  "analysis": "Price trading below VAL ($76,250) is being driven by aggressive perpetual shorting that is actively being absorbed by spot buying. This sharp CVD divergence increases the probability of short exhaustion and a mean-reversion squeeze back toward the POC ($76,400).",
+  "key_risk": "Perpetual order flow overwhelming spot absorption below VAL, initiating cascading long liquidations."
+}

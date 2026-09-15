@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T17:28:06.740052+00:00",
+  "price": 76439.7,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": 72.2659,
+  "perp_cvd": -143.645,
+  "divergence": 215.9109,
+  "poc": 76350.0,
+  "vah": 76450.0,
+  "val": 76200.0,
+  "analysis": "Positive spot CVD is actively absorbing aggressive perpetual contract selling at the Value Area High of 76,450. Continued spot demand is required to confirm acceptance above VAH and prevent a mean-reversion rotation back into the value area.",
+  "key_risk": "Failure to maintain acceptance above 76,450 VAH triggering aggressive perp-led selling back toward the 76,350 POC."
+}

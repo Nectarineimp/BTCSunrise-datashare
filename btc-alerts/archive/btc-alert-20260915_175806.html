@@ -1,5 +1,5 @@
 <!-- BTC Alert Web Component -->
-<div class="btc-alert" data-timestamp="2026-09-15T18:08:46.569201+00:00">
+<div class="btc-alert" data-timestamp="2026-09-15T17:58:06.830845+00:00">
   <style>
     .btc-alert {
       --bg: #0d1117;
@@ -62,29 +62,29 @@
 
   <div class="btc-alert-header">
     <span>⚡ BTC ORDER FLOW BREAKOUT</span>
-    <span>76,892.01 USD</span>
+    <span>76,937.20 USD</span>
   </div>
 
   <div class="btc-alert-grid">
     <span class="btc-alert-label">Regime</span>
-    <span class="btc-alert-val">Consolidation</span>
+    <span class="btc-alert-val">Leverage Squeeze / Exhaustion Risk</span>
 
     <span class="btc-alert-label">Spot CVD (60m)</span>
-    <span class="btc-alert-val btc-pos">+0.00 BTC</span>
+    <span class="btc-alert-val btc-pos">+75.84 BTC</span>
 
     <span class="btc-alert-label">Perp CVD (60m)</span>
-    <span class="btc-alert-val btc-pos">0.00 BTC</span>
+    <span class="btc-alert-val btc-pos">+229.70 BTC</span>
 
     <span class="btc-alert-label">Divergence</span>
-    <span class="btc-alert-val btc-pos">+0.00 BTC</span>
+    <span class="btc-alert-val btc-neg">-153.86 BTC</span>
 
     <span class="btc-alert-label">POC | VAH | VAL</span>
-    <span class="btc-alert-val">76,850 | 76,900 | 76,850 USD</span>
+    <span class="btc-alert-val">76,250 | 76,900 | 76,150 USD</span>
   </div>
 
   <div class="btc-alert-body">
-    <strong>Analysis:</strong> 
+    <strong>Analysis:</strong> Price has pushed above VAH at 76,900, but market depth indicates the move is heavily driven by perpetual futures leverage rather than organic spot demand. Without spot volume validation, the current extension remains vulnerable to a long squeeze and rotation back toward the POC at 76,250.
   </div>
 
-  
+  <div class="btc-alert-risk"><strong>Key Risk:</strong> Lack of spot CVD absorption leading to a derivative liquidation cascade back inside the Value Area.</div>
 </div>

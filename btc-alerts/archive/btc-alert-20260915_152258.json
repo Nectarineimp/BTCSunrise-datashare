@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T15:22:58.372183+00:00",
+  "price": 76011.1,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": -27.3884,
+  "perp_cvd": 3.024,
+  "divergence": -30.4124,
+  "poc": 75750.0,
+  "vah": 76050.0,
+  "val": 75650.0,
+  "analysis": "Persistent negative spot CVD alongside positive perp CVD indicates derivatives buyers are pushing price into spot distribution at the Value Area High. Without spot volume confirmation above VAH, the market exhibits high exhaustion risk with bias skewing toward a mean-reverting rejection.",
+  "key_risk": "Perp-led breakout failure triggering long liquidations back inside the Value Area toward POC (75,750)."
+}

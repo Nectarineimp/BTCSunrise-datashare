@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T14:52:58.293112+00:00",
+  "price": 76118.87,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -26.2676,
+  "perp_cvd": -137.79,
+  "divergence": 111.5224,
+  "poc": 76400.0,
+  "vah": 76450.0,
+  "val": 76150.0,
+  "analysis": "Aggressive perpetual short selling has pushed price marginally below VAL while spot CVD remains relatively flat, highlighting heavy leverage dominance over spot flows. Without spot distribution confirming the move, the breakdown carries elevated risk of a short-squeeze mean reversion back toward the POC.",
+  "key_risk": "Absence of spot absorption below VAL leading to acceleration in leverage-driven liquidation cascades."
+}

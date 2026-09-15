@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T14:17:58.161548+00:00",
+  "price": 76268.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -47.2278,
+  "perp_cvd": -234.056,
+  "divergence": 186.8282,
+  "poc": 76900.0,
+  "vah": 77150.0,
+  "val": 76400.0,
+  "analysis": "Price has pushed below VAL driven heavily by aggressive derivative selling while spot participation remains muted. This derivative-led divergence below value increases the probability of short-side exhaustion and a squeeze back into the value area.",
+  "key_risk": "Re-acceptance above VAL at 76,400 triggering a forced squeeze of aggressive perp shorts."
+}
