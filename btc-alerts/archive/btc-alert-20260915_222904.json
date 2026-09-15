@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T22:29:04.723396+00:00",
+  "price": 75163.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -143.0968,
+  "perp_cvd": -587.882,
+  "divergence": 444.7852,
+  "poc": 75350.0,
+  "vah": 75550.0,
+  "val": 75150.0,
+  "analysis": "Aggressive derivative selling has pushed price slightly below the Value Area Low of 75,150, driven by heavy perpetual volume dominance. Muted spot CVD delta indicates a lack of spot selling conviction, raising the risk of a leverage short squeeze back into value.",
+  "key_risk": "Acceptance back inside the Value Area above 75,150 triggering a forced short cover cascade."
+}
