@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-15T22:39:04.782147+00:00",
+  "price": 75535.28,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -118.9735,
+  "perp_cvd": -556.008,
+  "divergence": 437.0345,
+  "poc": 75350.0,
+  "vah": 75550.0,
+  "val": 75200.0,
+  "analysis": "Price holding marginally above VAH despite strongly negative perp and spot CVD indicates passive absorption of aggressive sellers at value area highs. The severe dominance of derivative volume over spot volume leaves the elevated price vulnerable to a sharp mean-reversion if spot buyers fail to step in.",
+  "key_risk": "Acceptance back inside the Value Area below 75550.0 triggering a rotational drop to the POC at 75350.0."
+}
