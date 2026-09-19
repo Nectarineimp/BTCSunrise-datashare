@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-19T01:16:52.828140+00:00",
+  "price": 81670.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 92.2332,
+  "perp_cvd": 1068.702,
+  "divergence": -976.4688,
+  "poc": 81450.0,
+  "vah": 81650.0,
+  "val": 81150.0,
+  "analysis": "The marginal breach above VAH is heavily driven by aggressive perpetual futures buying while spot volume remains exceptionally weak. Without immediate spot market participation to back the expansion, the move lacks fundamental order flow conviction and risks an abrupt reversal.",
+  "key_risk": "Lack of spot follow-through risking a violent leverage-driven long liquidation cascade back into the Value Area toward the 81,450 POC."
+}
