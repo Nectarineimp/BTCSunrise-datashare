@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-19T02:11:53.058084+00:00",
+  "price": 81298.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 85.9569,
+  "perp_cvd": 839.067,
+  "divergence": -753.1101,
+  "poc": 81450.0,
+  "vah": 81700.0,
+  "val": 81300.0,
+  "analysis": "Aggressive perpetual buying is failing to lift price back into the Value Area due to absent spot demand validation. This extreme leverage-driven divergence below VAL leaves unbacked long positions vulnerable to downside liquidation.",
+  "key_risk": "Cascading long liquidations if spot absorption fails to reclaim VAL at 81,300.0."
+}
