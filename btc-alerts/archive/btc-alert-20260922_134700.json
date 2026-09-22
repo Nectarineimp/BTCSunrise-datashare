@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-22T13:47:00.787020+00:00",
+  "price": 85852.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -75.7981,
+  "perp_cvd": -97.106,
+  "divergence": 21.3079,
+  "poc": 85950.0,
+  "vah": 86150.0,
+  "val": 85850.0,
+  "analysis": "Bitcoin has broken below Value Area Low at $85,850 driven by aggressive perpetual market selling and aligned negative spot CVD. Elevated perp-to-spot volume ratios indicate strong leveraged directional bias, increasing vulnerability to downside cascades or sharp short-squeezes.",
+  "key_risk": "Perpetual order flow exhaustion prompting a rapid mean-reversion back into the Value Area above $85,850."
+}
