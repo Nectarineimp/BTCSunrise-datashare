@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-22T14:32:01.600218+00:00",
+  "price": 86319.4,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -16.6426,
+  "perp_cvd": 6.727,
+  "divergence": -23.3696,
+  "poc": 86050.0,
+  "vah": 86200.0,
+  "val": 85600.0,
+  "analysis": "Price has pushed above VAH driven by perpetual leverage while spot CVD shows persistent selling. This pronounced spot-perp divergence highlights a fragile derivative-led expansion at risk of sharp mean reversion.",
+  "key_risk": "Spot absorption of perpetual buying leading to a failed breakout and long liquidation cascade back into the Value Area."
+}
