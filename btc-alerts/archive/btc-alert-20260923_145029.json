@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-23T14:50:29.967798+00:00",
+  "price": 84076.0,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": -211.913,
+  "perp_cvd": -88.655,
+  "divergence": -123.258,
+  "poc": 84150.0,
+  "vah": 85650.0,
+  "val": 84000.0,
+  "analysis": "Bitcoin is breaking down below the Value Area Low at $84,050, driven by aggressive spot market net selling outpacing derivatives flow. The heavy negative spot CVD divergence confirms organic sell-side volume pushing price out of value with strong short-term bearish conviction.",
+  "key_risk": "Re-acceptance back inside the Value Area above $84,050 triggering a short squeeze toward the $84,150 POC."
+}
