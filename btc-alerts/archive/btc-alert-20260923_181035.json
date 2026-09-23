@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-23T18:10:35.574648+00:00",
+  "price": 84277.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -19.2157,
+  "perp_cvd": 70.55,
+  "divergence": -89.7657,
+  "poc": 84000.0,
+  "vah": 84200.0,
+  "val": 83700.0,
+  "analysis": "Price has broken above VAH driven entirely by aggressive perpetual swap buying while spot CVD remains negative. This strong divergence indicates weak institutional spot participation and leaves the current breakout highly vulnerable to a leverage exhaustion flush back into the value area.",
+  "key_risk": "Unwinding of over-leveraged perpetual long positions if price fails to hold above VAH (84,200) without spot market confirmation."
+}
