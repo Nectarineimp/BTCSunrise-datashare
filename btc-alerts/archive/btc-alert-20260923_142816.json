@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-23T14:28:16.205696+00:00",
+  "price": 84203.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -128.4662,
+  "perp_cvd": 134.276,
+  "divergence": -262.7422,
+  "poc": 85750.0,
+  "vah": 85900.0,
+  "val": 85400.0,
+  "analysis": "Spot selling continues to push price significantly below the Value Area Low while derivative traders aggressively build leveraged longs. This sharp negative CVD divergence leaves overextended perp buyers highly vulnerable to cascading downside liquidations.",
+  "key_risk": "Leveraged long liquidation cascade if spot dumping persists below the 85,400 VAL acceptance level."
+}
