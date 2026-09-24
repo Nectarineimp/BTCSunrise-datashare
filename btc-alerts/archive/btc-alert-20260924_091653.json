@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-24T09:16:53.615889+00:00",
+  "price": 83384.25,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 87.5134,
+  "perp_cvd": -1186.894,
+  "divergence": 1274.4074,
+  "poc": 84500.0,
+  "vah": 84600.0,
+  "val": 83550.0,
+  "analysis": "Aggressive perpetual swap shorting has driven price below Value Area Low while spot CVD remains positive, establishing a sharp bullish CVD divergence. Persistent spot absorption at these lower levels leaves overleveraged shorts vulnerable to a squeeze back toward the 84,500 POC.",
+  "key_risk": "Spot absorption fatigue leading to downside value acceptance below 83,550 VAL."
+}
