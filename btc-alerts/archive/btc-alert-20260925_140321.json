@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-25T14:03:21.619663+00:00",
+  "price": 83869.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -19.3339,
+  "perp_cvd": -48.232,
+  "divergence": 28.8981,
+  "poc": 84400.0,
+  "vah": 84600.0,
+  "val": 84150.0,
+  "analysis": "Aggressive derivative selling has pushed price below the Value Area Low of $84,150, driven primarily by perpetual futures positioning. While both spot and perp CVD are negative, perp volume dominance indicates elevated risk of short-side overextension.",
+  "key_risk": "V-shaped short squeeze upon re-entry into the Value Area above $84,150."
+}
