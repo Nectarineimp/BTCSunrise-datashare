@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-29T15:00:17.355864+00:00",
+  "price": 83788.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -21.1443,
+  "perp_cvd": -79.028,
+  "divergence": 57.8837,
+  "poc": 83900.0,
+  "vah": 84200.0,
+  "val": 83750.0,
+  "analysis": "Price has breached below the Value Area Low driven predominantly by aggressive perpetual swap selling relative to spot outflows. The heavy leverage imbalance creates downside momentum but elevates the risk of short exhaustion and a mean-reverting squeeze back into value.",
+  "key_risk": "Short-squeeze risk on a reclaim of the Value Area Low at 83,750 USD."
+}
