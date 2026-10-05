@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-05T23:05:42.516963+00:00",
+  "price": 86062.78,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 93.5838,
+  "perp_cvd": -54.593,
+  "divergence": 148.1768,
+  "poc": 85900.0,
+  "vah": 86000.0,
+  "val": 85850.0,
+  "analysis": "Spot buying is driving price above the Value Area High at 86,000 while absorbing aggressive perpetual short positioning. Strong positive CVD divergence confirms organic demand supporting higher prices above the value area.",
+  "key_risk": "Failure to maintain acceptance above 86,000 VAH risking a mean-reversion sweep down to POC at 85,900."
+}
