@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-07T14:27:24.221834+00:00",
+  "price": 83056.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -62.5479,
+  "perp_cvd": -371.676,
+  "divergence": 309.1281,
+  "poc": 83300.0,
+  "vah": 83500.0,
+  "val": 83050.0,
+  "analysis": "Aggressive derivative selling is driving price slightly below Value Area Low at 83,050 while spot CVD exhibits passive absorption. This significant CVD divergence leaves overcrowded perp short positions vulnerable to a rapid squeeze back toward the 83,300 Point of Control.",
+  "key_risk": "Structural acceptance and sustained volume below Value Area Low (83,050) invalidating spot absorption."
+}
