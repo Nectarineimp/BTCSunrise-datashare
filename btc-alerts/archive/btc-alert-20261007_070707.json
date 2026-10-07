@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-07T07:07:07.554723+00:00",
+  "price": 84176.0,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": -148.6836,
+  "perp_cvd": -98.589,
+  "divergence": -50.0946,
+  "poc": 84250.0,
+  "vah": 84300.0,
+  "val": 84150.0,
+  "analysis": "Spot CVD is heavily negative and outstripping perpetual selling delta, confirming organic spot distribution driving the breakdown below the Value Area Low at 84150.0. Market bias remains directional and bearish while price continues to trade outside the value area with aligned spot and perp selling flow.",
+  "key_risk": "Reclaim and acceptance back inside the Value Area Low (84150.0), which would signal seller exhaustion and trigger a mean-reversion squeeze toward the POC at 84250.0."
+}
