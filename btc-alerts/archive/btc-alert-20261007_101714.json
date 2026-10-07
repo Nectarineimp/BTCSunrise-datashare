@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-07T10:17:14.106781+00:00",
+  "price": 83500.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -121.7164,
+  "perp_cvd": -745.167,
+  "divergence": 623.4506,
+  "poc": 83750.0,
+  "vah": 83900.0,
+  "val": 83550.0,
+  "analysis": "Price has broken below the Value Area Low driven primarily by aggressive perpetual market selling rather than spot distribution. The significant divergence between heavy perp CVD selling and muted spot CVD suggests potential late-short leverage positioning vulnerable to a mean-reversion squeeze back into the value area.",
+  "key_risk": "Short squeeze risk above VAL (83,550) triggered by aggressive perpetual positioning failing to attract spot sell-side volume."
+}
