@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-07T09:47:13.179382+00:00",
+  "price": 83698.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -25.2863,
+  "perp_cvd": -262.39,
+  "divergence": 237.1037,
+  "poc": 83750.0,
+  "vah": 84000.0,
+  "val": 83700.0,
+  "analysis": "Aggressive derivative selling has pushed price below the Value Area Low while spot CVD remains relatively passive. This derivative-dominated move lacks spot volume confirmation, raising the risk of short exhaustion and a sharp squeeze back into the value area.",
+  "key_risk": "Cascade of perp short covering if price reclaims VAL at 83,700."
+}
