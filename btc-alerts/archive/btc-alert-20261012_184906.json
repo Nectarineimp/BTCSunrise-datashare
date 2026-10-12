@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-12T18:49:06.383633+00:00",
+  "price": 82293.5,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -54.0387,
+  "perp_cvd": -335.936,
+  "divergence": 281.8973,
+  "poc": 82450.0,
+  "vah": 82550.0,
+  "val": 82350.0,
+  "analysis": "Price has broken below the Value Area Low driven primarily by aggressive perpetual market selling rather than spot distribution. The significant volume imbalance and elevated perp CVD delta create heightened risk of downside exhaustion or a rapid short squeeze.",
+  "key_risk": "Perpetual short positioning overcrowding leading to a mean-reversion short squeeze back into the Value Area."
+}
