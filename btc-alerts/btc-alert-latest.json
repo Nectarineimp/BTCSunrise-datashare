@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-12T14:10:06.173292+00:00",
-  "price": 82982.1,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 122.7158,
-  "perp_cvd": 87.057,
-  "divergence": 35.6588,
+  "timestamp": "2026-10-12T14:15:06.639720+00:00",
+  "price": 82870.3,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 180.2265,
+  "perp_cvd": 266.733,
+  "divergence": -86.5065,
   "poc": 82500.0,
-  "vah": 82850.0,
+  "vah": 82950.0,
   "val": 82450.0,
-  "analysis": "Spot-driven buying is leading price above the Value Area High, indicating high-conviction demand rather than speculative leverage accumulation. Continued acceptance above $82,850 supports sustained upward expansion towards higher liquidity pools.",
-  "key_risk": "Breakdown back below VAH ($82,850) triggering a failed breakout sequence and rapid mean-reversion toward POC ($82,500)."
+  "analysis": "Price rotating inside Value Area near POC ($82,500.00). Spot CVD delta is positive (+180.23 BTC).",
+  "key_risk": "Range chop between VAL ($82,450.00) and VAH ($82,950.00)."
 }
