@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-12T13:56:38.099962+00:00",
-  "price": 82940.4,
+  "timestamp": "2026-10-12T14:00:03.311161+00:00",
+  "price": 82896.3,
   "regime": "Spot-Led Expansion",
-  "spot_cvd": 130.4232,
-  "perp_cvd": 86.946,
-  "divergence": 43.4772,
+  "spot_cvd": 123.4401,
+  "perp_cvd": 102.606,
+  "divergence": 20.8341,
   "poc": 82700.0,
   "vah": 82750.0,
   "val": 82500.0,
-  "analysis": "Price has expanded above the Value Area High driven primarily by net spot aggressive buying leading perpetual delta. This spot-driven demand signals genuine directional conviction and market acceptance outside the previous value area.",
-  "key_risk": "Acceptance failure back below VAH (82,750) triggering a mean-reversion back toward the Point of Control (82,700)."
+  "analysis": "Bitcoin is breaking out above the Value Area High at 82,750 backed by positive spot CVD delta leading derivative flows. Genuine spot demand outside the value area signals bullish expansion conviction while price maintains acceptance above VAH.",
+  "key_risk": "Acceptance back inside the Value Area below 82,750 triggering a failed auction and mean reversion toward POC at 82,700."
 }
