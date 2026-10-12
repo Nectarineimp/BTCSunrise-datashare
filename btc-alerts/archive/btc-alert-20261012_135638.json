@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-12T13:56:38.099962+00:00",
+  "price": 82940.4,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 130.4232,
+  "perp_cvd": 86.946,
+  "divergence": 43.4772,
+  "poc": 82700.0,
+  "vah": 82750.0,
+  "val": 82500.0,
+  "analysis": "Price has expanded above the Value Area High driven primarily by net spot aggressive buying leading perpetual delta. This spot-driven demand signals genuine directional conviction and market acceptance outside the previous value area.",
+  "key_risk": "Acceptance failure back below VAH (82,750) triggering a mean-reversion back toward the Point of Control (82,700)."
+}
