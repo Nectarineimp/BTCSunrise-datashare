@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-12T20:34:19.600515+00:00",
+  "price": 83054.64,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 84.0507,
+  "perp_cvd": 482.195,
+  "divergence": -398.1443,
+  "poc": 83000.0,
+  "vah": 83050.0,
+  "val": 82800.0,
+  "analysis": "Price has pushed marginally above the Value Area High at 83,050, driven predominantly by speculative futures buying rather than organic spot demand. The massive negative CVD divergence indicates a fragile, leverage-fueled expansion that faces heightened reversal risk if spot volume remains passive.",
+  "key_risk": "Long liquidation cascade and mean-reversion back into the Value Area below 83,050 VAH toward the 83,000 POC."
+}
