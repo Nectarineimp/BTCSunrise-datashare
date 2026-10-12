@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-12T22:59:20.197521+00:00",
+  "price": 82268.68,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -24.1175,
+  "perp_cvd": -168.017,
+  "divergence": 143.8996,
+  "poc": 82550.0,
+  "vah": 82750.0,
+  "val": 82500.0,
+  "analysis": "Aggressive perpetual selling has pushed price below Value Area Low while spot CVD delta remains relatively flat. This pronounced delta divergence indicates derivative-led breakdown risk with high potential for a short squeeze if spot fails to confirm the move.",
+  "key_risk": "Cascading perpetual short liquidations forcing a sharp reclaim of Value Area Low at 82,500."
+}
