@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-12T20:04:09.596613+00:00",
+  "price": 82915.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 114.1097,
+  "perp_cvd": 972.433,
+  "divergence": -858.3234,
+  "poc": 82350.0,
+  "vah": 82750.0,
+  "val": 82300.0,
+  "analysis": "Price has pushed above VAH but the move is disproportionately driven by perpetual leverage rather than spot accumulation. With spot CVD showing negligible buying compared to aggressive perp CVD, the expansion lacks structural spot backing and risks an abrupt unwind.",
+  "key_risk": "Leveraged long liquidation cascade if spot buyers fail to absorb selling pressure above VAH at 82750.0."
+}
