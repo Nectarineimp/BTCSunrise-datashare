@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-12T13:44:57.544277+00:00",
-  "price": 82722.01,
-  "regime": "Absorption at Resistance",
-  "spot_cvd": 114.0317,
-  "perp_cvd": -188.911,
-  "divergence": 302.9427,
+  "timestamp": "2026-10-12T13:49:57.565196+00:00",
+  "price": 82725.1,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 105.1258,
+  "perp_cvd": -129.87,
+  "divergence": 234.9958,
   "poc": 82700.0,
   "vah": 82750.0,
-  "val": 82450.0,
-  "analysis": "Positive spot CVD (+107.85 BTC) is absorbing aggressive perpetual shorting (-179.31 BTC) directly at the Value Area High of 82,750. Sustained spot buying above VAH establishes a bullish expansion bias, while a breakdown back inside value risks a rapid reversion to POC.",
-  "key_risk": "Exhaustion of spot passive absorption at VAH (82,750) triggering mean-reversion down to POC (82,700)."
+  "val": 82500.0,
+  "analysis": "Price rotating inside Value Area near POC ($82,700.00). Spot CVD delta is positive (+105.13 BTC).",
+  "key_risk": "Range chop between VAL ($82,500.00) and VAH ($82,750.00)."
 }
