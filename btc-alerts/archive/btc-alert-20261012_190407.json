@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-12T19:04:07.710271+00:00",
+  "price": 82522.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -28.4733,
+  "perp_cvd": -208.725,
+  "divergence": 180.2517,
+  "poc": 82300.0,
+  "vah": 82500.0,
+  "val": 82300.0,
+  "analysis": "Price has accepted above the Value Area High of 82,500 despite heavy net market order selling, driven primarily by aggressive perpetual short positioning. This structural divergence indicates strong passive buyer absorption, positioning the market for an upside short squeeze if VAH holds as support.",
+  "key_risk": "Failure of passive buyers to defend 82,500 VAH leading to a rapid mean-reversion move toward the 82,300 POC."
+}
