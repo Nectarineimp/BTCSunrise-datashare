@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-12T23:34:21.070888+00:00",
+  "price": 81896.58,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -61.7257,
+  "perp_cvd": -2134.472,
+  "divergence": 2072.7463,
+  "poc": 81950.0,
+  "vah": 82250.0,
+  "val": 81850.0,
+  "analysis": "Aggressive perpetual market selling is driving price action below the Value Area Low while spot CVD remains relatively passive. This derivative-heavy imbalance without spot confirmation increases the likelihood of a short-side leverage exhaustion squeeze.",
+  "key_risk": "Cascade of perp short squeezes back into the Value Area above 81,850."
+}
