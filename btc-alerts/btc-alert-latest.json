@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-12T12:09:54.263148+00:00",
-  "price": 83307.38,
+  "timestamp": "2026-10-12T12:14:54.495723+00:00",
+  "price": 83371.65,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 2.1156,
-  "perp_cvd": -29.013,
-  "divergence": 31.1286,
+  "spot_cvd": 26.9318,
+  "perp_cvd": 1.215,
+  "divergence": 25.7168,
   "poc": 83250.0,
   "vah": 83350.0,
   "val": 83250.0,
-  "analysis": "Aggressive derivative-led selling is pushing price marginally below the Value Area Low, while spot order flow remains comparatively passive. This high perp-to-spot CVD divergence signals short-side overextension that risks a squeeze back into the profile value area if absorption holds.",
-  "key_risk": "Spot absorption of aggressive perp shorts near VAL triggering a rapid short squeeze back toward POC."
+  "analysis": "Price testing liquidity above VAH at $83,371.65. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($83,250.00)."
 }
