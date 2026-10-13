@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-13T01:34:35.934045+00:00",
-  "price": 81686.7,
+  "timestamp": "2026-10-13T01:39:35.935887+00:00",
+  "price": 82149.25,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 32.7091,
-  "perp_cvd": 52.935,
-  "divergence": -20.2259,
-  "poc": 81500.0,
+  "spot_cvd": 43.9356,
+  "perp_cvd": 286.309,
+  "divergence": -242.3734,
+  "poc": 81400.0,
   "vah": 81600.0,
-  "val": 81200.0,
-  "analysis": "Price is attempting an expansion above the Value Area High (81,600), but the move is heavily over-indexed on perpetual volume with spot delta lagging behind. Without aggressive spot absorption to validate the breakout, the current price action remains vulnerable to a sharp leverage-driven exhaustion pullback.",
-  "key_risk": "Loss of acceptance above VAH (81,600) triggering a cascading long liquidation back toward the POC at 81,500."
+  "val": 81150.0,
+  "analysis": "Price testing liquidity above VAH at $82,149.25. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,400.00)."
 }
