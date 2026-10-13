@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-13T02:59:38.336783+00:00",
+  "price": 82944.5,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 90.1175,
+  "perp_cvd": 350.51,
+  "divergence": -260.3925,
+  "poc": 82700.0,
+  "vah": 82900.0,
+  "val": 82550.0,
+  "analysis": "Price has pushed above VAH driven primarily by aggressive perpetual leverage rather than organic spot absorption. Without spot volume confirmation, the rally is vulnerable to a sharp long liquidation cascade back into value.",
+  "key_risk": "Muted spot participation causing failure above VAH (82,900.0) and re-entry into the Value Area."
+}
