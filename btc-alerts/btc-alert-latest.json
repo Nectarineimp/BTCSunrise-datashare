@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-13T12:10:24.295863+00:00",
-  "price": 83304.4,
-  "regime": "Absorption at Resistance",
-  "spot_cvd": -1.1384,
-  "perp_cvd": -52.419,
-  "divergence": 51.2806,
-  "poc": 83300.0,
+  "timestamp": "2026-10-13T12:15:24.626797+00:00",
+  "price": 83260.4,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 1.2089,
+  "perp_cvd": -77.981,
+  "divergence": 79.1899,
+  "poc": 83250.0,
   "vah": 83350.0,
   "val": 83250.0,
-  "analysis": "Aggressive perpetual selling is being passively absorbed directly at the Value Area High of $83,350. Without spot market buyers stepping in to drive price expansion, the structure remains susceptible to a pullback into the value area.",
-  "key_risk": "Exhaustion of passive buying liquidity at $83,350 triggering a mean-reversion move toward the POC at $83,300."
+  "analysis": "Price rotating inside Value Area near POC ($83,250.00). Spot CVD delta is positive (+1.21 BTC).",
+  "key_risk": "Range chop between VAL ($83,250.00) and VAH ($83,350.00)."
 }
