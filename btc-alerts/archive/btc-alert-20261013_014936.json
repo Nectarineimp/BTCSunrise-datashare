@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-13T01:49:36.408303+00:00",
+  "price": 82143.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 40.8253,
+  "perp_cvd": 326.282,
+  "divergence": -285.4567,
+  "poc": 81500.0,
+  "vah": 81750.0,
+  "val": 81000.0,
+  "analysis": "Price has extended above VAH driven overwhelmingly by perpetual swap leverage while spot CVD participation remains negligible. This severe volume and CVD divergence indicates an unsustainable leverage expansion vulnerable to a sharp mean-reversion move.",
+  "key_risk": "Perpetual long liquidation cascade triggering a rapid re-entry into the Value Area below VAH (81,750.0)."
+}
