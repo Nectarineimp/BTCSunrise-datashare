@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-13T02:09:36.482210+00:00",
+  "price": 82467.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 63.7149,
+  "perp_cvd": 492.543,
+  "divergence": -428.8281,
+  "poc": 82300.0,
+  "vah": 82500.0,
+  "val": 82000.0,
+  "analysis": "Price has marginally accepted above VAH at 82,500, but the move is overwhelmingly driven by derivative aggressive buying rather than spot demand. Without spot CVD confirmation, this perp-led expansion carries a heightened risk of long liquidation and rapid mean-reversion into the value area.",
+  "key_risk": "Perp buyer exhaustion triggering a failure and reentry back below VAH (82,500)."
+}

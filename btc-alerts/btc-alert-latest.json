@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-13T02:04:36.411305+00:00",
-  "price": 82421.71,
-  "regime": "Mean Reverting / Consolidation",
-  "spot_cvd": 56.3167,
-  "perp_cvd": 652.614,
-  "divergence": -596.2973,
+  "timestamp": "2026-10-13T02:09:36.482210+00:00",
+  "price": 82467.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 63.7149,
+  "perp_cvd": 492.543,
+  "divergence": -428.8281,
   "poc": 82300.0,
-  "vah": 82450.0,
-  "val": 81950.0,
-  "analysis": "Price rotating inside Value Area near POC ($82,300.00). Spot CVD delta is positive (+56.32 BTC).",
-  "key_risk": "Range chop between VAL ($81,950.00) and VAH ($82,450.00)."
+  "vah": 82500.0,
+  "val": 82000.0,
+  "analysis": "Price has marginally accepted above VAH at 82,500, but the move is overwhelmingly driven by derivative aggressive buying rather than spot demand. Without spot CVD confirmation, this perp-led expansion carries a heightened risk of long liquidation and rapid mean-reversion into the value area.",
+  "key_risk": "Perp buyer exhaustion triggering a failure and reentry back below VAH (82,500)."
 }
