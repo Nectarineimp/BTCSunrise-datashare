@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-13T02:24:36.503812+00:00",
+  "price": 82820.02,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 75.9983,
+  "perp_cvd": 468.21,
+  "divergence": -392.2117,
+  "poc": 82300.0,
+  "vah": 82550.0,
+  "val": 81950.0,
+  "analysis": "Price has expanded above VAH at 82550, but order flow shows the rally is heavily driven by perpetual leverage rather than spot demand. Without spot CVD confirmation, this extension above the value area carries elevated risk of a long liquidation cascade.",
+  "key_risk": "Perp-led leverage divergence leaving the breakout vulnerable to sharp mean-reversion back into the Value Area."
+}
