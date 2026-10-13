@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-13T00:44:30.560924+00:00",
+  "price": 81229.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 2.0118,
+  "perp_cvd": -559.046,
+  "divergence": 561.0578,
+  "poc": 81800.0,
+  "vah": 81950.0,
+  "val": 81500.0,
+  "analysis": "Heavy derivative selling is pushing price below Value Area Low while spot CVD remains flat, highlighting leverage-driven downside pressure. The large divergence between spot and perp order flow increases short-squeeze risk if price reclaims 81,500.",
+  "key_risk": "Failure to reclaim Value Area Low at 81,500 allowing perp-driven momentum to push price deeper into illiquid downside territory."
+}
