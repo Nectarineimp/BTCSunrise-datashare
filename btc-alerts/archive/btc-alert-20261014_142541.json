@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-14T14:25:41.438076+00:00",
+  "price": 81967.2,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": -67.705,
+  "perp_cvd": 3.456,
+  "divergence": -71.161,
+  "poc": 82800.0,
+  "vah": 83050.0,
+  "val": 82400.0,
+  "analysis": "Aggressive spot distribution has pushed price below the Value Area Low ($82,400), confirming strong downside directional conviction driven by physical supply. Perpetual traders attempting to absorb the sell-off present clear liquidation risk if spot selling persists.",
+  "key_risk": "Cascade of long liquidations in perpetual markets if price remains accepted below $82,400."
+}
