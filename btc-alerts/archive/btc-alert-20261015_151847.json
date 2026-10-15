@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-15T15:18:47.591008+00:00",
+  "price": 81858.5,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 6.4739,
+  "perp_cvd": 837.057,
+  "divergence": -830.5831,
+  "poc": 81800.0,
+  "vah": 81900.0,
+  "val": 81100.0,
+  "analysis": "Price is probing above VAH driven almost exclusively by perpetual aggressive market orders while spot bid flow remains virtually absent. The severe spot-perp CVD divergence and overwhelming perp volume dominance signal high vulnerability to order flow exhaustion and a violent return to the Value Area.",
+  "key_risk": "Unwinding of over-leveraged perp long positions triggering a sharp rejection back below VAH (81,900.0)."
+}
