@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-15T14:33:47.482610+00:00",
+  "price": 80910.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 19.6064,
+  "perp_cvd": -210.218,
+  "divergence": 229.8244,
+  "poc": 80100.0,
+  "vah": 80500.0,
+  "val": 80050.0,
+  "analysis": "Price has pushed above VAH at 80,500 despite heavy perpetual short delta, indicating passive absorption and a leverage short squeeze. Sustained expansion requires genuine spot bid follow-through to prevent momentum exhaustion and mean reversion.",
+  "key_risk": "Loss of acceptance above VAH (80,500) triggering a sharp mean-reversion move toward the POC at 80,100."
+}
