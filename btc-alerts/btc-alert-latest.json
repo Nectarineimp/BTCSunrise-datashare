@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-15T18:44:06.926294+00:00",
-  "price": 82314.88,
-  "regime": "Absorption at Resistance",
-  "spot_cvd": -184.3342,
-  "perp_cvd": -50.064,
-  "divergence": -134.2702,
+  "timestamp": "2026-10-15T18:49:08.376457+00:00",
+  "price": 82355.92,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -179.1543,
+  "perp_cvd": -69.269,
+  "divergence": -109.8853,
   "poc": 82250.0,
   "vah": 82300.0,
   "val": 82050.0,
-  "analysis": "Aggressive spot and perp CVD deltas are negative while price hovers at VAH, indicating passive liquidity absorbing market sell flow at value resistance. The absence of spot buying conviction makes the breakout vulnerable to rejection and subsequent mean-reversion.",
-  "key_risk": "Breakout failure above VAH (82300) triggering aggressive unwinding toward POC (82250)."
+  "analysis": "Price testing liquidity above VAH at $82,355.92. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($82,250.00)."
 }
