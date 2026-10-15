@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-15T16:18:47.793128+00:00",
+  "price": 82496.0,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": -64.06,
+  "perp_cvd": -192.183,
+  "divergence": 128.123,
+  "poc": 82350.0,
+  "vah": 82450.0,
+  "val": 82200.0,
+  "analysis": "Price is testing VAH at 82,450 despite negative spot and perp CVD deltas, indicating passive limit order absorption of aggressive sell flow at high value levels. With perpetual swaps driving the majority of volume, lack of spot market buying conviction leaves the current breakout probe vulnerable to exhaustion.",
+  "key_risk": "Failure to maintain acceptance above VAH due to spot volume weakness, risking a rapid mean-reversion move toward the POC at 82,350."
+}
