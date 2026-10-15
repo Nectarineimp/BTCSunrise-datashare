@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-15T12:38:47.082912+00:00",
-  "price": 80798.4,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "timestamp": "2026-10-15T12:43:47.081911+00:00",
+  "price": 80807.4,
+  "regime": "Mean Reverting / Consolidation",
   "spot_cvd": -157.9427,
-  "perp_cvd": -347.396,
-  "divergence": 189.4533,
+  "perp_cvd": -434.514,
+  "divergence": 276.5713,
   "poc": 80850.0,
   "vah": 81100.0,
   "val": 80800.0,
-  "analysis": "Price is testing acceptance below VAL (80,800) driven predominantly by aggressive perpetual shorting rather than spot distribution. The significant volume imbalance and perp-dominated negative CVD indicate elevated risk of a short-side leverage squeeze if spot absorption holds near current levels.",
-  "key_risk": "Perpetual short overcrowding below VAL leading to a sharp short squeeze if spot bids absorb sell pressure."
+  "analysis": "Price rotating inside Value Area near POC ($80,850.00). Spot CVD delta is negative (-157.94 BTC).",
+  "key_risk": "Range chop between VAL ($80,800.00) and VAH ($81,100.00)."
 }
