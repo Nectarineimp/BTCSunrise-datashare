@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-15T12:48:47.109539+00:00",
+  "price": 80780.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -175.8479,
+  "perp_cvd": -443.015,
+  "divergence": 267.1671,
+  "poc": 80850.0,
+  "vah": 81100.0,
+  "val": 80800.0,
+  "analysis": "Perpetual aggressive selling is outstripping spot delta as price trades marginally below the Value Area Low at 80,800. This leverage-heavy displacement without strong spot participation signals potential short exhaustion or a mean-reversion squeeze back into the value area.",
+  "key_risk": "Accelerating spot market selling confirming acceptance below Value Area Low."
+}
