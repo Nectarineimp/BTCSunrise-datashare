@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-15T03:35:02.465018+00:00",
-  "price": 80950.17,
-  "regime": "Consolidation",
-  "spot_cvd": -0.0307,
-  "perp_cvd": 0.0,
-  "divergence": -0.0307,
-  "poc": 80950.0,
-  "vah": 81000.0,
-  "val": 80950.0,
-  "analysis": "",
-  "key_risk": ""
+  "timestamp": "2026-10-15T03:40:02.561782+00:00",
+  "price": 80870.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -20.1774,
+  "perp_cvd": -40.82,
+  "divergence": 20.6426,
+  "poc": 80850.0,
+  "vah": 80950.0,
+  "val": 80850.0,
+  "analysis": "Price has broken below the Value Area Low driven primarily by aggressive perpetual swap short-selling rather than spot distribution. The strong perp volume dominance alongside moderate spot CVD delta indicates potential downside leverage exhaustion near key intraday lows.",
+  "key_risk": "V-shaped short squeeze triggered by passive spot absorption below 80,850."
 }
