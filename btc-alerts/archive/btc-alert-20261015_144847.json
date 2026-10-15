@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-15T14:48:47.543420+00:00",
+  "price": 81202.2,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 39.5133,
+  "perp_cvd": 119.211,
+  "divergence": -79.6977,
+  "poc": 80100.0,
+  "vah": 80700.0,
+  "val": 80050.0,
+  "analysis": "Price has broken out above VAH at 80,700, but the move is disproportionately driven by derivative leverage rather than organic spot buying. This structural divergence leaves the current expansion vulnerable to a leverage-driven unwind back into the value area.",
+  "key_risk": "Leverage exhaustion and long liquidation cascade dragging price back below VAH."
+}
