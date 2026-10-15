@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-15T18:59:08.520113+00:00",
-  "price": 82337.6,
+  "timestamp": "2026-10-15T19:04:08.856613+00:00",
+  "price": 82464.8,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -162.9919,
-  "perp_cvd": -15.67,
-  "divergence": -147.3219,
+  "spot_cvd": -135.3028,
+  "perp_cvd": 111.125,
+  "divergence": -246.4278,
   "poc": 82250.0,
   "vah": 82300.0,
   "val": 82050.0,
-  "analysis": "Bitcoin has broken above VAH at 82,300 driven primarily by derivative volume, but severe negative spot CVD (-156.3 BTC) signals underlying spot distribution. This pronounced spot-perp divergence leaves the breakout vulnerable to an abrupt mean-reversion back into the value area if perp buying momentum wanes.",
-  "key_risk": "Loss of VAH acceptance (82,300) triggering a long-squeeze down to POC at 82,250."
+  "analysis": "Price testing liquidity above VAH at $82,464.80. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($82,250.00)."
 }
