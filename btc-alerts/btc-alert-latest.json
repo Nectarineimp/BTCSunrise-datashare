@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-15T18:24:06.125955+00:00",
-  "price": 82053.8,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -202.0948,
-  "perp_cvd": -283.104,
-  "divergence": 81.0092,
-  "poc": 82350.0,
-  "vah": 82500.0,
-  "val": 82150.0,
-  "analysis": "Price has broken below Value Area Low driven primarily by heavy aggressive perpetual derivative selling. Strong derivative volume dominance relative to spot highlights elevated exhaustion and short-squeeze risk if acceptance below 82,150 fails.",
-  "key_risk": "Aggressive perp short-crowding below Value Area Low triggering a sudden leverage squeeze back into the value area."
+  "timestamp": "2026-10-15T18:29:06.141425+00:00",
+  "price": 82217.84,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": -197.2783,
+  "perp_cvd": -110.301,
+  "divergence": -86.9773,
+  "poc": 82050.0,
+  "vah": 82350.0,
+  "val": 82050.0,
+  "analysis": "Price rotating inside Value Area near POC ($82,050.00). Spot CVD delta is negative (-197.28 BTC).",
+  "key_risk": "Range chop between VAL ($82,050.00) and VAH ($82,350.00)."
 }
