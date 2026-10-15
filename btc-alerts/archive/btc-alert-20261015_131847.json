@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-15T13:18:47.245113+00:00",
+  "price": 80400.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -91.7065,
+  "perp_cvd": -353.829,
+  "divergence": 262.1225,
+  "poc": 80800.0,
+  "vah": 81050.0,
+  "val": 80750.0,
+  "analysis": "Bitcoin has broken below the Value Area Low at $80,750, driven by aggressive derivative short-selling rather than spot market distribution. The heavy perpetual volume dominance over spot increases the probability of a violent short squeeze if spot buyers absorb this forced selling.",
+  "key_risk": "Derivative short over-extension below VAL without spot follow-through, risking a sharp mean-reversion move into the Value Area."
+}
