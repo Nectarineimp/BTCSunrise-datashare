@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-15T20:59:18.187798+00:00",
+  "price": 82019.8,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": -175.3366,
+  "perp_cvd": 5.541,
+  "divergence": -180.8776,
+  "poc": 82350.0,
+  "vah": 82450.0,
+  "val": 82150.0,
+  "analysis": "Aggressive spot market selling has pushed price below the Value Area Low of 82,200 with severe negative spot CVD delta. Divergent perpetual buying into this decline indicates leveraged traders are catching a falling knife, establishing a clear downside bias.",
+  "key_risk": "Cascade of trapped perpetual long liquidations accelerating losses below 82,000."
+}
