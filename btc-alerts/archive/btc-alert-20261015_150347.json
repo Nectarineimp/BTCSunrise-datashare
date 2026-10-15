@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-15T15:03:47.589942+00:00",
+  "price": 81572.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 21.5174,
+  "perp_cvd": 680.402,
+  "divergence": -658.8846,
+  "poc": 80100.0,
+  "vah": 81200.0,
+  "val": 80050.0,
+  "analysis": "Price has expanded above the Value Area High driven overwhelmingly by derivative leverage, with perpetual CVD heavily outstripping spot accumulation. This structural divergence leaves the breakout highly vulnerable to a long liquidation cascade and mean-reversion back into the value area.",
+  "key_risk": "Leverage unwind triggering price failure below VAH (81,200.0)"
+}
