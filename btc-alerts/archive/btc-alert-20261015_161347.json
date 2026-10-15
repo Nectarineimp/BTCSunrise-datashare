@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-15T16:13:47.777481+00:00",
+  "price": 82402.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -54.5546,
+  "perp_cvd": -270.855,
+  "divergence": 216.3004,
+  "poc": 82400.0,
+  "vah": 82450.0,
+  "val": 82150.0,
+  "analysis": "Bitcoin trades slightly above VAH despite aggressive negative CVD across spot and derivatives, indicating passive absorption of market sell orders. Without supporting spot-led buying momentum, the breakout lacks organic conviction and risks rapid exhaustion.",
+  "key_risk": "Acceptance back inside VAH (82450.0) triggering a swift mean-reversion back to the POC (82400.0)."
+}
