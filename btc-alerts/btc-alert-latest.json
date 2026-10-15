@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-15T16:38:51.490007+00:00",
-  "price": 82086.15,
+  "timestamp": "2026-10-15T16:43:52.066375+00:00",
+  "price": 82030.3,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -43.4793,
-  "perp_cvd": -417.483,
-  "divergence": 374.0038,
-  "poc": 82400.0,
-  "vah": 82500.0,
-  "val": 82100.0,
-  "analysis": "Price has accepted below the Value Area Low driven predominantly by aggressive perpetual futures shorting, while spot delta shows minimal selling pressure. This heavy leverage imbalance creates strong potential for an exhaustion squeeze back into the value area if spot passive bids absorb the flow.",
-  "key_risk": "Perpetual short liquidation cascade upon reclaiming Value Area Low at 82,100."
+  "spot_cvd": -76.6682,
+  "perp_cvd": -555.603,
+  "divergence": 478.9348,
+  "poc": 82350.0,
+  "vah": 82450.0,
+  "val": 82050.0,
+  "analysis": "Price testing liquidity below VAL at $82,030.30. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($82,350.00)."
 }
