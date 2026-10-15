@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-15T21:24:27.279461+00:00",
+  "price": 82301.19,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -123.5974,
+  "perp_cvd": 56.565,
+  "divergence": -180.1624,
+  "poc": 82100.0,
+  "vah": 82250.0,
+  "val": 81900.0,
+  "analysis": "Price has expanded above VAH (82,250) driven entirely by perpetual futures buying while spot CVD actively diverges downward. This derivative-led push lacks spot volume support and faces severe risk of a mean-reverting long squeeze back into value.",
+  "key_risk": "Re-entry into the Value Area below 82,250 triggering a cascade of overextended perpetual long liquidations."
+}
