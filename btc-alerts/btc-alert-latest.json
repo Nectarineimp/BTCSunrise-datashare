@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-15T12:33:47.047487+00:00",
-  "price": 80626.3,
+  "timestamp": "2026-10-15T12:38:47.082912+00:00",
+  "price": 80798.4,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -158.9231,
-  "perp_cvd": -366.19,
-  "divergence": 207.2669,
-  "poc": 81000.0,
+  "spot_cvd": -157.9427,
+  "perp_cvd": -347.396,
+  "divergence": 189.4533,
+  "poc": 80850.0,
   "vah": 81100.0,
-  "val": 80850.0,
-  "analysis": "Price testing liquidity below VAL at $80,626.30. Delta volume lacks high-conviction institutional participation.",
-  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,000.00)."
+  "val": 80800.0,
+  "analysis": "Price is testing acceptance below VAL (80,800) driven predominantly by aggressive perpetual shorting rather than spot distribution. The significant volume imbalance and perp-dominated negative CVD indicate elevated risk of a short-side leverage squeeze if spot absorption holds near current levels.",
+  "key_risk": "Perpetual short overcrowding below VAL leading to a sharp short squeeze if spot bids absorb sell pressure."
 }
