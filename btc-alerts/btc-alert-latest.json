@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-15T18:09:03.755138+00:00",
-  "price": 82249.5,
+  "timestamp": "2026-10-15T18:12:04.648934+00:00",
+  "price": 82216.3,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -110.958,
-  "perp_cvd": 188.994,
-  "divergence": -299.952,
+  "spot_cvd": -134.2742,
+  "perp_cvd": 144.013,
+  "divergence": -278.2872,
   "poc": 82350.0,
   "vah": 82500.0,
   "val": 82250.0,
-  "analysis": "Price trading below Value Area Low with positive perp CVD and negative spot CVD signals aggressive leverage longing into spot distribution. This structural divergence leaves leveraged buyers vulnerable to cascading liquidations if spot selling continues.",
-  "key_risk": "Cascading perp long liquidations triggered by sustained spot selling below VAL."
+  "analysis": "Price acceptance below VAL combined with persistent spot CVD distribution indicates structural weakness. Aggressive perp CVD buying into falling prices leaves leveraged longs vulnerable to a downward liquidation cascade.",
+  "key_risk": "Cascading liquidations from over-leveraged perp long positions trapped below VAL"
 }

@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-15T18:12:04.648934+00:00",
+  "price": 82216.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -134.2742,
+  "perp_cvd": 144.013,
+  "divergence": -278.2872,
+  "poc": 82350.0,
+  "vah": 82500.0,
+  "val": 82250.0,
+  "analysis": "Price acceptance below VAL combined with persistent spot CVD distribution indicates structural weakness. Aggressive perp CVD buying into falling prices leaves leveraged longs vulnerable to a downward liquidation cascade.",
+  "key_risk": "Cascading liquidations from over-leveraged perp long positions trapped below VAL"
+}
