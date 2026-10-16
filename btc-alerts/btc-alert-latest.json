@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-16T14:35:13.855805+00:00",
-  "price": 82402.62,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 30.0599,
-  "perp_cvd": 459.538,
-  "divergence": -429.4781,
-  "poc": 81900.0,
-  "vah": 82200.0,
-  "val": 81650.0,
-  "analysis": "Price has breakout acceptance above VAH driven almost exclusively by aggressive perpetual buyer flow, while spot CVD remains completely flat. This extreme divergence indicates a derivative-fueled rally that is highly vulnerable to exhaustion or a violent unwind back into the value area.",
-  "key_risk": "Lack of spot bid support risking a sudden long liquidation cascade if price dips back below VAH (82,200)."
+  "timestamp": "2026-10-16T14:40:13.867614+00:00",
+  "price": 82317.1,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 30.1313,
+  "perp_cvd": 438.071,
+  "divergence": -407.9397,
+  "poc": 82350.0,
+  "vah": 82450.0,
+  "val": 81900.0,
+  "analysis": "Price rotating inside Value Area near POC ($82,350.00). Spot CVD delta is positive (+30.13 BTC).",
+  "key_risk": "Range chop between VAL ($81,900.00) and VAH ($82,450.00)."
 }
