@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-16T10:50:00.685556+00:00",
-  "price": 82167.18,
-  "regime": "Absorption at Resistance",
-  "spot_cvd": 10.9098,
-  "perp_cvd": -198.143,
-  "divergence": 209.0528,
+  "timestamp": "2026-10-16T10:55:00.684324+00:00",
+  "price": 82212.84,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -12.4261,
+  "perp_cvd": -188.868,
+  "divergence": 176.4419,
   "poc": 81850.0,
   "vah": 82100.0,
   "val": 81800.0,
-  "analysis": "Price is holding above VAH despite heavy negative perp CVD, indicating strong passive absorption of aggressive derivative short flow above value. Modest positive spot CVD supports the expansion, creating short-squeeze potential if acceptance above 82,100 is maintained.",
-  "key_risk": "Loss of VAH acceptance at 82,100 triggering a rapid mean-reversion pull back toward the POC at 81,850."
+  "analysis": "Price testing liquidity above VAH at $82,212.84. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,850.00)."
 }
