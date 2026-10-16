@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T12:50:12.892258+00:00",
+  "price": 82099.61,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 9.075,
+  "perp_cvd": -66.994,
+  "divergence": 76.069,
+  "poc": 82250.0,
+  "vah": 82400.0,
+  "val": 82100.0,
+  "analysis": "Aggressive perpetual market selling has pushed price below the Value Area Low ($82,100), while positive spot CVD signals passive absorption of the sell flow. This pronounced derivative-driven CVD divergence creates a high risk of perp seller exhaustion and potential mean-reversion back into the value area.",
+  "key_risk": "Sustained perpetual selling overwhelming passive spot bids, driving price acceptance below the $82,100 VAL."
+}
