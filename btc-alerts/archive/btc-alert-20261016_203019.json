@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T20:30:19.836840+00:00",
+  "price": 81667.33,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 19.4529,
+  "perp_cvd": -25.587,
+  "divergence": 45.0399,
+  "poc": 81550.0,
+  "vah": 81650.0,
+  "val": 81400.0,
+  "analysis": "Spot buyers (+18.52 BTC delta) are actively absorbing perpetual futures short aggression (-23.09 BTC delta) as price breaks above the Value Area High. Institutional bias remains upwardly skewed provided spot demand continues to defend the 81,650 VAH level.",
+  "key_risk": "Spot absorption failure leading to acceptance back inside the Value Area below 81,650 VAH."
+}
