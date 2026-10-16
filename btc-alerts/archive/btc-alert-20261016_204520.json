@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T20:45:20.179490+00:00",
+  "price": 81642.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 47.6784,
+  "perp_cvd": 101.842,
+  "divergence": -54.1636,
+  "poc": 81600.0,
+  "vah": 81700.0,
+  "val": 81500.0,
+  "analysis": "Price is attempting a breakout above VAH driven heavily by perpetual futures delta rather than spot demand. The strong negative CVD divergence and elevated perp volume suggest leverage positioning that is vulnerable to a sharp mean-reversion if spot buyers fail to step in.",
+  "key_risk": "Liquidation cascade of over-leveraged long positions upon rejection back into the Value Area below 81,700."
+}

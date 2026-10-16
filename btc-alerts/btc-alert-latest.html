@@ -1,5 +1,5 @@
 <!-- BTC Alert Web Component -->
-<div class="btc-alert" data-timestamp="2026-10-16T20:40:20.041295+00:00">
+<div class="btc-alert" data-timestamp="2026-10-16T20:45:20.179490+00:00">
   <style>
     .btc-alert {
       --bg: #0d1117;
@@ -62,29 +62,29 @@
 
   <div class="btc-alert-header">
     <span>⚡ BTC ORDER FLOW BREAKOUT</span>
-    <span>81,700.00 USD</span>
+    <span>81,642.00 USD</span>
   </div>
 
   <div class="btc-alert-grid">
     <span class="btc-alert-label">Regime</span>
-    <span class="btc-alert-val">Mean Reverting / Consolidation</span>
+    <span class="btc-alert-val">Leverage Squeeze / Exhaustion Risk</span>
 
     <span class="btc-alert-label">Spot CVD (60m)</span>
-    <span class="btc-alert-val btc-pos">+60.03 BTC</span>
+    <span class="btc-alert-val btc-pos">+47.68 BTC</span>
 
     <span class="btc-alert-label">Perp CVD (60m)</span>
-    <span class="btc-alert-val btc-pos">+108.78 BTC</span>
+    <span class="btc-alert-val btc-pos">+101.84 BTC</span>
 
     <span class="btc-alert-label">Divergence</span>
-    <span class="btc-alert-val btc-neg">-48.75 BTC</span>
+    <span class="btc-alert-val btc-neg">-54.16 BTC</span>
 
     <span class="btc-alert-label">POC | VAH | VAL</span>
     <span class="btc-alert-val">81,600 | 81,700 | 81,500 USD</span>
   </div>
 
   <div class="btc-alert-body">
-    <strong>Analysis:</strong> Price rotating inside Value Area near POC ($81,600.00). Spot CVD delta is positive (+60.03 BTC).
+    <strong>Analysis:</strong> Price is attempting a breakout above VAH driven heavily by perpetual futures delta rather than spot demand. The strong negative CVD divergence and elevated perp volume suggest leverage positioning that is vulnerable to a sharp mean-reversion if spot buyers fail to step in.
   </div>
 
-  <div class="btc-alert-risk"><strong>Key Risk:</strong> Range chop between VAL ($81,500.00) and VAH ($81,700.00).</div>
+  <div class="btc-alert-risk"><strong>Key Risk:</strong> Liquidation cascade of over-leveraged long positions upon rejection back into the Value Area below 81,700.</div>
 </div>
