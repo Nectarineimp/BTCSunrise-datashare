@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T03:43:36.668596+00:00",
+  "price": 81721.17,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -53.8336,
+  "perp_cvd": -328.889,
+  "divergence": 275.0554,
+  "poc": 82000.0,
+  "vah": 82200.0,
+  "val": 81800.0,
+  "analysis": "Aggressive perpetual futures selling has pushed price below the Value Area Low while spot selling remains relatively muted. This leverage-driven expansion creates heightened vulnerability to a short exhaustion bounce back into value if spot absorption occurs.",
+  "key_risk": "Perpetual short exhaustion triggering a sharp mean-reversion squeeze above VAL (81,800)"
+}
