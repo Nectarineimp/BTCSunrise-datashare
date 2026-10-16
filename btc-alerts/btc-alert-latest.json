@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-16T12:05:05.290358+00:00",
-  "price": 82405.0,
+  "timestamp": "2026-10-16T12:10:05.326192+00:00",
+  "price": 82355.1,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 106.5419,
-  "perp_cvd": 302.184,
-  "divergence": -195.6421,
+  "spot_cvd": 85.7423,
+  "perp_cvd": 359.066,
+  "divergence": -273.3237,
   "poc": 82700.0,
   "vah": 82850.0,
   "val": 82550.0,
-  "analysis": "Price has accepted below Value Area Low at 82,550 despite strong perpetual buying delta, indicating aggressive derivative longs are getting absorbed by passive supply. The absence of spot market participation leaves these leveraged long positions vulnerable to a liquidation cascade.",
-  "key_risk": "Long liquidation cascade driven by trapped derivative positions below Value Area Low"
+  "analysis": "Price testing liquidity below VAL at $82,355.10. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($82,700.00)."
 }
