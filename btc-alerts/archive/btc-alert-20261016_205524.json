@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T20:55:24.669686+00:00",
+  "price": 81707.99,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 20.22,
+  "perp_cvd": -7.037,
+  "divergence": 27.257,
+  "poc": 81600.0,
+  "vah": 81700.0,
+  "val": 81550.0,
+  "analysis": "Spot absorption (+20.22 BTC CVD) is actively absorbing perpetual short positions and driving price acceptance above the Value Area High at 81,700. This spot-led divergence signals underlying structural demand, supporting bullish continuation as long as price consolidates outside the value area.",
+  "key_risk": "Failure to sustain acceptance above VAH (81,700) resulting in a rapid mean-reversion move back inside the value area toward POC (81,600)."
+}
