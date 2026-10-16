@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T13:45:13.036632+00:00",
+  "price": 81955.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 17.8695,
+  "perp_cvd": -40.658,
+  "divergence": 58.5275,
+  "poc": 81950.0,
+  "vah": 82100.0,
+  "val": 81900.0,
+  "analysis": "Aggressive perpetual swap selling has pushed price below the Value Area Low, yet positive spot CVD signals active spot absorption. A failure of perp shorts to force acceptance below 81,900 risks a mean-reversion squeeze back toward the POC at 81,950.",
+  "key_risk": "Sustained trading below 81,900 VAL leading to spot buyer capitulation and breakdown expansion."
+}
