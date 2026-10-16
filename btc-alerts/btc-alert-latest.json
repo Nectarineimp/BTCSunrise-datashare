@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-16T00:13:01.392408+00:00",
-  "price": 82348.3,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 89.198,
-  "perp_cvd": 54.486,
-  "divergence": 34.712,
+  "timestamp": "2026-10-16T00:18:01.464840+00:00",
+  "price": 82362.39,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 71.8685,
+  "perp_cvd": 70.773,
+  "divergence": 1.0956,
   "poc": 82250.0,
   "vah": 82350.0,
   "val": 82250.0,
-  "analysis": "Spot-driven delta accumulation is leading price expansion above Value Area High at 82,350 with organic spot volume outperforming derivative leverage accumulation. The current structure demonstrates genuine spot demand supporting price discovery outside the previous consolidation range.",
-  "key_risk": "Loss of VAH acceptance at 82,350 triggering a failed breakout rotation back down to POC at 82,250."
+  "analysis": "Price testing liquidity above VAH at $82,362.39. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($82,250.00)."
 }
