@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T23:55:38.019538+00:00",
+  "price": 81568.2,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -16.005,
+  "perp_cvd": -207.489,
+  "divergence": 191.484,
+  "poc": 81750.0,
+  "vah": 81800.0,
+  "val": 81600.0,
+  "analysis": "Aggressive perpetual contract selling has pushed price below the Value Area Low while spot volume remains relatively muted. This strong CVD divergence highlights overextended leverage and a heightened risk of short-side exhaustion if spot buyers absorb market sells.",
+  "key_risk": "Reclaim of Value Area Low at 81,600 triggering a perpetual short squeeze."
+}
