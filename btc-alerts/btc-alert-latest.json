@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-16T07:18:59.187701+00:00",
-  "price": 82250.01,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 27.1612,
-  "perp_cvd": 5.088,
-  "divergence": 22.0732,
+  "timestamp": "2026-10-16T07:23:59.920688+00:00",
+  "price": 82258.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 16.1126,
+  "perp_cvd": 26.473,
+  "divergence": -10.3604,
   "poc": 82150.0,
   "vah": 82250.0,
   "val": 82100.0,
-  "analysis": "Strong spot CVD delta outpacing perpetual swap flows indicates organic spot-driven demand pushing price to test acceptance above VAH at 82,250. With perpetual positioning lagging, the breakout demonstrates minimal leverage risk, favoring continued bullish expansion if price holds above the value area high.",
-  "key_risk": "Failure to sustain price acceptance above VAH (82,250), triggering a mean-reversion rotation back toward the POC at 82,150."
+  "analysis": "Price testing liquidity above VAH at $82,258.00. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($82,150.00)."
 }
