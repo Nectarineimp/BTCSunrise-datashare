@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T17:05:14.640059+00:00",
+  "price": 81247.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 3.3455,
+  "perp_cvd": 53.213,
+  "divergence": -49.8675,
+  "poc": 81350.0,
+  "vah": 81550.0,
+  "val": 81300.0,
+  "analysis": "Price trading below Value Area Low with aggressive perpetual CVD expansion against stagnant spot volume indicates heavy leverage bias. The absence of spot demand leaves over-leveraged longs vulnerable to a downside cascade unless 81,300 VAL is promptly reclaimed.",
+  "key_risk": "Unwind of over-leveraged perpetual long positions below VAL (81,300)."
+}
