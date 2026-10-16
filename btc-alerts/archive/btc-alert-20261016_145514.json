@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T14:55:14.221062+00:00",
+  "price": 82075.76,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -7.4354,
+  "perp_cvd": 187.867,
+  "divergence": -195.3024,
+  "poc": 82350.0,
+  "vah": 82450.0,
+  "val": 82100.0,
+  "analysis": "Price trading below Value Area Low accompanied by extreme perp-dominated CVD divergence (+204.97 perp vs +0.53 spot) indicates aggressive derivative positioning lacking spot support. The absence of spot accumulation leaves leveraged long positions highly vulnerable to a liquidation cascade if VAL cannot be reclaimed.",
+  "key_risk": "Long liquidation cascade triggered by failure to reclaim VAL at 82,100.0"
+}
