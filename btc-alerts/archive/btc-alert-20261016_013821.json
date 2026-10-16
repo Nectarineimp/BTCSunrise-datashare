@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T01:38:21.394737+00:00",
+  "price": 82217.32,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 16.8785,
+  "perp_cvd": 40.741,
+  "divergence": -23.8625,
+  "poc": 82300.0,
+  "vah": 82450.0,
+  "val": 82250.0,
+  "analysis": "Bitcoin has broken below the Value Area Low at 82,250 despite aggressive derivative buying, highlighting perp absorption and weak spot support. The pronounced negative CVD divergence signals leverage chasing at unfavorable prices, exposing late longs to liquidation risk if VAL is not swiftly reclaimed.",
+  "key_risk": "Perp long absorption below VAL triggering a cascading liquidation breakdown"
+}
