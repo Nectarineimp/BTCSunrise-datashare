@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T00:03:00.831230+00:00",
+  "price": 82252.45,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": -0.0001,
+  "perp_cvd": 0.0,
+  "divergence": -0.0001,
+  "poc": 82250.0,
+  "vah": 82300.0,
+  "val": 82250.0,
+  "analysis": "Initializing rolling microstructure buffers. Volume profile accumulating baseline order flow.",
+  "key_risk": "Insufficient tick sample size for regime identification."
+}
