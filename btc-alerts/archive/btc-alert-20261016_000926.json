@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T00:09:26.880029+00:00",
+  "price": 82350.01,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 89.521,
+  "perp_cvd": 22.188,
+  "divergence": 67.333,
+  "poc": 82250.0,
+  "vah": 82350.0,
+  "val": 82250.0,
+  "analysis": "Price is breaking above VAH driven by strong spot CVD delta significantly outstripping perp CVD, indicating high-conviction organic accumulation. This spot-led buying reinforces a bullish continuation bias provided price sustains acceptance above 82,350.",
+  "key_risk": "Failure to maintain acceptance above VAH at 82,350 resulting in a swift mean-reversion drop toward POC at 82,250."
+}
