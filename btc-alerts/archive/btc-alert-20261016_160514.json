@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T16:05:14.435204+00:00",
+  "price": 81332.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -92.5195,
+  "perp_cvd": -166.968,
+  "divergence": 74.4485,
+  "poc": 81600.0,
+  "vah": 81750.0,
+  "val": 81450.0,
+  "analysis": "Price has broken below the Value Area Low at 81,450 backed by aggressive derivative selling that vastly outpaces spot market activity. While short-term conviction remains skewed to the downside, the extreme perp volume dominance creates heightened risk of a violent short squeeze back into the value area.",
+  "key_risk": "A rapid reclaim of the 81,450 VAL triggering cascading short liquidation buy orders back toward the 81,600 POC."
+}
