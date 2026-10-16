@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-16T07:59:00.577959+00:00",
-  "price": 82244.3,
+  "timestamp": "2026-10-16T08:04:00.586605+00:00",
+  "price": 82341.71,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -36.5783,
-  "perp_cvd": 23.216,
-  "divergence": -59.7943,
-  "poc": 82150.0,
-  "vah": 82250.0,
-  "val": 82100.0,
-  "analysis": "Price is trading above VAH driven by perpetual leverage while spot CVD remains negative, indicating spot absorption of derivative buyers. A failure to attract follow-through spot demand above 82250 exposes late long positions to sharp mean-reversion risk back into the Value Area.",
-  "key_risk": "Long liquidation cascade back into the Value Area if price falls below 82250 VAH."
+  "spot_cvd": 0.3884,
+  "perp_cvd": 36.353,
+  "divergence": -35.9646,
+  "poc": 82200.0,
+  "vah": 82300.0,
+  "val": 82150.0,
+  "analysis": "Price testing liquidity above VAH at $82,341.71. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($82,200.00)."
 }
