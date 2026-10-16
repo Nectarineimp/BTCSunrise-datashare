@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T09:04:02.600534+00:00",
+  "price": 82169.7,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": -41.1778,
+  "perp_cvd": -9.938,
+  "divergence": -31.2398,
+  "poc": 82200.0,
+  "vah": 82350.0,
+  "val": 82200.0,
+  "analysis": "Aggressive spot market selling is driving price acceptance below Value Area Low at 82,200, confirming active spot-led downside momentum. Perpetuals show muted net delta, indicating futures traders are passively following rather than driving the breakdown.",
+  "key_risk": "Spot absorption and a quick reclaim back above Value Area Low (82,200) triggering a mean-reversion squeeze toward the 82,300 POC."
+}
