@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T01:18:06.122053+00:00",
+  "price": 82461.7,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 101.8102,
+  "perp_cvd": 66.937,
+  "divergence": 34.8732,
+  "poc": 82300.0,
+  "vah": 82400.0,
+  "val": 82250.0,
+  "analysis": "Price expansion above VAH at 82,400 is confirmed by positive spot CVD delta leading perpetuals alongside higher spot volume. This organic spot-led buying demonstrates solid institutional conviction, supporting bullish continuation outside the Value Area.",
+  "key_risk": "Acceptance back inside the Value Area below 82,400 leading to a mean-reversion move toward POC."
+}
