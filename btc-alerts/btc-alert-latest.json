@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-16T09:14:04.172098+00:00",
-  "price": 82262.86,
-  "regime": "Mean Reverting / Consolidation",
-  "spot_cvd": -18.586,
-  "perp_cvd": 49.926,
-  "divergence": -68.512,
+  "timestamp": "2026-10-16T09:19:04.172538+00:00",
+  "price": 82140.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 0.724,
+  "perp_cvd": 47.446,
+  "divergence": -46.722,
   "poc": 82200.0,
   "vah": 82300.0,
   "val": 82150.0,
-  "analysis": "Price rotating inside Value Area near POC ($82,200.00). Spot CVD delta is negative (-18.59 BTC).",
-  "key_risk": "Range chop between VAL ($82,150.00) and VAH ($82,300.00)."
+  "analysis": "Aggressive perpetual buying is failing to lift price as spot market selling pushes Bitcoin below the Value Area Low of $82,150. This pronounced CVD divergence exposes trapped leverage long positions to downside liquidation risk.",
+  "key_risk": "Long liquidation cascade triggered by sustained acceptance below the $82,150 VAL."
 }
