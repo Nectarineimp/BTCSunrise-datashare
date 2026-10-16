@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T02:28:31.325697+00:00",
+  "price": 82094.38,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -29.7293,
+  "perp_cvd": -79.997,
+  "divergence": 50.2677,
+  "poc": 82100.0,
+  "vah": 82200.0,
+  "val": 82050.0,
+  "analysis": "Heavy aggressive selling in perpetual contracts has pushed price slightly below the Value Area Low, outstripping spot market distribution. Without spot flow confirming the breakdown, derivative positioning remains vulnerable to short exhaustion or a mean-reverting bounce back into value.",
+  "key_risk": "Perpetual short-side overcrowding near Value Area Low leading to a short squeeze back toward POC at 82,100."
+}
