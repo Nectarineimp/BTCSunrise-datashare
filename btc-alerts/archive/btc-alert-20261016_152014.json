@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-16T15:20:14.319314+00:00",
+  "price": 81586.2,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": -77.3398,
+  "perp_cvd": -19.07,
+  "divergence": -58.2698,
+  "poc": 82350.0,
+  "vah": 82450.0,
+  "val": 81800.0,
+  "analysis": "Price has broken below the Value Area Low driven by aggressive spot market distribution outpacing perpetual delta. The strong alignment of negative spot and perp CVD confirms high downside conviction and an active breakdown regime.",
+  "key_risk": "A rapid reclaim of the 81,850 VAL level triggering aggressive perpetual short-covering."
+}
