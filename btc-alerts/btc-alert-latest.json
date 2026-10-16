@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-16T17:20:14.669964+00:00",
-  "price": 80959.5,
+  "timestamp": "2026-10-16T17:25:14.673353+00:00",
+  "price": 80808.1,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -104.7541,
-  "perp_cvd": -381.39,
-  "divergence": 276.6359,
-  "poc": 81500.0,
+  "spot_cvd": -114.2528,
+  "perp_cvd": -471.316,
+  "divergence": 357.0632,
+  "poc": 81350.0,
   "vah": 81650.0,
-  "val": 81150.0,
-  "analysis": "Bitcoin has broken below the Value Area Low driven primarily by aggressive perpetual market selling and heavy leverage volume. The relative lag in spot selling delta suggests downside movement is over-extended and vulnerable to a mean-reversion squeeze back into value.",
-  "key_risk": "Perpetual short crowding below VAL triggering a liquidity sweep and squeeze back toward the 81,500 POC."
+  "val": 81100.0,
+  "analysis": "Price testing liquidity below VAL at $80,808.10. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,350.00)."
 }
