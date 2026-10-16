@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-16T01:38:21.394737+00:00",
-  "price": 82217.32,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 16.8785,
-  "perp_cvd": 40.741,
-  "divergence": -23.8625,
+  "timestamp": "2026-10-16T01:43:22.782308+00:00",
+  "price": 82222.01,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 134.7593,
+  "perp_cvd": 54.925,
+  "divergence": 79.8343,
   "poc": 82300.0,
-  "vah": 82450.0,
-  "val": 82250.0,
-  "analysis": "Bitcoin has broken below the Value Area Low at 82,250 despite aggressive derivative buying, highlighting perp absorption and weak spot support. The pronounced negative CVD divergence signals leverage chasing at unfavorable prices, exposing late longs to liquidation risk if VAL is not swiftly reclaimed.",
-  "key_risk": "Perp long absorption below VAL triggering a cascading liquidation breakdown"
+  "vah": 82400.0,
+  "val": 82200.0,
+  "analysis": "Price rotating inside Value Area near POC ($82,300.00). Spot CVD delta is positive (+134.76 BTC).",
+  "key_risk": "Range chop between VAL ($82,200.00) and VAH ($82,400.00)."
 }
