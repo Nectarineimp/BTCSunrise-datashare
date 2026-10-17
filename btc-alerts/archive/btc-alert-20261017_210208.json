@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T21:02:08.020371+00:00",
+  "price": 81654.18,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": 92.6043,
+  "perp_cvd": -49.218,
+  "divergence": 141.8223,
+  "poc": 81600.0,
+  "vah": 81650.0,
+  "val": 81550.0,
+  "analysis": "Spot buyers are actively absorbing aggressive perps selling right at the Value Area High, generating a bullish CVD divergence. Sustained acceptance above 81,650 is required to confirm an upward auction expansion out of value.",
+  "key_risk": "Rejection at VAH leading to a mean-reverting rotation back toward the POC at 81,600."
+}
