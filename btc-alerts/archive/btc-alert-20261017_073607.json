@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T07:36:07.108945+00:00",
+  "price": 81750.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 40.9003,
+  "perp_cvd": 116.399,
+  "divergence": -75.4987,
+  "poc": 81600.0,
+  "vah": 81650.0,
+  "val": 81550.0,
+  "analysis": "Bitcoin is trading above VAH at $81,729.08, but the move is primarily driven by aggressive perpetual futures buying rather than spot volume. The substantial negative spot-perp CVD divergence indicates potential buyer exhaustion if spot market participation fails to follow through.",
+  "key_risk": "Long liquidation cascade leading to a sharp re-entry back into the Value Area below $81,650.00."
+}
