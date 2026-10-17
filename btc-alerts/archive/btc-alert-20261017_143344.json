@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T14:33:44.691935+00:00",
+  "price": 81563.6,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 47.8481,
+  "perp_cvd": 4.611,
+  "divergence": 43.2371,
+  "poc": 81450.0,
+  "vah": 81550.0,
+  "val": 81450.0,
+  "analysis": "Aggressive spot accumulation (+47.85 BTC CVD) is driving price acceptance above the 81,550 VAH, significantly outperforming perpetual swap flows. This clear spot-led divergence underscores genuine institutional demand supporting near-term bullish expansion.",
+  "key_risk": "Loss of VAH acceptance at 81,550 triggering a mean-reversion back towards the POC at 81,450."
+}
