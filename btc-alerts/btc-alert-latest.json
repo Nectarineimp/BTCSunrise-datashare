@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-17T12:46:29.245282+00:00",
-  "price": 81534.59,
+  "timestamp": "2026-10-17T12:51:29.403293+00:00",
+  "price": 81478.4,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -21.7787,
-  "perp_cvd": -67.526,
-  "divergence": 45.7473,
-  "poc": 81550.0,
+  "spot_cvd": -23.2163,
+  "perp_cvd": -99.091,
+  "divergence": 75.8747,
+  "poc": 81500.0,
   "vah": 81600.0,
   "val": 81500.0,
-  "analysis": "Price has broken below the Value Area Low driven primarily by aggressive perpetual market selling, while spot CVD shows significantly milder downside delta. This structural divergence indicates leverage-driven downside pressure that risks short-side exhaustion if spot buyers defend liquidity below $81,500.",
-  "key_risk": "Failure of spot CVD to confirm perp selling could trigger a sharp short squeeze back into the Value Area above $81,500."
+  "analysis": "Price testing liquidity below VAL at $81,478.40. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,500.00)."
 }
