@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T19:57:04.970036+00:00",
+  "price": 81635.65,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -34.745,
+  "perp_cvd": 77.002,
+  "divergence": -111.747,
+  "poc": 81500.0,
+  "vah": 81600.0,
+  "val": 81450.0,
+  "analysis": "Price has accepted above the Value Area High purely on aggressive perpetual flow while spot CVD delta remains negative. This strong spot-perp divergence signals low organic conviction and leaves the breakout vulnerable to long liquidation and mean reversion.",
+  "key_risk": "Perp-driven breakout failure leading to long squeeze back inside the Value Area below 81,600."
+}
