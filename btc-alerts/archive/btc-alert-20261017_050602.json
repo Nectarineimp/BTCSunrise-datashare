@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T05:06:02.797880+00:00",
+  "price": 81624.85,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 51.6045,
+  "perp_cvd": 29.847,
+  "divergence": 21.7575,
+  "poc": 81500.0,
+  "vah": 81600.0,
+  "val": 81500.0,
+  "analysis": "Price has broken out above the Value Area High at $81,600 driven primarily by strong spot CVD delta outpacing perpetual futures accumulation. This reflects genuine organic demand driving directional expansion above established value with a clear bullish bias.",
+  "key_risk": "Failed auction acceptance above $81,600 VAH triggering a sharp mean-reversion back into the Value Area towards the POC at $81,500."
+}
