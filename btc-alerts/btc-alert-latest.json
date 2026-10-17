@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-17T11:31:21.855135+00:00",
-  "price": 81524.4,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -48.5496,
-  "perp_cvd": -83.538,
-  "divergence": 34.9884,
+  "timestamp": "2026-10-17T11:36:21.891943+00:00",
+  "price": 81589.7,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": -46.5381,
+  "perp_cvd": -71.379,
+  "divergence": 24.8409,
   "poc": 81600.0,
   "vah": 81700.0,
-  "val": 81600.0,
-  "analysis": "Bitcoin has broken below the Value Area Low at 81,600 driven primarily by aggressive perpetual swap market selling. The relative divergence showing milder spot CVD selling indicates potential short exhaustion if price reclaims value.",
-  "key_risk": "Expanding spot CVD market selling that validates the perpetual breakdown below 81,500."
+  "val": 81550.0,
+  "analysis": "Price rotating inside Value Area near POC ($81,600.00). Spot CVD delta is negative (-46.54 BTC).",
+  "key_risk": "Range chop between VAL ($81,550.00) and VAH ($81,700.00)."
 }
