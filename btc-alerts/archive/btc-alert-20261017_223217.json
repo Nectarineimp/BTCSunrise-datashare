@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T22:32:17.558288+00:00",
+  "price": 81277.67,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -17.1976,
+  "perp_cvd": -81.418,
+  "divergence": 64.2204,
+  "poc": 81000.0,
+  "vah": 81250.0,
+  "val": 80950.0,
+  "analysis": "Price has breached VAH at 81,250 despite negative spot and perp CVD, indicating passive absorption or short-squeeze dynamics rather than aggressive spot buying. The lack of spot delta confirmation leaves the breakout vulnerable to rapid mean-reversion if perp aggression subsides.",
+  "key_risk": "Rejection back inside the Value Area below 81,250 targeting POC at 81,000."
+}
