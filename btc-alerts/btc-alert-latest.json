@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-17T10:11:40.827395+00:00",
-  "price": 81575.84,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -56.9847,
-  "perp_cvd": -89.211,
-  "divergence": 32.2263,
-  "poc": 81650.0,
-  "vah": 81750.0,
-  "val": 81600.0,
-  "analysis": "Price has broken below the Value Area Low at 81,600 driven by aggressive perpetual market selling across both spot and derivative venues. Derivative delta dominance over spot indicates leverage-driven downward pressure, raising the likelihood of a liquidation cascade or sudden sell-side exhaustion.",
-  "key_risk": "Cascading perpetual long liquidations driving sustained expansion below the 81,600 Value Area Low."
+  "timestamp": "2026-10-17T10:16:15.590349+00:00",
+  "price": 81582.72,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": -68.1875,
+  "perp_cvd": -82.527,
+  "divergence": 14.3395,
+  "poc": 81600.0,
+  "vah": 81700.0,
+  "val": 81550.0,
+  "analysis": "Price rotating inside Value Area near POC ($81,600.00). Spot CVD delta is negative (-68.19 BTC).",
+  "key_risk": "Range chop between VAL ($81,550.00) and VAH ($81,700.00)."
 }
