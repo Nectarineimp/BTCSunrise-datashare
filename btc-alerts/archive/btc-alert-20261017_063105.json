@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T06:31:05.901531+00:00",
+  "price": 81569.5,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 13.8848,
+  "perp_cvd": -29.949,
+  "divergence": 43.8338,
+  "poc": 81550.0,
+  "vah": 81600.0,
+  "val": 81500.0,
+  "analysis": "Spot buying is driving price acceptance above the 81,600 VAH despite heavy perpetual swap selling pressure. This positive spot-to-perp CVD divergence indicates organic spot-led absorption taking place outside of value.",
+  "key_risk": "Exhaustion of spot buying flow leading to a sharp mean-reversion back into the Value Area toward the 81,550 POC."
+}
