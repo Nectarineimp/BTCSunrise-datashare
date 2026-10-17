@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T21:17:13.984948+00:00",
+  "price": 81602.3,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 58.0533,
+  "perp_cvd": -27.456,
+  "divergence": 85.5093,
+  "poc": 81600.0,
+  "vah": 81700.0,
+  "val": 81600.0,
+  "analysis": "Aggressive spot buying is driving price expansion above the Value Area High at $81,650 despite perpetual market participants shorting into the move. This spot-led divergence demonstrates organic buying conviction, favoring continued upward continuation as long as price remains accepted above VAH.",
+  "key_risk": "Price rejection back into the Value Area below $81,650, which would signal exhaustion and risk a mean-reversion cascade toward POC at $81,600."
+}
