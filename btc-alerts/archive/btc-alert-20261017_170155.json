@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T17:01:55.049364+00:00",
+  "price": 81198.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -43.254,
+  "perp_cvd": -202.303,
+  "divergence": 159.049,
+  "poc": 81250.0,
+  "vah": 81350.0,
+  "val": 81200.0,
+  "analysis": "Price has broken below the Value Area Low at 81,200 driven predominantly by aggressive derivative market selling rather than spot distribution. Spot CVD remains relatively passive compared to perp flow, indicating a leverage-skewed breakdown that risks short-side exhaustion if spot absorption materializes.",
+  "key_risk": "Aggressive perp shorting without spot confirmation triggering a short squeeze back into the Value Area above 81,200."
+}
