@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T21:32:14.660738+00:00",
+  "price": 81053.22,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -62.9762,
+  "perp_cvd": -390.566,
+  "divergence": 327.5898,
+  "poc": 81600.0,
+  "vah": 81700.0,
+  "val": 81250.0,
+  "analysis": "Price has accepted below Value Area Low driven primarily by heavy perpetual delta selling rather than spot distribution. This pronounced leverage-led imbalance creates heightened risk of short exhaustion and a sharp reversion if spot absorption materializes.",
+  "key_risk": "Trapped late shorts below VAL (81,250) triggering a forced liquidation cascade back into the value area."
+}
