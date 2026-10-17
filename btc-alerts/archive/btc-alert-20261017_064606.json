@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T06:46:06.101437+00:00",
+  "price": 81584.1,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 47.7067,
+  "perp_cvd": 5.793,
+  "divergence": 41.9137,
+  "poc": 81550.0,
+  "vah": 81600.0,
+  "val": 81500.0,
+  "analysis": "Price has broken out above VAH at 81600, driven by significant spot CVD buying delta relative to perpetual swap flows. This spot-led volume expansion signals strong institutional buying conviction rather than short-term derivative leverage.",
+  "key_risk": "Failure to maintain acceptance above VAH at 81600, triggering a mean-reversion rotation back toward the POC at 81550."
+}
