@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T08:51:10.377405+00:00",
+  "price": 81640.2,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -56.6638,
+  "perp_cvd": 58.411,
+  "divergence": -115.0748,
+  "poc": 81650.0,
+  "vah": 81750.0,
+  "val": 81650.0,
+  "analysis": "Price has acceptance below Value Area Low driven by aggressive spot CVD selling absorbing derivative bids. The severe divergence between spot distribution and perp aggressive buying increases the probability of a long liquidation event.",
+  "key_risk": "Trapped perpetual long positions below VAL ($81,650) triggering a cascade of forced liquidations."
+}
