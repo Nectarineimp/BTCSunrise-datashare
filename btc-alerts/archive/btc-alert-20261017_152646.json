@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T15:26:46.074801+00:00",
+  "price": 81518.4,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 100.2449,
+  "perp_cvd": 37.13,
+  "divergence": 63.1149,
+  "poc": 81550.0,
+  "vah": 81600.0,
+  "val": 81500.0,
+  "analysis": "Despite price trading below the Value Area Low at 81,500, strong spot CVD delta indicates spot-driven absorption outside of value. A sustained spot push is required to reclaim VAL and target the POC at 81,550.",
+  "key_risk": "Acceptance below VAL (81,500) overriding spot absorption and triggering derivative follow-through selling."
+}
