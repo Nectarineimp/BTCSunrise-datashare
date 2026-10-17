@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T14:56:43.514531+00:00",
+  "price": 81600.01,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 68.9609,
+  "perp_cvd": 26.65,
+  "divergence": 42.3109,
+  "poc": 81500.0,
+  "vah": 81600.0,
+  "val": 81450.0,
+  "analysis": "Spot cumulative volume delta is strongly leading perpetual flows as price attempts an expansion above the Value Area High at $81,600. Sustained spot buying is required to secure acceptance above VAH and prevent a mean-reverting rotation back toward the Point of Control at $81,500.",
+  "key_risk": "Rejection at VAH ($81,600) triggering a failed breakout and rotation back into the value area."
+}
