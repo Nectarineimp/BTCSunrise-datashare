@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-17T10:01:15.003167+00:00",
-  "price": 81579.91,
+  "timestamp": "2026-10-17T10:06:15.181814+00:00",
+  "price": 81564.8,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -50.7117,
-  "perp_cvd": -101.828,
-  "divergence": 51.1163,
+  "spot_cvd": -50.5289,
+  "perp_cvd": -73.747,
+  "divergence": 23.2181,
   "poc": 81650.0,
   "vah": 81750.0,
   "val": 81600.0,
-  "analysis": "Price testing liquidity below VAL at $81,579.91. Delta volume lacks high-conviction institutional participation.",
-  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,650.00)."
+  "analysis": "Aggressive perp-dominated selling has pushed price marginally below the Value Area Low, backed by net-negative cumulative volume delta across both spot and derivative venues. The absence of spot absorption signals persistent downside bias, though heavy aggressive shorting increases short-term exhaustion risk around the 81,600 boundary.",
+  "key_risk": "Failure of spot buyers to defend VAL resulting in value area acceptance breakdown and accelerated perp liquidation cascades."
 }
