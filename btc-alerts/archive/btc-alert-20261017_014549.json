@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T01:45:49.098031+00:00",
+  "price": 81556.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 59.9856,
+  "perp_cvd": -29.018,
+  "divergence": 89.0036,
+  "poc": 81500.0,
+  "vah": 81600.0,
+  "val": 81500.0,
+  "analysis": "Spot accumulators are actively absorbing aggressive perpetual short positioning below the 81,500 Value Area Low. This pronounced CVD divergence creates heightened potential for a short-side leverage squeeze back toward the POC.",
+  "key_risk": "Failure of spot absorption to hold current levels, risking a breakdown deeper below Value Area Low."
+}
