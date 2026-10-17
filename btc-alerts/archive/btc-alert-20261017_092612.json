@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T09:26:12.343127+00:00",
+  "price": 81684.81,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -36.6512,
+  "perp_cvd": -55.426,
+  "divergence": 18.7748,
+  "poc": 81650.0,
+  "vah": 81750.0,
+  "val": 81650.0,
+  "analysis": "Aggressive perpetual market selling is pushing price slightly below the Value Area Low of 81650, outpacing spot order flow decline. Spot absorption near value area support suggests downside perp seller exhaustion risk unless spot CVD accelerates downward.",
+  "key_risk": "Failure of spot volume to confirm the breakdown below VAL (81650), raising the risk of a mean-reverting perp short squeeze."
+}
