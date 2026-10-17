@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T09:36:12.735285+00:00",
+  "price": 81673.82,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -45.0983,
+  "perp_cvd": -71.418,
+  "divergence": 26.3197,
+  "poc": 81650.0,
+  "vah": 81750.0,
+  "val": 81650.0,
+  "analysis": "Aggressive perpetual selling has driven price below the Value Area Low ($81,650) while spot delta displays comparatively moderate selling. The lack of spot-led conviction outside value creates short-term short exhaustion risk if perpetual momentum peters out.",
+  "key_risk": "Short liquidation cascade driving a rapid mean-reversion reclaim of the $81,650 Value Area Low."
+}
