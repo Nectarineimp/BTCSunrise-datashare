@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T23:27:23.595055+00:00",
+  "price": 81291.63,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 0.8867,
+  "perp_cvd": 63.942,
+  "divergence": -63.0553,
+  "poc": 81300.0,
+  "vah": 81400.0,
+  "val": 81250.0,
+  "analysis": "Perpetual buyers are aggressively pushing order flow while spot demand remains virtually non-existent, failing to prevent price from falling below the Value Area Low at $81,250. This severe positive perp CVD divergence into lower prices signals passive spot absorption and leaves over-leveraged long positions vulnerable to a liquidation cascade.",
+  "key_risk": "Long liquidation cascade due to trapped perp buyers below $81,250 VAL amidst weak spot spot support."
+}

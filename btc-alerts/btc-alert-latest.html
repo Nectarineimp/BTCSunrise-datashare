@@ -1,5 +1,5 @@
 <!-- BTC Alert Web Component -->
-<div class="btc-alert" data-timestamp="2026-10-17T23:22:22.965541+00:00">
+<div class="btc-alert" data-timestamp="2026-10-17T23:27:23.595055+00:00">
   <style>
     .btc-alert {
       --bg: #0d1117;
@@ -62,29 +62,29 @@
 
   <div class="btc-alert-header">
     <span>⚡ BTC ORDER FLOW BREAKOUT</span>
-    <span>81,316.80 USD</span>
+    <span>81,291.63 USD</span>
   </div>
 
   <div class="btc-alert-grid">
     <span class="btc-alert-label">Regime</span>
-    <span class="btc-alert-val">Mean Reverting / Consolidation</span>
+    <span class="btc-alert-val">Leverage Squeeze / Exhaustion Risk</span>
 
     <span class="btc-alert-label">Spot CVD (60m)</span>
-    <span class="btc-alert-val btc-pos">+5.59 BTC</span>
+    <span class="btc-alert-val btc-pos">+0.89 BTC</span>
 
     <span class="btc-alert-label">Perp CVD (60m)</span>
-    <span class="btc-alert-val btc-pos">+78.42 BTC</span>
+    <span class="btc-alert-val btc-pos">+63.94 BTC</span>
 
     <span class="btc-alert-label">Divergence</span>
-    <span class="btc-alert-val btc-neg">-72.83 BTC</span>
+    <span class="btc-alert-val btc-neg">-63.06 BTC</span>
 
     <span class="btc-alert-label">POC | VAH | VAL</span>
     <span class="btc-alert-val">81,300 | 81,400 | 81,250 USD</span>
   </div>
 
   <div class="btc-alert-body">
-    <strong>Analysis:</strong> Price rotating inside Value Area near POC ($81,300.00). Spot CVD delta is positive (+5.59 BTC).
+    <strong>Analysis:</strong> Perpetual buyers are aggressively pushing order flow while spot demand remains virtually non-existent, failing to prevent price from falling below the Value Area Low at $81,250. This severe positive perp CVD divergence into lower prices signals passive spot absorption and leaves over-leveraged long positions vulnerable to a liquidation cascade.
   </div>
 
-  <div class="btc-alert-risk"><strong>Key Risk:</strong> Range chop between VAL ($81,250.00) and VAH ($81,400.00).</div>
+  <div class="btc-alert-risk"><strong>Key Risk:</strong> Long liquidation cascade due to trapped perp buyers below $81,250 VAL amidst weak spot spot support.</div>
 </div>
