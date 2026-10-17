@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-17T18:01:56.631309+00:00",
-  "price": 81398.01,
+  "timestamp": "2026-10-17T18:06:56.643571+00:00",
+  "price": 81476.1,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 79.6744,
-  "perp_cvd": 109.136,
-  "divergence": -29.4616,
+  "spot_cvd": 88.7545,
+  "perp_cvd": 309.42,
+  "divergence": -220.6655,
   "poc": 81250.0,
-  "vah": 81350.0,
+  "vah": 81450.0,
   "val": 81200.0,
-  "analysis": "Price has expanded above VAH at 81,350 driven predominantly by aggressive perpetual swap buying relative to spot flow. Without stronger spot delta absorption to back this expansion, the move faces heightened risk of a leverage-driven flush back into the value area.",
-  "key_risk": "Failure to sustain acceptance above VAH (81,350) triggering long liquidation cascades back toward POC (81,250)."
+  "analysis": "Price testing liquidity above VAH at $81,476.10. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,250.00)."
 }
