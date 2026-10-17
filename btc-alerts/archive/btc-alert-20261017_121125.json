@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T12:11:25.076552+00:00",
+  "price": 81607.5,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": -8.8941,
+  "perp_cvd": -44.082,
+  "divergence": 35.1879,
+  "poc": 81550.0,
+  "vah": 81600.0,
+  "val": 81500.0,
+  "analysis": "Heavy aggressive market selling across derivatives is currently being passively absorbed right at the Value Area High without breaking price lower. While underlying limit bids show structural support, the substantial negative derivative delta presents an ongoing risk of market order exhaustion or sudden bid withdrawal.",
+  "key_risk": "Failure of passive bid absorption at VAH triggering a swift mean-reversion move toward POC and VAL."
+}
