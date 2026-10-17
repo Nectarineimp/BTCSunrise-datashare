@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-17T10:31:15.879365+00:00",
-  "price": 81651.74,
-  "regime": "Absorption at Resistance",
-  "spot_cvd": -14.295,
-  "perp_cvd": -39.436,
-  "divergence": 25.141,
+  "timestamp": "2026-10-17T10:36:15.883283+00:00",
+  "price": 81654.99,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -18.9224,
+  "perp_cvd": -29.058,
+  "divergence": 10.1356,
   "poc": 81550.0,
   "vah": 81650.0,
   "val": 81500.0,
-  "analysis": "Price is probing slightly above VAH at $81,650 despite negative spot and perpetual CVD deltas, indicating passive limit order absorption of aggressive market sellers. Failure to build acceptance above VAH risks a rapid mean-reverting rotation back toward the POC at $81,550.",
-  "key_risk": "Breakdown back into the Value Area triggering seller continuation toward VAL at $81,500."
+  "analysis": "Price testing liquidity above VAH at $81,654.99. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,550.00)."
 }
