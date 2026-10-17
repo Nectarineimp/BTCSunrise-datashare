@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-17T19:27:03.025979+00:00",
+  "price": 81480.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 17.442,
+  "perp_cvd": -40.387,
+  "divergence": 57.829,
+  "poc": 81500.0,
+  "vah": 81600.0,
+  "val": 81500.0,
+  "analysis": "Aggressive perpetual selling is being systematically absorbed by positive spot demand around the Value Area Low of 81,500. This bullish spot CVD divergence indicates potential short seller exhaustion, favoring a mean-reversion move back inside value.",
+  "key_risk": "Sustained perp aggressive selling triggering a spot flow breakdown and acceptance below 81,500 VAL."
+}
