@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-17T02:05:53.432934+00:00",
-  "price": 81619.53,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 135.0158,
-  "perp_cvd": -35.798,
-  "divergence": 170.8138,
-  "poc": 81500.0,
+  "timestamp": "2026-10-17T02:10:53.519136+00:00",
+  "price": 81652.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 122.7959,
+  "perp_cvd": -25.552,
+  "divergence": 148.3479,
+  "poc": 81550.0,
   "vah": 81600.0,
   "val": 81500.0,
-  "analysis": "Price has accepted above the Value Area High at 81,600 driven by strong spot CVD absorption against perpetual market shorting. This spot-led delta confirms high-conviction breakout structure above value, favoring bullish continuation.",
-  "key_risk": "Acceptance back inside the Value Area below 81,600 leading to a mean-reversion rotation toward the POC at 81,500."
+  "analysis": "Price testing liquidity above VAH at $81,652.01. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,550.00)."
 }
