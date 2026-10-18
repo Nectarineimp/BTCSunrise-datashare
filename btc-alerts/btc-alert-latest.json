@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-18T03:42:41.961273+00:00",
-  "price": 81932.0,
-  "regime": "Mean Reverting / Consolidation",
-  "spot_cvd": 155.9474,
-  "perp_cvd": 251.201,
-  "divergence": -95.2536,
+  "timestamp": "2026-10-18T03:47:42.053632+00:00",
+  "price": 82000.2,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 173.7345,
+  "perp_cvd": 360.342,
+  "divergence": -186.6075,
   "poc": 81800.0,
   "vah": 81950.0,
   "val": 81750.0,
-  "analysis": "Price rotating inside Value Area near POC ($81,800.00). Spot CVD delta is positive (+155.95 BTC).",
-  "key_risk": "Range chop between VAL ($81,750.00) and VAH ($81,950.00)."
+  "analysis": "Price testing liquidity above VAH at $82,000.20. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,800.00)."
 }
