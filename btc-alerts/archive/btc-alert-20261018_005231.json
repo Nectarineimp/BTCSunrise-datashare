@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-18T00:52:31.578665+00:00",
+  "price": 81488.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -54.244,
+  "perp_cvd": 62.014,
+  "divergence": -116.258,
+  "poc": 81450.0,
+  "vah": 81500.0,
+  "val": 81400.0,
+  "analysis": "Price action is extending above VAH driven entirely by perp aggressive buying, while spot CVD exhibits strong net distribution. This leverage-heavy divergence signals weak institutional conviction and elevates the risk of a sharp long-squeeze back into the value area.",
+  "key_risk": "Acceptance back below VAH (81500) triggering aggressive perp liquidation cascades toward POC (81450)."
+}
