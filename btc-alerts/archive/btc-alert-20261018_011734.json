@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-18T01:17:34.528572+00:00",
+  "price": 81590.57,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -71.0373,
+  "perp_cvd": 98.428,
+  "divergence": -169.4653,
+  "poc": 81450.0,
+  "vah": 81550.0,
+  "val": 81400.0,
+  "analysis": "Price is trading above VAH driven purely by aggressive perp leverage, while spot CVD shows persistent net selling into the move. This sharp divergence creates elevated risk of an exhaustion collapse and mean reversion back into the Value Area if spot demand fails to materialize.",
+  "key_risk": "Leverage unwind and liquidation cascade if price fails to hold above VAH (81,550) on persistent spot absorption."
+}
