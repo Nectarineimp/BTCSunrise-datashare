@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-18T00:17:29.172263+00:00",
+  "price": 81518.17,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 9.5837,
+  "perp_cvd": 110.207,
+  "divergence": -100.6233,
+  "poc": 81400.0,
+  "vah": 81500.0,
+  "val": 81300.0,
+  "analysis": "Perpetual futures buyers are aggressively pushing price slightly above VAH, but minimal spot CVD participation highlights a lack of organic spot demand. This heavy derivative-led divergence at key value area resistance elevates the risk of an exhaustion top and mean reversion back toward POC.",
+  "key_risk": "Perpetual long liquidation cascade triggered by a failed breakout and rejection back below the 81500 VAH level."
+}
