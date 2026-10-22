@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-22T10:08:17.736309+00:00",
+  "price": 81966.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 67.5807,
+  "perp_cvd": 88.333,
+  "divergence": -20.7523,
+  "poc": 81850.0,
+  "vah": 81900.0,
+  "val": 81650.0,
+  "analysis": "Price testing liquidity above VAH at $81,966.90. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,850.00)."
+}
