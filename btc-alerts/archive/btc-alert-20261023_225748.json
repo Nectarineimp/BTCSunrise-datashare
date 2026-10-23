@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-23T22:57:48.874626+00:00",
+  "price": 80655.51,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -222.9619,
+  "perp_cvd": -1000.321,
+  "divergence": 777.3591,
+  "poc": 81100.0,
+  "vah": 81200.0,
+  "val": 80600.0,
+  "analysis": "Price has trading below the Value Area Low driven primarily by aggressive derivative selling while spot CVD delta remains moderately passive. Heavy perpetual volume dominance relative to spot creates heightened risk of short-seller overextension and subsequent squeeze mechanics back into value.",
+  "key_risk": "Perpetual short overcrowding below VAL at 80,600 triggering a liquidation squeeze back toward the 81,100 POC."
+}
