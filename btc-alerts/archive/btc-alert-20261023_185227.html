@@ -1,0 +1,90 @@
+<!-- BTC Alert Web Component -->
+<div class="btc-alert" data-timestamp="2026-10-23T18:52:27.739887+00:00">
+  <style>
+    .btc-alert {
+      --bg: #0d1117;
+      --border: #30363d;
+      --text: #c9d1d9;
+      --accent: #58a6ff;
+      --green: #3fb950;
+      --red: #f85149;
+      --muted: #8b949e;
+      --font: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+      
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-family: var(--font);
+      font-size: 13px;
+      line-height: 1.45;
+      max-width: 480px;
+      padding: 16px;
+      box-sizing: border-box;
+    }
+    .btc-alert * { box-sizing: border-box; margin: 0; padding: 0; }
+    .btc-alert-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 8px;
+      margin-bottom: 12px;
+      font-weight: 700;
+      color: var(--accent);
+    }
+    .btc-alert-grid {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      row-gap: 5px;
+      margin-bottom: 12px;
+    }
+    .btc-alert-label { color: var(--muted); }
+    .btc-alert-val { text-align: right; font-weight: 600; }
+    .btc-pos { color: var(--green); }
+    .btc-neg { color: var(--red); }
+    .btc-alert-body {
+      background: rgba(255, 255, 255, 0.03);
+      border-left: 3px solid var(--accent);
+      padding: 8px 12px;
+      font-size: 12px;
+      color: #e6edf3;
+      margin-bottom: 8px;
+    }
+    .btc-alert-risk {
+      border-left: 3px solid var(--red);
+      background: rgba(248, 81, 73, 0.05);
+      padding: 8px 12px;
+      font-size: 12px;
+      color: #e6edf3;
+    }
+  </style>
+
+  <div class="btc-alert-header">
+    <span>⚡ BTC ORDER FLOW BREAKOUT</span>
+    <span>81,449.40 USD</span>
+  </div>
+
+  <div class="btc-alert-grid">
+    <span class="btc-alert-label">Regime</span>
+    <span class="btc-alert-val">Leverage Squeeze / Exhaustion Risk</span>
+
+    <span class="btc-alert-label">Spot CVD (60m)</span>
+    <span class="btc-alert-val btc-pos">+19.93 BTC</span>
+
+    <span class="btc-alert-label">Perp CVD (60m)</span>
+    <span class="btc-alert-val btc-neg">-34.64 BTC</span>
+
+    <span class="btc-alert-label">Divergence</span>
+    <span class="btc-alert-val btc-pos">+54.57 BTC</span>
+
+    <span class="btc-alert-label">POC | VAH | VAL</span>
+    <span class="btc-alert-val">81,450 | 81,600 | 81,450 USD</span>
+  </div>
+
+  <div class="btc-alert-body">
+    <strong>Analysis:</strong> Spot buyers (+19.93 CVD) are actively absorbing heavy perpetual derivative selling (-34.64 CVD) near the Value Area Low of 81,450. This strong divergence indicates derivative short exhaustion and potential for a squeeze back into the value area if spot demand holds.
+  </div>
+
+  <div class="btc-alert-risk"><strong>Key Risk:</strong> Failure of spot absorption allowing heavy perp volume to force a sustained breakdown below the 81,450 VAL.</div>
+</div>
