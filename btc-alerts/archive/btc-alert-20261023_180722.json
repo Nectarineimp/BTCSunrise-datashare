@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-23T18:07:22.606251+00:00",
+  "price": 81509.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -46.5323,
+  "perp_cvd": 112.278,
+  "divergence": -158.8103,
+  "poc": 81600.0,
+  "vah": 81750.0,
+  "val": 81550.0,
+  "analysis": "Price trading below the Value Area Low is driven by heavy perpetual buying attempting to absorb continuous spot distribution. The strong negative spot-to-perp CVD divergence indicates weak organic spot demand, exposing over-leveraged long positions to cascading liquidation risk.",
+  "key_risk": "Cascading perp long liquidations if price fails to reclaim VAL at 81,550."
+}
