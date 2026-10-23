@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-23T20:57:37.294807+00:00",
+  "price": 81475.11,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -6.5443,
+  "perp_cvd": -20.55,
+  "divergence": 14.0057,
+  "poc": 81350.0,
+  "vah": 81450.0,
+  "val": 81250.0,
+  "analysis": "Price has accepted above VAH despite negative cumulative volume delta across both spot and perpetual markets, signaling passive limit-order absorption of aggressive sellers. With perpetual volume heavily driving price action over spot, the breakout lacks organic spot conviction and carries elevated reversal risk.",
+  "key_risk": "Failure to sustain acceptance above VAH at 81,450 triggerable by a perp unwind back toward the POC at 81,350."
+}
