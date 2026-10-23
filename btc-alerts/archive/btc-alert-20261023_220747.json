@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-23T22:07:47.577198+00:00",
+  "price": 81332.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -81.1399,
+  "perp_cvd": -128.679,
+  "divergence": 47.5391,
+  "poc": 81400.0,
+  "vah": 81450.0,
+  "val": 81300.0,
+  "analysis": "Perpetual futures are aggressively driving price below the Value Area Low while spot selling remains comparatively muted. Failure to sustain acceptance below 81,350.0 leaves over-leveraged derivative shorts vulnerable to a mean-reversion squeeze back toward the 81,400.0 POC.",
+  "key_risk": "Short squeeze execution upon failure to maintain price acceptance below 81,350.0 VAL."
+}
