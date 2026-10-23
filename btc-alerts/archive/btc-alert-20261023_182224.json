@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-23T18:22:24.436795+00:00",
+  "price": 81550.0,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": -59.2986,
+  "perp_cvd": -21.17,
+  "divergence": -38.1286,
+  "poc": 81600.0,
+  "vah": 81650.0,
+  "val": 81550.0,
+  "analysis": "Aggressive spot selling (-58.5 BTC CVD) is leading the breakdown below the Value Area Low at 81,550, demonstrating clear short-term downside bias. Perpetual volume remains heavy, leaving price vulnerable to continued downside expansion unless spot absorption reclaims the value area.",
+  "key_risk": "Spot absorption near immediate intraday lows triggering a short squeeze back into value toward POC (81,600)."
+}
