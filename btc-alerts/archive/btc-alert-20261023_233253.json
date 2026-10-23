@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-23T23:32:53.632356+00:00",
+  "price": 80951.18,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -290.0389,
+  "perp_cvd": -1712.153,
+  "divergence": 1422.1141,
+  "poc": 80600.0,
+  "vah": 80950.0,
+  "val": 80500.0,
+  "analysis": "Price is holding above Value Area High despite heavy negative cumulative volume delta in perps and spot. Aggressive shorting is being passively absorbed at resistance, creating conditions for a potential short squeeze.",
+  "key_risk": "Failure to maintain acceptance above VAH at 80,950 leading to sharp mean-reversion toward POC at 80,600."
+}
