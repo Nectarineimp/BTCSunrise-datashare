@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-23T20:42:36.101226+00:00",
+  "price": 81397.53,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -18.9518,
+  "perp_cvd": -47.443,
+  "divergence": 28.4912,
+  "poc": 81250.0,
+  "vah": 81400.0,
+  "val": 81250.0,
+  "analysis": "Price trading above VAH despite net negative CVD across both spot and perpetual markets indicates passive absorption of aggressive sellers. This structural divergence creates high risk of a leverage-driven squeeze or sudden exhaustion back into the value area.",
+  "key_risk": "Loss of VAH acceptance at $81,400 triggering a fast rotation down to POC at $81,250."
+}
