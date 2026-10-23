@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-23T21:57:46.232107+00:00",
-  "price": 81332.8,
+  "timestamp": "2026-10-23T22:02:46.752994+00:00",
+  "price": 81387.0,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -87.346,
-  "perp_cvd": -158.635,
-  "divergence": 71.289,
+  "spot_cvd": -77.4097,
+  "perp_cvd": -108.308,
+  "divergence": 30.8983,
   "poc": 81400.0,
   "vah": 81450.0,
   "val": 81350.0,
-  "analysis": "Price has broken below the 60-minute Value Area Low at 81,350 under aggressive perpetual market sell order flow. With derivative CVD delta significantly leading spot distribution, the breakdown remains heavily leverage-driven and vulnerable to cascading liquidations or sharp short squeezes.",
-  "key_risk": "Aggressive perp shorting below VAL triggering potential forced liquidation cascades or sharp absorption squeezes."
+  "analysis": "Price has marginally broken below the Value Area Low at 81,350, driven primarily by aggressive perpetual market selling paired with moderate spot outflows. The heavy perpetual volume dominance relative to spot indicates elevated risk of short exhaustion or a leverage-driven breakdown.",
+  "key_risk": "A quick reclaim above the Value Area Low (81,350) triggering a short squeeze back toward the Point of Control at 81,400."
 }
