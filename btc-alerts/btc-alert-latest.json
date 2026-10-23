@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-23T20:57:37.294807+00:00",
-  "price": 81475.11,
+  "timestamp": "2026-10-23T21:02:42.081254+00:00",
+  "price": 81450.02,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -6.5443,
-  "perp_cvd": -20.55,
-  "divergence": 14.0057,
+  "spot_cvd": 1.149,
+  "perp_cvd": -60.44,
+  "divergence": 61.589,
   "poc": 81350.0,
   "vah": 81450.0,
-  "val": 81250.0,
-  "analysis": "Price has accepted above VAH despite negative cumulative volume delta across both spot and perpetual markets, signaling passive limit-order absorption of aggressive sellers. With perpetual volume heavily driving price action over spot, the breakout lacks organic spot conviction and carries elevated reversal risk.",
-  "key_risk": "Failure to sustain acceptance above VAH at 81,450 triggerable by a perp unwind back toward the POC at 81,350."
+  "val": 81300.0,
+  "analysis": "Price is holding slightly above VAH at 81,450 despite aggressive negative perpetual CVD of -60.44 BTC, indicating heavy perp short absorption. This pronounced spot-perp CVD divergence creates significant squeeze potential if passive spot bids maintain control above value area high.",
+  "key_risk": "Failure of passive spot absorption at VAH causing a swift rejection back into the Value Area toward the 81,350 POC."
 }
