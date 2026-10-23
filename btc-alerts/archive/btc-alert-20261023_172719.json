@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-23T17:27:19.047442+00:00",
+  "price": 81579.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -3.4146,
+  "perp_cvd": -30.165,
+  "divergence": 26.7504,
+  "poc": 81800.0,
+  "vah": 81850.0,
+  "val": 81650.0,
+  "analysis": "Heavy derivative selling has pushed price below the Value Area Low of $81,650 without aggressive spot participation. This leverage-driven displacement creates significant short-side exhaustion risk and potential for a mean-reversion squeeze back toward POC.",
+  "key_risk": "Perp short-covering triggering a rapid squeeze back above VAL ($81,650) toward POC ($81,800)."
+}
