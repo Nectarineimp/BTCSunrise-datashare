@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-23T19:32:30.767897+00:00",
+  "price": 81310.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -10.7099,
+  "perp_cvd": -323.273,
+  "divergence": 312.5631,
+  "poc": 81300.0,
+  "vah": 81450.0,
+  "val": 81250.0,
+  "analysis": "Heavy derivative selling is driving perpetual CVD significantly lower while spot delta remains relatively muted near the Value Area Low. This structural divergence indicates aggressive short positioning into passive support, raising the probability of a short squeeze if price reclaims value.",
+  "key_risk": "Breakdown and acceptance below 81250 VAL inviting spot follow-through selling."
+}
