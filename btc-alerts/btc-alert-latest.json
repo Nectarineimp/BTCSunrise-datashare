@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-24T02:18:04.987932+00:00",
-  "price": 80902.0,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 30.8305,
-  "perp_cvd": -20.041,
-  "divergence": 50.8715,
+  "timestamp": "2026-10-24T02:23:05.489666+00:00",
+  "price": 80840.1,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 29.0534,
+  "perp_cvd": -46.067,
+  "divergence": 75.1204,
   "poc": 80850.0,
-  "vah": 80900.0,
-  "val": 80750.0,
-  "analysis": "Spot buying is actively absorbing derivative short positionings, pushing price marginally above the Value Area High at 80,900. Constructive upside bias remains intact as long as spot CVD continues to lead price acceptance above the value area.",
-  "key_risk": "A failed auction back below VAH (80,900) triggering a mean-reversion retest of the POC at 80,850."
+  "vah": 80950.0,
+  "val": 80800.0,
+  "analysis": "Price rotating inside Value Area near POC ($80,850.00). Spot CVD delta is positive (+29.05 BTC).",
+  "key_risk": "Range chop between VAL ($80,800.00) and VAH ($80,950.00)."
 }
