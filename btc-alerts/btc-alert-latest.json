@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-24T14:06:58.624276+00:00",
-  "price": 80734.01,
-  "regime": "Mean Reverting / Consolidation",
-  "spot_cvd": 10.0472,
-  "perp_cvd": -95.703,
-  "divergence": 105.7502,
+  "timestamp": "2026-10-24T14:11:58.748717+00:00",
+  "price": 80650.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -11.0029,
+  "perp_cvd": -119.038,
+  "divergence": 108.0351,
   "poc": 80700.0,
   "vah": 80750.0,
   "val": 80650.0,
-  "analysis": "Price rotating inside Value Area near POC ($80,700.00). Spot CVD delta is positive (+10.05 BTC).",
-  "key_risk": "Range chop between VAL ($80,650.00) and VAH ($80,750.00)."
+  "analysis": "Aggressive perpetual futures selling has pushed price marginally below VAL, yet flat spot CVD suggests spot absorption rather than spot panic. The lack of spot selling follow-through elevates the probability of a short squeeze back into the value area toward the POC.",
+  "key_risk": "Perpetual short liquidation cascade driving a sharp mean-reversion move back into the Value Area."
 }
