@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-24T03:58:11.564537+00:00",
+  "price": 80957.58,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 119.1508,
+  "perp_cvd": -96.402,
+  "divergence": 215.5528,
+  "poc": 80900.0,
+  "vah": 81050.0,
+  "val": 80900.0,
+  "analysis": "Price has drifted slightly below Value Area Low driven by aggressive derivative selling, while spot CVD exhibits passive buying absorption (+24.77 BTC delta). This pronounced spot-perp CVD divergence suggests leverage crowding, raising the probability of a short-covering squeeze back into value.",
+  "key_risk": "Spot bid absorption failure triggering cascading derivative liquidations below key liquidity at $80,800."
+}

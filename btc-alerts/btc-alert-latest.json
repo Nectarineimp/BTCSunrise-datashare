@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-24T03:53:11.560940+00:00",
-  "price": 80854.97,
+  "timestamp": "2026-10-24T03:58:11.564537+00:00",
+  "price": 80957.58,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 4.5253,
-  "perp_cvd": -116.745,
-  "divergence": 121.2703,
+  "spot_cvd": 119.1508,
+  "perp_cvd": -96.402,
+  "divergence": 215.5528,
   "poc": 80900.0,
   "vah": 81050.0,
   "val": 80900.0,
-  "analysis": "Price testing liquidity below VAL at $80,854.97. Delta volume lacks high-conviction institutional participation.",
-  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,900.00)."
+  "analysis": "Price has drifted slightly below Value Area Low driven by aggressive derivative selling, while spot CVD exhibits passive buying absorption (+24.77 BTC delta). This pronounced spot-perp CVD divergence suggests leverage crowding, raising the probability of a short-covering squeeze back into value.",
+  "key_risk": "Spot bid absorption failure triggering cascading derivative liquidations below key liquidity at $80,800."
 }
