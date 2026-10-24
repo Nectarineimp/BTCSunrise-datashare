@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-24T00:38:00.436428+00:00",
-  "price": 80686.1,
+  "timestamp": "2026-10-24T00:43:00.447003+00:00",
+  "price": 80583.4,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -43.8128,
-  "perp_cvd": 101.326,
-  "divergence": -145.1388,
+  "spot_cvd": -47.7182,
+  "perp_cvd": 50.644,
+  "divergence": -98.3622,
   "poc": 81100.0,
   "vah": 81200.0,
-  "val": 80900.0,
-  "analysis": "Price has broken below the Value Area Low at $80,900 driven by spot distribution despite aggressive perpetual buying. The pronounced negative CVD divergence highlights trapped derivative longs, increasing the probability of downside liquidation cascades.",
-  "key_risk": "Cascading liquidations of trapped perp longs below $80,600."
+  "val": 80800.0,
+  "analysis": "Price testing liquidity below VAL at $80,583.40. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,100.00)."
 }
