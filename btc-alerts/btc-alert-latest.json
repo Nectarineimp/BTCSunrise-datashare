@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-24T14:11:58.748717+00:00",
-  "price": 80650.01,
+  "timestamp": "2026-10-24T14:16:58.756752+00:00",
+  "price": 80324.25,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -11.0029,
-  "perp_cvd": -119.038,
-  "divergence": 108.0351,
-  "poc": 80700.0,
-  "vah": 80750.0,
-  "val": 80650.0,
-  "analysis": "Aggressive perpetual futures selling has pushed price marginally below VAL, yet flat spot CVD suggests spot absorption rather than spot panic. The lack of spot selling follow-through elevates the probability of a short squeeze back into the value area toward the POC.",
-  "key_risk": "Perpetual short liquidation cascade driving a sharp mean-reversion move back into the Value Area."
+  "spot_cvd": -65.9571,
+  "perp_cvd": -521.002,
+  "divergence": 455.0449,
+  "poc": 80650.0,
+  "vah": 80800.0,
+  "val": 80450.0,
+  "analysis": "Price testing liquidity below VAL at $80,324.25. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,650.00)."
 }
