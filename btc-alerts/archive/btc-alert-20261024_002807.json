@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-24T00:28:07.432674+00:00",
+  "price": 80839.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -17.2877,
+  "perp_cvd": 223.817,
+  "divergence": -241.1047,
+  "poc": 81100.0,
+  "vah": 81200.0,
+  "val": 80900.0,
+  "analysis": "Aggressive perpetual long buying is failing to elevate price, leaving Bitcoin trading below the Value Area Low at $80,900 alongside net spot selling. This significant divergence creates a pronounced downside bias as leveraged longs face potential absorption and liquidation.",
+  "key_risk": "Cascade of trapped perpetual long liquidations while price remains accepted below Value Area Low."
+}
