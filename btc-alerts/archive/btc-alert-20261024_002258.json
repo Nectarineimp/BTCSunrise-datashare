@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-24T00:22:58.145089+00:00",
+  "price": 80731.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -12.5824,
+  "perp_cvd": 193.057,
+  "divergence": -205.6394,
+  "poc": 81100.0,
+  "vah": 81150.0,
+  "val": 80900.0,
+  "analysis": "Price has broken below the Value Area Low at 80,900 alongside net negative spot flows, directly contrasting heavy perpetual long accumulation. This unbacked leveraged buying below value significantly elevates the risk of an aggressive downside long liquidation sweep.",
+  "key_risk": "Forced liquidation cascade of over-leveraged perpetual long positions below 80,700."
+}
