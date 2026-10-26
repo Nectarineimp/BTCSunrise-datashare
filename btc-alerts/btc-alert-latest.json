@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-26T11:42:05.118502+00:00",
-  "price": 80384.5,
-  "regime": "Consolidation",
+  "timestamp": "2026-10-26T11:47:07.649284+00:00",
+  "price": 80349.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
   "spot_cvd": 0.0,
-  "perp_cvd": -0.001,
-  "divergence": 0.001,
+  "perp_cvd": 10.085,
+  "divergence": -10.085,
   "poc": 80350.0,
   "vah": 80400.0,
   "val": 80350.0,
-  "analysis": "",
-  "key_risk": ""
+  "analysis": "Perpetual buyers are aggressively building long positions without any supporting spot volume, keeping price pinned below the Value Area Low. This severe spot-perp divergence leaves leveraged longs highly vulnerable to a cascade if price fails to reclaim 80,350.",
+  "key_risk": "Absence of spot bid volume exposing unbacked perp long positions to liquidation below VAL."
 }
