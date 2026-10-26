@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-26T23:32:57.250819+00:00",
-  "price": 80015.1,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 52.5376,
-  "perp_cvd": -108.075,
-  "divergence": 160.6126,
-  "poc": 79900.0,
-  "vah": 80000.0,
+  "timestamp": "2026-10-26T23:37:59.935265+00:00",
+  "price": 80128.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 75.4053,
+  "perp_cvd": 10.988,
+  "divergence": 64.4173,
+  "poc": 79950.0,
+  "vah": 80050.0,
   "val": 79750.0,
-  "analysis": "Spot CVD accumulation is actively absorbing persistent perpetual short delta, pushing spot prices above the 80,000 VAH threshold. Continued failure of perp sellers to suppress price reinforces a bullish expansion bias towards higher liquidity pools.",
-  "key_risk": "Price rejection back inside the Value Area below 80,000 triggering a rapid mean-reversion flush to POC."
+  "analysis": "Price testing liquidity above VAH at $80,128.70. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($79,950.00)."
 }
