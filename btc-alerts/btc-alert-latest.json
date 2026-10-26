@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-26T21:12:45.683835+00:00",
-  "price": 79970.82,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 76.2591,
-  "perp_cvd": -295.948,
-  "divergence": 372.2071,
+  "timestamp": "2026-10-26T21:17:45.772811+00:00",
+  "price": 79933.06,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 64.1047,
+  "perp_cvd": -305.346,
+  "divergence": 369.4507,
   "poc": 79850.0,
   "vah": 79950.0,
   "val": 79800.0,
-  "analysis": "Spot accumulation is actively absorbing derivative short positioning, driving price acceptance above the Value Area High of 79,950. Upside continuation relies on spot CVD sustaining momentum to force a short squeeze among over-leveraged perp participants.",
-  "key_risk": "Failure of spot volume to hold above VAH (79,950), risking a sharp mean-reversion rotation back to the POC at 79,850."
+  "analysis": "Price rotating inside Value Area near POC ($79,850.00). Spot CVD delta is positive (+64.10 BTC).",
+  "key_risk": "Range chop between VAL ($79,800.00) and VAH ($79,950.00)."
 }
