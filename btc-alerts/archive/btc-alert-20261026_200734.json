@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-26T20:07:34.609296+00:00",
+  "price": 79950.06,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 107.6395,
+  "perp_cvd": 3.745,
+  "divergence": 103.8945,
+  "poc": 80000.0,
+  "vah": 80100.0,
+  "val": 79950.0,
+  "analysis": "Spot CVD shows active net buying (+107.67 BTC) despite price trading below the Value Area Low (79,950), indicating spot absorption of derivative selling pressure. The strong divergence between spot accumulation and flat perp CVD points to downside exhaustion and squeeze potential back toward the 80,000 POC.",
+  "key_risk": "Failure of spot bids to reclaim VAL (79,950), risking accelerated downside if perp open interest continues to build against spot flow."
+}
