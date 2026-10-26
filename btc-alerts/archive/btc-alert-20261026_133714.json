@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-26T13:37:14.270019+00:00",
+  "price": 79500.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -27.2025,
+  "perp_cvd": -212.776,
+  "divergence": 185.5735,
+  "poc": 80150.0,
+  "vah": 80400.0,
+  "val": 79950.0,
+  "analysis": "Price has broken below the Value Area Low at 79,950, driven predominantly by aggressive derivative selling rather than spot distribution. The significant divergence between heavy perp net-selling and muted spot CVD indicates downside leverage overextension and heightened exhaustion risk.",
+  "key_risk": "Perpetual short overextension precipitating a squeeze back toward the 80,150 Point of Control."
+}
