@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-26T16:07:14.846212+00:00",
-  "price": 80276.38,
+  "timestamp": "2026-10-26T16:12:14.889028+00:00",
+  "price": 80324.01,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 42.5791,
-  "perp_cvd": 197.495,
-  "divergence": -154.9159,
+  "spot_cvd": 57.2459,
+  "perp_cvd": 223.146,
+  "divergence": -165.9001,
   "poc": 80600.0,
   "vah": 80800.0,
-  "val": 80450.0,
-  "analysis": "Price has broken below VAL despite positive CVD, driven primarily by aggressive futures positioning relative to muted spot volume. This heavy perp dominance and negative CVD divergence leave long buyers vulnerable to a cascade if spot support fails to materialize.",
-  "key_risk": "Long liquidation cascade if price fails to reclaim Value Area Low (80,450)"
+  "val": 80400.0,
+  "analysis": "Price testing liquidity below VAL at $80,324.01. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,600.00)."
 }
