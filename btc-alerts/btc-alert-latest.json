@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-26T13:22:14.214222+00:00",
-  "price": 80112.01,
+  "timestamp": "2026-10-26T13:27:14.256228+00:00",
+  "price": 79920.81,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 136.6877,
-  "perp_cvd": -99.374,
-  "divergence": 236.0617,
+  "spot_cvd": -2.2385,
+  "perp_cvd": -273.273,
+  "divergence": 271.0345,
   "poc": 80150.0,
   "vah": 80350.0,
-  "val": 80100.0,
-  "analysis": "Spot buyers are actively absorbing derivative selling pressure as price trades marginally below the Value Area Low of 80,100. This strong positive CVD divergence indicates potential short-seller exhaustion and sets up a mean-reverting squeeze back toward the POC.",
-  "key_risk": "Breakdown of spot absorption leading to sustained volume acceptance below 80,000."
+  "val": 80000.0,
+  "analysis": "Price testing liquidity below VAL at $79,920.81. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,150.00)."
 }
