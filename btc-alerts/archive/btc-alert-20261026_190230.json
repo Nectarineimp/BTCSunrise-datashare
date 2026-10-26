@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-26T19:02:30.185524+00:00",
+  "price": 79974.87,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 111.1895,
+  "perp_cvd": -352.365,
+  "divergence": 463.5545,
+  "poc": 80200.0,
+  "vah": 80350.0,
+  "val": 80000.0,
+  "analysis": "Price has breached below VAL driven by aggressive derivative selling, but positive spot CVD indicates passive spot absorption of the leverage expansion. A failure of perp shorts to maintain acceptance below 80,000 creates asymmetric short squeeze risk back toward the 80,200 POC.",
+  "key_risk": "Perp aggressive selling accelerating to trigger cascading long liquidations below 79,500"
+}
