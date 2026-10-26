@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-26T22:22:50.983154+00:00",
-  "price": 79971.3,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 80.8223,
-  "perp_cvd": 0.722,
-  "divergence": 80.1003,
+  "timestamp": "2026-10-26T22:27:51.387866+00:00",
+  "price": 79999.95,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 70.3711,
+  "perp_cvd": -6.371,
+  "divergence": 76.7421,
   "poc": 80050.0,
   "vah": 80150.0,
   "val": 80000.0,
-  "analysis": "Spot CVD reflects strong net accumulation despite price trading below the Value Area Low at 80,000. This positive spot-to-perp divergence indicates aggressive perpetual selling is being absorbed, raising the likelihood of a mean-reversion back toward the POC.",
-  "key_risk": "Sustained perpetual short aggression overwhelming spot bid absorption and establishing acceptance below VAL."
+  "analysis": "Price testing liquidity below VAL at $79,999.95. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,050.00)."
 }
