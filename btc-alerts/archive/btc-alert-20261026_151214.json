@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-26T15:12:14.633550+00:00",
+  "price": 80306.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 65.2131,
+  "perp_cvd": 281.188,
+  "divergence": -215.9749,
+  "poc": 79950.0,
+  "vah": 80200.0,
+  "val": 79750.0,
+  "analysis": "Price has pushed above VAH to 80,324.38, but the move is heavily over-indexed on perpetual swap buying rather than spot accumulation. The severe negative divergence between spot and perp CVD signals weak organic spot demand and heightened vulnerability to a leverage unwind back into value.",
+  "key_risk": "Lack of spot market follow-through risking a breakout failure and fast mean-reversion below VAH (80,200.0) toward POC (79,950.0)."
+}
