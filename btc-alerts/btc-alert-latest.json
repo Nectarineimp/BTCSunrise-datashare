@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-26T11:47:07.649284+00:00",
-  "price": 80349.7,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "timestamp": "2026-10-26T11:52:08.864211+00:00",
+  "price": 80350.5,
+  "regime": "Mean Reverting / Consolidation",
   "spot_cvd": 0.0,
-  "perp_cvd": 10.085,
-  "divergence": -10.085,
-  "poc": 80350.0,
+  "perp_cvd": -39.206,
+  "divergence": 39.206,
+  "poc": 80300.0,
   "vah": 80400.0,
-  "val": 80350.0,
-  "analysis": "Perpetual buyers are aggressively building long positions without any supporting spot volume, keeping price pinned below the Value Area Low. This severe spot-perp divergence leaves leveraged longs highly vulnerable to a cascade if price fails to reclaim 80,350.",
-  "key_risk": "Absence of spot bid volume exposing unbacked perp long positions to liquidation below VAL."
+  "val": 80300.0,
+  "analysis": "Price rotating inside Value Area near POC ($80,300.00). Spot CVD delta is negative (+0.00 BTC).",
+  "key_risk": "Range chop between VAL ($80,300.00) and VAH ($80,400.00)."
 }
