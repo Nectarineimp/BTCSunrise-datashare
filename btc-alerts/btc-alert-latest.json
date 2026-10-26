@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-26T19:37:33.676384+00:00",
-  "price": 80050.65,
-  "regime": "Absorption at Resistance",
-  "spot_cvd": 89.1234,
-  "perp_cvd": -190.856,
-  "divergence": 279.9794,
+  "timestamp": "2026-10-26T19:42:33.937908+00:00",
+  "price": 80007.9,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 94.4416,
+  "perp_cvd": -195.485,
+  "divergence": 289.9266,
   "poc": 80000.0,
   "vah": 80100.0,
   "val": 79950.0,
-  "analysis": "Positive spot CVD against aggressive perp selling indicates active spot absorption of derivative supply right at VAH. Sustained acceptance above 80100 is required to confirm upward expansion and trigger short unwinding.",
-  "key_risk": "Rejection at VAH leading to a mean-reversion move back inside the value area toward POC at 80000."
+  "analysis": "Price rotating inside Value Area near POC ($80,000.00). Spot CVD delta is positive (+94.44 BTC).",
+  "key_risk": "Range chop between VAL ($79,950.00) and VAH ($80,100.00)."
 }
