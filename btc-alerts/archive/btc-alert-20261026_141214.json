@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-26T14:12:14.404552+00:00",
+  "price": 79679.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -12.3671,
+  "perp_cvd": -71.712,
+  "divergence": 59.3449,
+  "poc": 80150.0,
+  "vah": 80250.0,
+  "val": 79650.0,
+  "analysis": "Price has traded marginally below Value Area Low, heavily driven by aggressive derivative selling while spot CVD remains relatively passive. This substantial CVD divergence points to speculative short crowding, increasing the probability of a mean-reverting short squeeze back into the value area.",
+  "key_risk": "Perp short overcrowding driving an aggressive liquidity squeeze back above VAL (79,650)."
+}
