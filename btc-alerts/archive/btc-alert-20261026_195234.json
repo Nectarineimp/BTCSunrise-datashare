@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-26T19:52:34.066476+00:00",
+  "price": 79984.67,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 144.2599,
+  "perp_cvd": -59.908,
+  "divergence": 204.1679,
+  "poc": 80000.0,
+  "vah": 80050.0,
+  "val": 79950.0,
+  "analysis": "Spot CVD accumulation (+137.13 BTC) is absorbing aggressive perp selling (-72.72 BTC) right at the Value Area Low (79,950). This positive order flow divergence signals derivative short exhaustion and heightens squeeze risk back toward the POC (80,000).",
+  "key_risk": "Failure of spot absorption allowing clean price acceptance below the 79,950 VAL."
+}
