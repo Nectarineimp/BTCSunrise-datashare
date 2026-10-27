@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T07:18:27.425595+00:00",
+  "price": 79701.15,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 58.7632,
+  "perp_cvd": -193.968,
+  "divergence": 252.7312,
+  "poc": 79600.0,
+  "vah": 79700.0,
+  "val": 79550.0,
+  "analysis": "Spot buyers are currently absorbing heavy perpetual market selling at the Value Area High of 79,700, keeping price marginally above value. A failure of spot flow to sustain momentum risks triggering a quick mean-reversion back toward the POC at 79,600.",
+  "key_risk": "Spot buying exhaustion leading to rejection back inside the Value Area below 79,700."
+}
