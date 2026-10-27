@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T10:13:35.989232+00:00",
+  "price": 79573.46,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 5.7041,
+  "perp_cvd": -212.171,
+  "divergence": 217.8751,
+  "poc": 79650.0,
+  "vah": 79750.0,
+  "val": 79550.0,
+  "analysis": "Aggressive derivative market selling has pushed price below the Value Area Low while spot CVD remains slightly positive, signaling passive spot absorption of leverage flow. This strong spot-perp CVD divergence increases the likelihood of downside derivative exhaustion and a sharp short-squeeze back toward the POC.",
+  "key_risk": "Sustained perp short aggressive selling triggering cascading liquidations below 79500."
+}
