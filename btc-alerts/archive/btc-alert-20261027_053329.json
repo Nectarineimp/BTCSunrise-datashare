@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T05:33:29.807886+00:00",
+  "price": 79850.01,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 100.0755,
+  "perp_cvd": 57.23,
+  "divergence": 42.8454,
+  "poc": 79750.0,
+  "vah": 79850.0,
+  "val": 79650.0,
+  "analysis": "Spot market buying is actively driving price above the Value Area High at 79,850 with positive CVD divergence relative to perpetual swaps. Acceptance above VAH confirms bullish continuation, whereas a quick rejection threatens a mean-reversion back toward POC.",
+  "key_risk": "Rejection back into the Value Area below 79,850 triggering mean-reversion toward POC at 79,750."
+}
