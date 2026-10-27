@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-27T10:53:36.116511+00:00",
-  "price": 79970.0,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 42.935,
-  "perp_cvd": -22.071,
-  "divergence": 65.006,
+  "timestamp": "2026-10-27T10:58:36.143103+00:00",
+  "price": 79965.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 56.3421,
+  "perp_cvd": -48.308,
+  "divergence": 104.6501,
   "poc": 79600.0,
   "vah": 79850.0,
   "val": 79450.0,
-  "analysis": "Spot buying delta continues to absorb passive derivative selling as price breaks out above the Value Area High ($79,850). The positive spot-perp CVD divergence indicates organic spot demand is driving price expansion rather than speculative leverage.",
-  "key_risk": "Failure to maintain acceptance above VAH ($79,850), exposing price to a mean-reversion back toward the Volume POC ($79,600)."
+  "analysis": "Price testing liquidity above VAH at $79,965.60. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($79,600.00)."
 }
