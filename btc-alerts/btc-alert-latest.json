@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-27T21:57:18.766956+00:00",
-  "price": 80936.23,
+  "timestamp": "2026-10-27T22:02:18.786598+00:00",
+  "price": 80867.16,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 153.2238,
-  "perp_cvd": 634.899,
-  "divergence": -481.6752,
+  "spot_cvd": 116.1806,
+  "perp_cvd": 576.673,
+  "divergence": -460.4924,
   "poc": 81000.0,
   "vah": 81250.0,
   "val": 80900.0,
-  "analysis": "Aggressive perpetual buying is failing to hold price within value as Bitcoin breaks below the Value Area Low of 80,900 amidst weak spot demand. This pronounced leverage-driven divergence leaves over-leveraged long positions highly vulnerable to a downside liquidation cascade if spot bids fail to materialize.",
-  "key_risk": "Cascade liquidation of trapped perpetual long positions below 80,900 due to absent spot bid support."
+  "analysis": "Price testing liquidity below VAL at $80,867.16. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,000.00)."
 }
