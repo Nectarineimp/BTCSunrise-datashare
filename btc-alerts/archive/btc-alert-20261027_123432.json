@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T12:34:32.068794+00:00",
+  "price": 80264.23,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -5.558,
+  "perp_cvd": 16.162,
+  "divergence": -21.72,
+  "poc": 79850.0,
+  "vah": 79900.0,
+  "val": 79800.0,
+  "analysis": "Bitcoin has pushed above the Value Area High to 80,264, but the expansion is driven entirely by derivative aggression while spot flow remains negative. This sharp spot-perp CVD divergence (-21.72) highlights fragile structural support and a high probability of leverage exhaustion.",
+  "key_risk": "Perpetual long liquidation cascade leading to a rapid mean-reversion back below 79,900 VAH."
+}
