@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T00:43:08.113967+00:00",
+  "price": 80304.26,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 154.3646,
+  "perp_cvd": 468.065,
+  "divergence": -313.7004,
+  "poc": 80200.0,
+  "vah": 80300.0,
+  "val": 80100.0,
+  "analysis": "Price is marginally breaking above VAH at 80,300, but the movement is overwhelmingly driven by perpetual leverage rather than spot accumulation. Without stronger spot CVD confirmation, this push lacks conviction and risks a rapid mean-reversion move back into the value area.",
+  "key_risk": "Failure to maintain acceptance above 80,300 VAH triggering perpetual long liquidations down toward the 80,200 POC."
+}
