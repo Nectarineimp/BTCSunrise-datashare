@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T07:28:28.031881+00:00",
+  "price": 79724.95,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 71.4704,
+  "perp_cvd": -137.646,
+  "divergence": 209.1164,
+  "poc": 79600.0,
+  "vah": 79700.0,
+  "val": 79550.0,
+  "analysis": "Price acceptance above VAH (79,700) is supported by positive spot CVD despite aggressive perpetual shorting. Spot absorption of derivative sell pressure signals structural strength, favoring upside continuation while VAH holds.",
+  "key_risk": "Failed auction marked by a rapid re-entry into the Value Area below 79,700."
+}
