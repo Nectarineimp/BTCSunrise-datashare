@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T05:28:23.256136+00:00",
+  "price": 79810.01,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 103.31,
+  "perp_cvd": 25.813,
+  "divergence": 77.497,
+  "poc": 79650.0,
+  "vah": 79800.0,
+  "val": 79600.0,
+  "analysis": "Price is expanding above the 79,800 Value Area High driven by aggressive spot buying outstripping derivative flow. Sustained acceptance above VAH supports upside continuation, whereas a quick rejection back into value opens risk of a mean-reversion test to POC.",
+  "key_risk": "Failure to hold 79,800 VAH as structural support, risking a rapid mean-reversion move back into the value area toward POC."
+}
