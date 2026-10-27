@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T00:13:03.885040+00:00",
+  "price": 80298.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 88.2222,
+  "perp_cvd": 426.739,
+  "divergence": -338.5168,
+  "poc": 80100.0,
+  "vah": 80250.0,
+  "val": 80000.0,
+  "analysis": "Price has extended above VAH driven predominantly by aggressive perpetual leverage, while spot CVD shows minimal buying support. Without spot follow-through to absorb liquidity, this derivative-led move carries significant risk of an exhaustion reversal back into the value area.",
+  "key_risk": "Long liquidation cascade triggering a rapid re-entry into the Value Area below 80,250 VAH."
+}
