@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T00:23:06.361528+00:00",
+  "price": 80218.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 144.4046,
+  "perp_cvd": 475.694,
+  "divergence": -331.2894,
+  "poc": 80200.0,
+  "vah": 80250.0,
+  "val": 80050.0,
+  "analysis": "Price is marginally breaking above VAH, heavily driven by derivative accumulation rather than spot buying. Without stronger spot volume confirmation, this leverage-heavy push faces significant exhaustion risk at local resistance.",
+  "key_risk": "Absence of spot absorption above VAH risking a long liquidation sweep back inside the value area towards POC."
+}
