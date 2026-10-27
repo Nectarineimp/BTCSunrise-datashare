@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T20:52:15.450932+00:00",
+  "price": 80812.45,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 92.7462,
+  "perp_cvd": -108.136,
+  "divergence": 200.8822,
+  "poc": 80650.0,
+  "vah": 80800.0,
+  "val": 80650.0,
+  "analysis": "Spot aggressive buying is actively absorbing perpetual short positioning, driving price marginally above the Value Area High at 80,800. Conviction remains structurally bullish provided spot volume sustains acceptance above VAH despite counter-directional perp flows.",
+  "key_risk": "Acceptance failure above VAH (80,800) driving rapid mean-reversion toward the POC at 80,650."
+}
