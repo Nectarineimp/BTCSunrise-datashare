@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T21:32:18.179269+00:00",
+  "price": 80960.0,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 161.4586,
+  "perp_cvd": 356.368,
+  "divergence": -194.9094,
+  "poc": 80700.0,
+  "vah": 80800.0,
+  "val": 80600.0,
+  "analysis": "Spot CVD delta outpaces perpetual order flow as price marginally breaks above the Value Area High of 80,800. Net spot accumulation provides underlying bullish conviction, though immediate acceptance above VAH is required to sustain momentum.",
+  "key_risk": "Failure to build volume acceptance above VAH risking a sharp mean-reversion move back toward the POC at 80,700."
+}
