@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T22:42:21.832097+00:00",
+  "price": 80855.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 18.3345,
+  "perp_cvd": -339.164,
+  "divergence": 357.4985,
+  "poc": 80950.0,
+  "vah": 81000.0,
+  "val": 80850.0,
+  "analysis": "Aggressive perpetual shorting is pushing price slightly below Value Area Low while spot CVD remains positive, indicating active spot absorption. This pronounced CVD divergence creates high potential for a short squeeze if price reclaims 80,850.",
+  "key_risk": "Sustained acceptance below VAL (80,850) leading to spot absorption failure and accelerated downside expansion."
+}
