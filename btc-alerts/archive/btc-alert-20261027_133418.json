@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T13:34:18.718702+00:00",
+  "price": 79980.4,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 142.3402,
+  "perp_cvd": 75.413,
+  "divergence": 66.9272,
+  "poc": 80350.0,
+  "vah": 80450.0,
+  "val": 80150.0,
+  "analysis": "Spot CVD leads derivatives with positive net delta despite price trading below VAL, indicating active spot absorption at lower price levels. A sustained reclaim of VAL (80,150) is required to trigger a mean-reversion expansion toward the POC at 80,350.",
+  "key_risk": "Inability to reclaim VAL (80,150), risking derivative-driven downside expansion if spot absorption capacity is overwhelmed."
+}
