@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T02:08:11.093246+00:00",
+  "price": 80031.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 129.2135,
+  "perp_cvd": -191.375,
+  "divergence": 320.5885,
+  "poc": 80000.0,
+  "vah": 80250.0,
+  "val": 80000.0,
+  "analysis": "Spot CVD shows active absorption against aggressive derivative selling just below the Value Area Low of 80,000. Continued spot bid support at this key liquidity node increases the probability of a short squeeze back into the value area.",
+  "key_risk": "Breakdown of spot absorption allowing perp selling to drive price acceptance below 80,000 VAL."
+}
