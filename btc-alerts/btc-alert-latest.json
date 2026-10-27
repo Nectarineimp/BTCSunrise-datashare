@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-27T05:33:29.807886+00:00",
-  "price": 79850.01,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 100.0755,
-  "perp_cvd": 57.23,
-  "divergence": 42.8454,
+  "timestamp": "2026-10-27T05:38:23.709676+00:00",
+  "price": 79834.12,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 96.7654,
+  "perp_cvd": 50.149,
+  "divergence": 46.6164,
   "poc": 79750.0,
   "vah": 79850.0,
   "val": 79650.0,
-  "analysis": "Spot market buying is actively driving price above the Value Area High at 79,850 with positive CVD divergence relative to perpetual swaps. Acceptance above VAH confirms bullish continuation, whereas a quick rejection threatens a mean-reversion back toward POC.",
-  "key_risk": "Rejection back into the Value Area below 79,850 triggering mean-reversion toward POC at 79,750."
+  "analysis": "Price rotating inside Value Area near POC ($79,750.00). Spot CVD delta is positive (+96.77 BTC).",
+  "key_risk": "Range chop between VAL ($79,650.00) and VAH ($79,850.00)."
 }
