@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T00:33:06.960780+00:00",
+  "price": 80265.43,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 162.8656,
+  "perp_cvd": 453.825,
+  "divergence": -290.9594,
+  "poc": 80200.0,
+  "vah": 80300.0,
+  "val": 80100.0,
+  "analysis": "Perpetual futures are aggressively driving price marginally above VAH without spot volume confirmation. This derivative-heavy expansion presents significant risk of long exhaustion and mean-reversion toward POC.",
+  "key_risk": "Lack of spot CVD absorption creating long liquidation vulnerability above VAH."
+}
