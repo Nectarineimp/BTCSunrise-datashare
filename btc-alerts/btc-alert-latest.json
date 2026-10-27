@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-27T23:02:23.307538+00:00",
-  "price": 80878.19,
-  "regime": "Mean Reverting / Consolidation",
-  "spot_cvd": -6.1598,
-  "perp_cvd": -89.84,
-  "divergence": 83.6802,
+  "timestamp": "2026-10-27T23:07:23.490003+00:00",
+  "price": 80970.28,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": 5.8179,
+  "perp_cvd": -82.536,
+  "divergence": 88.3539,
   "poc": 80850.0,
   "vah": 80950.0,
   "val": 80800.0,
-  "analysis": "Price rotating inside Value Area near POC ($80,850.00). Spot CVD delta is negative (-6.16 BTC).",
-  "key_risk": "Range chop between VAL ($80,800.00) and VAH ($80,950.00)."
+  "analysis": "Spot buying is absorbing heavy derivative short-side delta right at the Value Area High boundary of 80,950. A failure of perp sellers to push price back into the value area opens the door for a short squeeze above local highs.",
+  "key_risk": "Rejection back inside the Value Area High driving a mean-reversion move toward the 80,850 POC."
 }
