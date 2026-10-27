@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T01:18:10.254189+00:00",
+  "price": 80228.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 86.7469,
+  "perp_cvd": 73.695,
+  "divergence": 13.0519,
+  "poc": 80250.0,
+  "vah": 80300.0,
+  "val": 80200.0,
+  "analysis": "Perpetual aggressive buying is outstripping spot demand while price remains accepted below the Value Area Low of 80,200. This leverage-driven bid into price weakness significantly increases the risk of long exhaustion and a liquidation cascade.",
+  "key_risk": "Failure of spot volume to confirm perp buying below VAL, exposing aggressive leverage to downside squeezes."
+}
