@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-27T11:08:36.243249+00:00",
-  "price": 80072.99,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 68.9274,
-  "perp_cvd": -27.928,
-  "divergence": 96.8554,
-  "poc": 79500.0,
-  "vah": 79950.0,
+  "timestamp": "2026-10-27T11:13:36.246910+00:00",
+  "price": 79995.3,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 60.9603,
+  "perp_cvd": -98.181,
+  "divergence": 159.1413,
+  "poc": 79600.0,
+  "vah": 80000.0,
   "val": 79450.0,
-  "analysis": "Spot CVD is aggressively positive while perps sell into the rally, driving price acceptance above the Value Area High at 79,950. This organic spot demand signals strong structural upside conviction, supporting a continuation of the expansion phase.",
-  "key_risk": "Failure to sustain price acceptance above VAH (79,950), risking a mean-reversion move back into the volume profile toward the POC (79,500)."
+  "analysis": "Price rotating inside Value Area near POC ($79,600.00). Spot CVD delta is positive (+60.96 BTC).",
+  "key_risk": "Range chop between VAL ($79,450.00) and VAH ($80,000.00)."
 }
