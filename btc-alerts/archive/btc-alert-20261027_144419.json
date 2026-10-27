@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T14:44:19.954600+00:00",
+  "price": 80307.81,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 65.6632,
+  "perp_cvd": -25.646,
+  "divergence": 91.3092,
+  "poc": 80000.0,
+  "vah": 80250.0,
+  "val": 79950.0,
+  "analysis": "Price has expanded above the 80250 VAH backed by positive spot CVD delta, indicating organic spot buying driving the breakout. Persistent derivative selling introduces mild friction, but spot dominance favors upward continuation while above value area high.",
+  "key_risk": "Look-above-and-fail rejection below 80250 VAH triggering a rapid mean-reversion back toward the 80000 POC."
+}
