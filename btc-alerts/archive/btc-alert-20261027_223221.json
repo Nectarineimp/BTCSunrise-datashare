@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T22:32:21.603134+00:00",
+  "price": 80929.48,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 46.357,
+  "perp_cvd": -175.816,
+  "divergence": 222.173,
+  "poc": 80950.0,
+  "vah": 81150.0,
+  "val": 80850.0,
+  "analysis": "Bitcoin trades below the Value Area Low as aggressive derivative selling is actively absorbed by steady spot accumulation. The notable positive spot-to-perp CVD divergence signals elevated risk of a perp short squeeze back toward the 81,200 POC.",
+  "key_risk": "Failure of spot passive bids to hold price below 80,950 VAL, opening risk to downside liquidation cascades."
+}
