@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-27T23:22:26.511769+00:00",
+  "price": 80896.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 36.3417,
+  "perp_cvd": 51.7,
+  "divergence": -15.3583,
+  "poc": 80850.0,
+  "vah": 80950.0,
+  "val": 80850.0,
+  "analysis": "Perpetual buyers are aggressively driving volume delta while price remains trapped below the Value Area Low at 80,850. This reliance on leverage without spot follow-through leaves long positions vulnerable to absorption and downside liquidation.",
+  "key_risk": "Limit sell absorption at the Value Area Low triggering a long liquidation cascade."
+}
