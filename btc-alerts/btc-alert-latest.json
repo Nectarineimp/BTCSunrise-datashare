@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-27T14:29:19.585872+00:00",
-  "price": 80221.9,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 29.1137,
-  "perp_cvd": -19.994,
-  "divergence": 49.1077,
+  "timestamp": "2026-10-27T14:34:19.738567+00:00",
+  "price": 80297.52,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 71.3209,
+  "perp_cvd": 45.317,
+  "divergence": 26.0039,
   "poc": 80000.0,
-  "vah": 80200.0,
+  "vah": 80250.0,
   "val": 79950.0,
-  "analysis": "Spot flow demonstrates strong positive conviction (+29.04 BTC) absorbing aggressive perpetual short positioning (-35.78 BTC) at the upper boundary of value. The resulting positive CVD divergence supports a bullish structural bias, provided price maintains acceptance above the Value Area High at 80,200.0.",
-  "key_risk": "Exhaustion of spot passive absorption causing a failed breakout above VAH and swift mean reversion back to the POC at 80,000.0."
+  "analysis": "Price testing liquidity above VAH at $80,297.52. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,000.00)."
 }
