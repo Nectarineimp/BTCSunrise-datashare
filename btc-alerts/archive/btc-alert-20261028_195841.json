@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-28T19:58:41.745261+00:00",
+  "price": 81314.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 73.9463,
+  "perp_cvd": 274.946,
+  "divergence": -200.9997,
+  "poc": 81000.0,
+  "vah": 81200.0,
+  "val": 80950.0,
+  "analysis": "Price has broken above VAH at 81,200, but the rally is heavily skewed toward derivative leverage rather than organic spot participation. The significant divergence between perp and spot CVD signals elevated risk of an exhaustion pull-back toward the 81,000 POC if momentum stalls.",
+  "key_risk": "Perpetual long unwind triggering a sharp mean-reversion retest of the Value Area High (81,200) and POC (81,000)."
+}
