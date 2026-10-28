@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T18:33:40.410307+00:00",
-  "price": 80771.58,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 218.1354,
-  "perp_cvd": -86.516,
-  "divergence": 304.6514,
+  "timestamp": "2026-10-28T18:38:40.428314+00:00",
+  "price": 81243.72,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 209.0844,
+  "perp_cvd": 46.328,
+  "divergence": 162.7564,
   "poc": 80700.0,
   "vah": 80900.0,
   "val": 80700.0,
-  "analysis": "Aggressive spot accumulation (+215 BTC CVD) is absorbing perpetual swap selling pressure (-85 BTC CVD) below the Value Area Low at 80,700. A reclaim of the 80,700 POC is required to confirm spot acceptance back into value and target VAH at 80,900.",
-  "key_risk": "Perpetual swap selling overwhelming spot absorption below the 80,700 VAL support"
+  "analysis": "Price testing liquidity above VAH at $81,243.72. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,700.00)."
 }
