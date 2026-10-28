@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-28T03:32:56.818240+00:00",
+  "price": 81194.46,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 78.2086,
+  "perp_cvd": 177.122,
+  "divergence": -98.9134,
+  "poc": 80900.0,
+  "vah": 81100.0,
+  "val": 80900.0,
+  "analysis": "Price has marginally breached the Value Area High at 81,100, but market participation is heavily skewed toward perpetual swaps rather than spot buying. The strong negative CVD divergence indicates a weak underlying spot bid, raising the probability of a failed breakout and subsequent squeeze back into the value area.",
+  "key_risk": "Breakdown back inside VAH (81,100) triggering a cascading unwinding of aggressive perp longs."
+}
