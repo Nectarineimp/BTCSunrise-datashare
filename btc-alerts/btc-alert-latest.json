@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T09:58:19.263884+00:00",
-  "price": 81527.95,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 97.3827,
-  "perp_cvd": -94.798,
-  "divergence": 192.1807,
+  "timestamp": "2026-10-28T10:03:19.316554+00:00",
+  "price": 81558.61,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 98.8363,
+  "perp_cvd": -35.819,
+  "divergence": 134.6553,
   "poc": 81450.0,
-  "vah": 81500.0,
+  "vah": 81550.0,
   "val": 81400.0,
-  "analysis": "Aggressive spot delta accumulation is actively absorbing perpetual selling interest as price probes above the Value Area High at 81,500. Sustained spot buying conviction is required to establish acceptance above value and avoid a mean-reverting rotation back to the 81,450 POC.",
-  "key_risk": "Perpetual swap selling pressure triggering a rejection at VAH back into the value area."
+  "analysis": "Price testing liquidity above VAH at $81,558.61. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,450.00)."
 }
