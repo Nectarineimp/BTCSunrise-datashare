@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-28T15:28:30.149160+00:00",
+  "price": 80725.88,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 119.7395,
+  "perp_cvd": 92.399,
+  "divergence": 27.3405,
+  "poc": 80600.0,
+  "vah": 80700.0,
+  "val": 80500.0,
+  "analysis": "Price acceptance above VAH at 80,718 is supported by strong, aligned positive deltas in both spot and perp CVD over the last hour. Strong spot aggressor volume relative to total spot turnover confirms genuine demand driving the breakout beyond the value area.",
+  "key_risk": "Failure to maintain structural acceptance above VAH (80,700.0), triggering a mean-reversion move back into the value area toward POC (80,600.0)."
+}
