@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-28T17:28:34.672007+00:00",
+  "price": 80579.26,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 219.6172,
+  "perp_cvd": -119.613,
+  "divergence": 339.2301,
+  "poc": 80400.0,
+  "vah": 80600.0,
+  "val": 80400.0,
+  "analysis": "Spot buying is actively driving price acceptance above the Value Area High (80,600) despite passive derivative selling. This spot-led delta divergence reflects genuine spot demand, supporting a bullish expansion bias so long as price holds above VAH.",
+  "key_risk": "Failed breakout returning inside the Value Area (below 80,600 VAH), risking a mean-reversion move down toward the POC at 80,400."
+}
