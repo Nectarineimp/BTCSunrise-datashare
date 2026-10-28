@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T17:53:40.304000+00:00",
-  "price": 80851.68,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 268.7176,
-  "perp_cvd": 203.661,
-  "divergence": 65.0566,
+  "timestamp": "2026-10-28T17:58:40.305465+00:00",
+  "price": 80833.4,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 246.1347,
+  "perp_cvd": 158.159,
+  "divergence": 87.9757,
   "poc": 80500.0,
-  "vah": 80750.0,
-  "val": 80500.0,
-  "analysis": "Bitcoin price has broken out above the Value Area High (80,750) backed by strong spot-driven CVD delta leading perpetual flows. This demonstrates genuine spot accumulation driving price expansion outside the previous value area with clear bullish conviction.",
-  "key_risk": "A quick rejection back inside the Value Area below 80,750 VAH, which would invalidate the breakout and trigger mean-reversion toward the 80,500 POC."
+  "vah": 80800.0,
+  "val": 80450.0,
+  "analysis": "Price testing liquidity above VAH at $80,833.40. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,500.00)."
 }
