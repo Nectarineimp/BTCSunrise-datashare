@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-28T15:48:30.548989+00:00",
+  "price": 80552.01,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 69.5768,
+  "perp_cvd": 1.562,
+  "divergence": 68.0148,
+  "poc": 80600.0,
+  "vah": 80700.0,
+  "val": 80550.0,
+  "analysis": "Aggressive spot CVD accumulation is significantly outpacing perpetual swap delta while price trades immediately below the Value Area Low. This spot absorption signals institutional accumulation and a strong bias for mean-reversion back into the value area toward POC.",
+  "key_risk": "Failure to reclaim and accept above the 80550 VAL level, risking passive exhaustion and a momentum breakdown."
+}
