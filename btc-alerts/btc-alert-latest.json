@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T20:28:42.224234+00:00",
-  "price": 81100.0,
+  "timestamp": "2026-10-28T20:33:42.264282+00:00",
+  "price": 81184.01,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 15.9497,
-  "perp_cvd": 155.279,
-  "divergence": -139.3293,
+  "spot_cvd": 49.41,
+  "perp_cvd": 190.379,
+  "divergence": -140.969,
   "poc": 81500.0,
   "vah": 81800.0,
   "val": 81250.0,
-  "analysis": "Price testing liquidity below VAL at $81,100.00. Delta volume lacks high-conviction institutional participation.",
+  "analysis": "Price testing liquidity below VAL at $81,184.01. Delta volume lacks high-conviction institutional participation.",
   "key_risk": "Mean-reversion trap back toward Value Area POC ($81,500.00)."
 }
