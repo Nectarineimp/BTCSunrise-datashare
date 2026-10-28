@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T14:13:28.620758+00:00",
-  "price": 80640.1,
+  "timestamp": "2026-10-28T14:18:28.626640+00:00",
+  "price": 80540.3,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 18.914,
-  "perp_cvd": -174.419,
-  "divergence": 193.333,
+  "spot_cvd": 62.4434,
+  "perp_cvd": -132.589,
+  "divergence": 195.0324,
   "poc": 80600.0,
   "vah": 80800.0,
   "val": 80550.0,
-  "analysis": "Aggressive perp shorting is meeting spot absorption near the Value Area Low, creating a pronounced CVD divergence. If spot demand maintains structural support at VAL, aggressive perp shorts face imminent squeeze risk back toward POC.",
-  "key_risk": "Breakdown of spot absorption at $80,550 VAL triggering cascading perp liquidations lower."
+  "analysis": "Price testing liquidity below VAL at $80,540.30. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,600.00)."
 }
