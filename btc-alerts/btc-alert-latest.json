@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T01:07:37.308368+00:00",
-  "price": 80670.04,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": -140.2517,
-  "perp_cvd": -147.02,
-  "divergence": 6.7683,
-  "poc": 80700.0,
+  "timestamp": "2026-10-28T01:12:37.393702+00:00",
+  "price": 80589.2,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -126.5028,
+  "perp_cvd": -151.607,
+  "divergence": 25.1042,
+  "poc": 80750.0,
   "vah": 80800.0,
-  "val": 80650.0,
-  "analysis": "Aggressive net selling across both spot and perpetual markets has driven price acceptance below the Value Area Low at $80,650. Strong alignment in negative spot and perp CVD indicates high-conviction downside expansion led by spot market distribution.",
-  "key_risk": "Buyer absorption below VAL triggering a short-squeeze re-entry into value toward the POC at $80,700."
+  "val": 80600.0,
+  "analysis": "Price testing liquidity below VAL at $80,589.20. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,750.00)."
 }
