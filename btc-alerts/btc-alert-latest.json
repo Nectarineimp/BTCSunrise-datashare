@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T20:38:42.293057+00:00",
-  "price": 81205.34,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 77.0853,
-  "perp_cvd": 143.562,
-  "divergence": -66.4767,
+  "timestamp": "2026-10-28T20:43:42.314997+00:00",
+  "price": 81074.49,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 79.7704,
+  "perp_cvd": 8.411,
+  "divergence": 71.3594,
   "poc": 81150.0,
   "vah": 81550.0,
-  "val": 81050.0,
-  "analysis": "Price trading below VAL despite positive spot and perp CVD indicates heavy passive sell-side absorption of market buys. The dominant derivative volume ratio leaves aggressive buyers vulnerable to a long liquidation cascade if VAL is not reclaimed.",
-  "key_risk": "Inability to reclaim VAL at 81,200 risking a sharp long squeeze into downside liquidity."
+  "val": 81000.0,
+  "analysis": "Price rotating inside Value Area near POC ($81,150.00). Spot CVD delta is positive (+79.77 BTC).",
+  "key_risk": "Range chop between VAL ($81,000.00) and VAH ($81,550.00)."
 }
