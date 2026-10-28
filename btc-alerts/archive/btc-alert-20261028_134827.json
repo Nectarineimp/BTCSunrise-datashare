@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-28T13:48:27.535986+00:00",
+  "price": 80527.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -6.0496,
+  "perp_cvd": -226.509,
+  "divergence": 220.4594,
+  "poc": 80700.0,
+  "vah": 80750.0,
+  "val": 80600.0,
+  "analysis": "Price has traded below Value Area Low driven primarily by aggressive derivative shorting, while spot flows remain comparatively neutral. This pronounced spot-perp CVD divergence creates downside exhaustion risk and potential for a squeeze back toward the 80,700 POC.",
+  "key_risk": "Continued acceptance below 80,600 VAL alongside an acceleration in spot market selling."
+}
