@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-28T00:27:35.156101+00:00",
+  "price": 80699.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -45.021,
+  "perp_cvd": -161.127,
+  "divergence": 116.106,
+  "poc": 80700.0,
+  "vah": 80900.0,
+  "val": 80700.0,
+  "analysis": "Aggressive perpetual selling has pushed price slightly below the Value Area Low at 80,700, while spot CVD reflects comparatively subdued selling pressure. This derivative-heavy imbalance exposes aggressive shorts to potential absorption and squeeze risk back into the value area.",
+  "key_risk": "Lack of spot volume confirmation on the breakdown below VAL, raising short-squeeze risk if spot absorption occurs."
+}
