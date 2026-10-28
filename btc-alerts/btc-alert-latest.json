@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T11:13:20.925199+00:00",
-  "price": 81394.88,
+  "timestamp": "2026-10-28T11:18:20.928536+00:00",
+  "price": 81360.43,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 27.0688,
-  "perp_cvd": 81.356,
-  "divergence": -54.2872,
+  "spot_cvd": 12.1177,
+  "perp_cvd": -11.444,
+  "divergence": 23.5617,
   "poc": 81500.0,
   "vah": 81600.0,
-  "val": 81450.0,
-  "analysis": "Price testing liquidity below VAL at $81,394.88. Delta volume lacks high-conviction institutional participation.",
-  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,500.00)."
+  "val": 81400.0,
+  "analysis": "Spot buyers are actively absorbing aggressive perpetual short positioning below the Value Area Low, generating a strong positive CVD divergence. This footprint signals potential perpetual downside exhaustion and heightens the likelihood of a short squeeze back toward the 81,500 POC.",
+  "key_risk": "Breakdown of spot buyer absorption leading to capitulation if spot CVD flips negative."
 }
