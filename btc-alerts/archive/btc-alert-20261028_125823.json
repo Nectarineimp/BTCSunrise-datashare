@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-28T12:58:23.252029+00:00",
+  "price": 80741.35,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -37.9264,
+  "perp_cvd": -430.24,
+  "divergence": 392.3136,
+  "poc": 80700.0,
+  "vah": 81150.0,
+  "val": 80700.0,
+  "analysis": "Price is probing just below the Value Area Low at 80,700, driven overwhelmingly by aggressive perpetual swap shorting rather than spot distribution. The pronounced CVD divergence indicates a lack of spot sell conviction, elevating the probability of a short squeeze back into the value area.",
+  "key_risk": "Spot order book failing to absorb persistent leveraged perp selling, accelerating a breakdown below 80,700."
+}
