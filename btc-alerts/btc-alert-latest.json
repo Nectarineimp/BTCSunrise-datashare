@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T15:28:30.149160+00:00",
-  "price": 80725.88,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 119.7395,
-  "perp_cvd": 92.399,
-  "divergence": 27.3405,
+  "timestamp": "2026-10-28T15:33:30.229124+00:00",
+  "price": 80596.7,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 100.8615,
+  "perp_cvd": 34.427,
+  "divergence": 66.4345,
   "poc": 80600.0,
   "vah": 80700.0,
   "val": 80500.0,
-  "analysis": "Price acceptance above VAH at 80,718 is supported by strong, aligned positive deltas in both spot and perp CVD over the last hour. Strong spot aggressor volume relative to total spot turnover confirms genuine demand driving the breakout beyond the value area.",
-  "key_risk": "Failure to maintain structural acceptance above VAH (80,700.0), triggering a mean-reversion move back into the value area toward POC (80,600.0)."
+  "analysis": "Price rotating inside Value Area near POC ($80,600.00). Spot CVD delta is positive (+100.86 BTC).",
+  "key_risk": "Range chop between VAL ($80,500.00) and VAH ($80,700.00)."
 }
