@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T14:08:28.599653+00:00",
-  "price": 80698.1,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 48.7294,
-  "perp_cvd": -136.877,
-  "divergence": 185.6064,
-  "poc": 80650.0,
+  "timestamp": "2026-10-28T14:13:28.620758+00:00",
+  "price": 80640.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 18.914,
+  "perp_cvd": -174.419,
+  "divergence": 193.333,
+  "poc": 80600.0,
   "vah": 80800.0,
   "val": 80550.0,
-  "analysis": "Spot accumulation is actively absorbing heavy derivative selling, pushing price into acceptance above the 80,800 VAH. This positive spot-perp CVD divergence confirms organic spot-driven upside expansion that risks trapping aggressive perp short-sellers.",
-  "key_risk": "Acceptance failure back inside the Value Area (below 80,800) triggering a swift mean-reversion move toward the POC at 80,650."
+  "analysis": "Aggressive perp shorting is meeting spot absorption near the Value Area Low, creating a pronounced CVD divergence. If spot demand maintains structural support at VAL, aggressive perp shorts face imminent squeeze risk back toward POC.",
+  "key_risk": "Breakdown of spot absorption at $80,550 VAL triggering cascading perp liquidations lower."
 }
