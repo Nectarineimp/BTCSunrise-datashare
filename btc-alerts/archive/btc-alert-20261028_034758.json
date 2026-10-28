@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-28T03:47:58.153739+00:00",
+  "price": 81180.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 105.1024,
+  "perp_cvd": 210.592,
+  "divergence": -105.4896,
+  "poc": 81100.0,
+  "vah": 81200.0,
+  "val": 80950.0,
+  "analysis": "Price has broken above VAH driven predominantly by aggressive perpetual positioning rather than strong spot accumulation. The negative spot-to-perp CVD divergence indicates leverage expansion that is vulnerable to exhaustion if spot demand fails to follow through.",
+  "key_risk": "Lack of spot CVD absorption leading to a long liquidation cascade back into the Value Area below 81,200 VAH."
+}
