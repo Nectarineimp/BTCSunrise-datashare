@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-28T19:23:41.659353+00:00",
+  "price": 81141.6,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 167.6973,
+  "perp_cvd": -110.037,
+  "divergence": 277.7343,
+  "poc": 80700.0,
+  "vah": 81100.0,
+  "val": 80700.0,
+  "analysis": "Price has broken above VAH supported by net positive spot CVD, overriding aggressive perp selling overhead. Organic spot demand above value places aggressive perp shorts at immediate risk of a squeeze.",
+  "key_risk": "Acceptance back inside VAH (81100.0) triggering mean reversion toward POC (80700.0)."
+}
