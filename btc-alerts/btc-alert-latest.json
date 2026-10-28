@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T10:23:19.587745+00:00",
-  "price": 81568.0,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 151.0577,
-  "perp_cvd": 150.155,
-  "divergence": 0.9027,
+  "timestamp": "2026-10-28T10:28:19.599207+00:00",
+  "price": 81496.4,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 157.7059,
+  "perp_cvd": 169.047,
+  "divergence": -11.3411,
   "poc": 81450.0,
   "vah": 81550.0,
   "val": 81450.0,
-  "analysis": "Bitcoin has accepted price above the VAH at 81,550, backed by synchronized positive spot (+150.3) and perp (+160.6) CVD deltas. High spot delta alongside derivative participation confirms genuine buying interest driving value expansion above the established range.",
-  "key_risk": "Acceptance failure back below VAH (81,550) triggering a sharp mean-reversion rotation toward the POC (81,450)."
+  "analysis": "Price rotating inside Value Area near POC ($81,450.00). Spot CVD delta is positive (+157.71 BTC).",
+  "key_risk": "Range chop between VAL ($81,450.00) and VAH ($81,550.00)."
 }
