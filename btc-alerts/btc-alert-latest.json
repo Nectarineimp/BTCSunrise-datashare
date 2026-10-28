@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T07:48:17.127842+00:00",
-  "price": 81000.0,
+  "timestamp": "2026-10-28T07:53:17.238122+00:00",
+  "price": 81049.11,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -19.1038,
-  "perp_cvd": 88.346,
-  "divergence": -107.4498,
+  "spot_cvd": -8.6883,
+  "perp_cvd": 94.739,
+  "divergence": -103.4273,
   "poc": 80900.0,
-  "vah": 80950.0,
+  "vah": 81000.0,
   "val": 80850.0,
-  "analysis": "Price has broken above VAH driven exclusively by aggressive perpetual buying while spot CVD displays active distribution (-18.58 BTC). This severe spot-perp divergence highlights a fragile, leverage-led move highly vulnerable to a long liquidation cascade back into the value area.",
-  "key_risk": "Acceptance failure above VAH (80,950.0) triggering a perp long unwind toward POC (80,900.0)."
+  "analysis": "Price testing liquidity above VAH at $81,049.11. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,900.00)."
 }
