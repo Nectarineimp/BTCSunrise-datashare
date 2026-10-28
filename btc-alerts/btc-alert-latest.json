@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T11:03:20.203209+00:00",
-  "price": 81472.66,
+  "timestamp": "2026-10-28T11:08:20.208857+00:00",
+  "price": 81442.0,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 98.6486,
-  "perp_cvd": 225.021,
-  "divergence": -126.3724,
+  "spot_cvd": 39.0656,
+  "perp_cvd": 235.123,
+  "divergence": -196.0574,
   "poc": 81450.0,
   "vah": 81550.0,
   "val": 81450.0,
-  "analysis": "Aggressive derivative buying is failing to defend the Value Area Low as passive supply absorbs leverage, leaving price trading below value at $81,435.8. This pronounced negative CVD divergence highlights a heightened risk of a long squeeze if speculative flows unwind.",
-  "key_risk": "Cascading long liquidations below VAL ($81,450.0) driven by lack of spot market absorption support."
+  "analysis": "Price testing liquidity below VAL at $81,442.00. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,450.00)."
 }
