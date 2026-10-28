@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-28T05:08:01.360694+00:00",
+  "price": 80882.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -10.1641,
+  "perp_cvd": 108.852,
+  "divergence": -119.0161,
+  "poc": 80950.0,
+  "vah": 81000.0,
+  "val": 80900.0,
+  "analysis": "Price has fallen below the 80,900 VAL while perpetual CVD aggressively diverges positive against negative spot CVD. This persistent derivative-driven buying into spot distribution creates significant vulnerability to a long liquidation unwind.",
+  "key_risk": "Cascade risk from unabsorbed perpetual long positioning trapped below Value Area Low."
+}
