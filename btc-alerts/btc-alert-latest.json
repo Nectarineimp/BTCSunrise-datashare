@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T13:23:26.989123+00:00",
-  "price": 80680.9,
+  "timestamp": "2026-10-28T13:28:27.444978+00:00",
+  "price": 80650.12,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -32.0984,
-  "perp_cvd": -306.91,
-  "divergence": 274.8116,
+  "spot_cvd": -33.2667,
+  "perp_cvd": -448.803,
+  "divergence": 415.5363,
   "poc": 80700.0,
   "vah": 80800.0,
-  "val": 80650.0,
-  "analysis": "Price has acceptance below Value Area Low driven by aggressive derivative selling while spot selling remains minimal. This strong perp-led delta divergence indicates overextended leveraged shorts at low prices, creating a prime scenario for short exhaustion.",
-  "key_risk": "Cascading short squeeze triggered by a reclaim of Value Area Low at 80,650."
+  "val": 80600.0,
+  "analysis": "Price has drifted below VAL driven primarily by aggressive perpetual market selling while spot CVD remains relatively passive. This heavy derivative-led imbalance creates heightened risk of short-side exhaustion and a mean-reverting squeeze back toward the 80,700 POC.",
+  "key_risk": "Sustained perp market selling forcing a systemic breakdown below 80,500 without spot bid absorption."
 }
