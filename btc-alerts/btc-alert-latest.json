@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-29T04:49:20.392629+00:00",
-  "price": 80169.97,
+  "timestamp": "2026-10-29T04:54:20.782705+00:00",
+  "price": 80197.4,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 48.2652,
-  "perp_cvd": 314.637,
-  "divergence": -266.3718,
+  "spot_cvd": 46.8571,
+  "perp_cvd": 414.384,
+  "divergence": -367.5269,
   "poc": 79800.0,
-  "vah": 80050.0,
+  "vah": 80100.0,
   "val": 79750.0,
-  "analysis": "Price has accepted above VAH at 80,050, but the expansion is heavily skewed toward perpetual swap leverage while spot CVD lags significantly. This severe spot-perp CVD divergence indicates weak organic spot demand, elevating the probability of a false breakout and subsequent long liquidation.",
-  "key_risk": "Loss of VAH (80,050) leading to a rapid mean-reversion back to the POC at 79,800."
+  "analysis": "Price testing liquidity above VAH at $80,197.40. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($79,800.00)."
 }
