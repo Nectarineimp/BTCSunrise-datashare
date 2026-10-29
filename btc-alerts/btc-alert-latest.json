@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-29T14:14:54.112411+00:00",
-  "price": 80439.2,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 102.4077,
-  "perp_cvd": -9.713,
-  "divergence": 112.1207,
+  "timestamp": "2026-10-29T14:19:54.128108+00:00",
+  "price": 80384.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 113.5876,
+  "perp_cvd": -13.81,
+  "divergence": 127.3976,
   "poc": 80000.0,
   "vah": 80250.0,
   "val": 79900.0,
-  "analysis": "Price has established acceptance above VAH (80,250) supported by aggressive spot CVD buying (+102.14 BTC) despite perpetual hedging. This positive spot-perp CVD divergence indicates organic spot demand absorbing derivative sell-side pressure to push higher.",
-  "key_risk": "Loss of VAH retest at 80,250 leading to mean reversion back inside the value area toward POC (80,000)."
+  "analysis": "Price testing liquidity above VAH at $80,384.30. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,000.00)."
 }
