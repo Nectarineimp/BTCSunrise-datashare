@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-29T16:49:54.685871+00:00",
-  "price": 81256.1,
+  "timestamp": "2026-10-29T16:54:54.710579+00:00",
+  "price": 81319.4,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 4.5653,
-  "perp_cvd": -248.011,
-  "divergence": 252.5763,
-  "poc": 81700.0,
+  "spot_cvd": 4.8983,
+  "perp_cvd": -359.891,
+  "divergence": 364.7893,
+  "poc": 81750.0,
   "vah": 81950.0,
-  "val": 81550.0,
-  "analysis": "Price has acceptance below the Value Area Low ($81,550) driven almost entirely by aggressive perpetual short flow (-242.5 CVD), while spot CVD remains marginally positive. This heavy derivative volume skew relative to spot indicates perps are overextended down, creating conditions for a short squeeze if VAL is reclaimed.",
-  "key_risk": "Perpetual short overextension risking a cascade squeeze upon failure to sustain acceptance below $81,550 VAL."
+  "val": 81450.0,
+  "analysis": "Price testing liquidity below VAL at $81,319.40. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,750.00)."
 }
