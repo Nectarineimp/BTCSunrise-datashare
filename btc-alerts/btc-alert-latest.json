@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-29T18:34:57.498206+00:00",
-  "price": 80704.0,
+  "timestamp": "2026-10-29T18:39:57.777082+00:00",
+  "price": 80609.0,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -44.9965,
-  "perp_cvd": -159.561,
-  "divergence": 114.5645,
+  "spot_cvd": -47.6656,
+  "perp_cvd": -172.175,
+  "divergence": 124.5094,
   "poc": 80800.0,
   "vah": 80900.0,
   "val": 80700.0,
-  "analysis": "Price has broken below the Value Area Low at 80,650, driven predominantly by aggressive derivative selling rather than spot spot distribution. With perpetual volume heavily outpacing spot volume, the expansion carries exhaustion risk if spot buyers absorb the aggressive short flows.",
-  "key_risk": "Aggressive leverage shorting below VAL triggering a rapid short squeeze back toward the 80,800 POC."
+  "analysis": "Price testing liquidity below VAL at $80,609.00. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,800.00)."
 }
