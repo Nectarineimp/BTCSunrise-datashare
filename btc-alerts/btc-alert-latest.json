@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-29T04:14:19.201422+00:00",
-  "price": 79862.13,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 53.7308,
-  "perp_cvd": -18.175,
-  "divergence": 71.9058,
+  "timestamp": "2026-10-29T04:19:19.206963+00:00",
+  "price": 79932.0,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 49.3976,
+  "perp_cvd": 13.129,
+  "divergence": 36.2686,
   "poc": 79800.0,
   "vah": 79850.0,
   "val": 79750.0,
-  "analysis": "Price testing liquidity above VAH at $79,862.13. Delta volume lacks high-conviction institutional participation.",
-  "key_risk": "Mean-reversion trap back toward Value Area POC ($79,800.00)."
+  "analysis": "Bitcoin has broken out above VAH supported by strong positive spot CVD delta, confirming organic spot-driven demand over derivative leverage. The current market microstructure supports bullish continuation while price holds above the 79,850 value area high.",
+  "key_risk": "A failure to sustain acceptance above VAH (79,850.0) triggering a mean-reversion move back toward the Point of Control (79,800.0)."
 }
