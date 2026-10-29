@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-29T01:34:16.234481+00:00",
+  "price": 80715.4,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -86.8226,
+  "perp_cvd": -343.961,
+  "divergence": 257.1384,
+  "poc": 80900.0,
+  "vah": 81150.0,
+  "val": 80850.0,
+  "analysis": "Aggressive perp-driven selling has pushed price below the Value Area Low ($80,850), whereas spot CVD delta shows relatively mild net selling. This heavy derivative divergence suggests leveraged short expansion below value, elevating the probability of a short squeeze if spot absorption holds.",
+  "key_risk": "Spot failure to confirm the breakdown below $80,850, risking a rapid squeeze back into the value area toward POC ($80,900)."
+}
