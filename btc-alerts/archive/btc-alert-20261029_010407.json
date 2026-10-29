@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-29T01:04:07.804506+00:00",
+  "price": 81050.17,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -64.3765,
+  "perp_cvd": -397.024,
+  "divergence": 332.6475,
+  "poc": 81100.0,
+  "vah": 81300.0,
+  "val": 81100.0,
+  "analysis": "Price has broken below VAL driven primarily by aggressive derivative selling while spot CVD remains relatively passive. This pronounced perp-led delta imbalance outside the Value Area creates heightened short-squeeze risk if spot flow fails to follow through.",
+  "key_risk": "Spot delta divergence failing to confirm perp aggression, creating vulnerability to a rapid squeeze back above VAL."
+}
