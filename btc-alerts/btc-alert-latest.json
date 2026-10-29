@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-29T21:15:00.999109+00:00",
-  "price": 78495.17,
+  "timestamp": "2026-10-29T21:20:01.062685+00:00",
+  "price": 79078.45,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -173.0812,
-  "perp_cvd": -965.08,
-  "divergence": 791.9988,
-  "poc": 80850.0,
-  "vah": 80950.0,
+  "spot_cvd": -287.9958,
+  "perp_cvd": -967.314,
+  "divergence": 679.3182,
+  "poc": 80350.0,
+  "vah": 80900.0,
   "val": 79600.0,
-  "analysis": "Bitcoin has broken below the value area low at $79,600 driven predominantly by aggressive perpetual swap shorting rather than spot market distribution. The stark disparity between heavy perpetual net-selling and relatively mild spot CVD delta leaves the downside move vulnerable to exhaustion and short squeezes.",
-  "key_risk": "Cascading short liquidations causing a sharp mean-reversion re-entry above the $79,600 VAL."
+  "analysis": "Price testing liquidity below VAL at $79,078.45. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,350.00)."
 }
