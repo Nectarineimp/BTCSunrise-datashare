@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-29T21:30:01.084361+00:00",
-  "price": 78942.0,
+  "timestamp": "2026-10-29T21:35:01.092205+00:00",
+  "price": 78890.2,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -227.7488,
-  "perp_cvd": -972.596,
-  "divergence": 744.8472,
+  "spot_cvd": -172.6351,
+  "perp_cvd": -743.666,
+  "divergence": 571.0309,
   "poc": 80350.0,
-  "vah": 80850.0,
-  "val": 79550.0,
-  "analysis": "Price has broken below the Value Area Low driven primarily by aggressive perpetual shorting rather than spot distribution. The heavy leverage imbalance creates elevated exhaustion risk and potential for a short-squeeze retest back into value.",
-  "key_risk": "Reclaim of Value Area Low at 79550 triggering a forced unwind of overextended perp shorts."
+  "vah": 80500.0,
+  "val": 79500.0,
+  "analysis": "Price testing liquidity below VAL at $78,890.20. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,350.00)."
 }
