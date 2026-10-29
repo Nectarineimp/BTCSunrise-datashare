@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-29T14:44:54.219692+00:00",
+  "price": 81155.4,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 93.0596,
+  "perp_cvd": 182.825,
+  "divergence": -89.7654,
+  "poc": 80350.0,
+  "vah": 80450.0,
+  "val": 79900.0,
+  "analysis": "Price has accepted above VAH at 81,247, but the move is heavily driven by perpetual leverage with perp CVD delta significantly outstripping spot demand. The lack of strong spot volume backing leaves this expansion vulnerable to long exhaustion and a mean-reversion retest back into value.",
+  "key_risk": "Derivative long over-extension leading to a leverage flush back below the 80,450 VAH level."
+}
