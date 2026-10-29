@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-29T12:55:46.770739+00:00",
+  "price": 79996.4,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -15.1659,
+  "perp_cvd": -95.511,
+  "divergence": 80.3451,
+  "poc": 80050.0,
+  "vah": 80150.0,
+  "val": 80000.0,
+  "analysis": "Price has broken below the Value Area Low driven primarily by aggressive perpetual futures selling, while spot distribution remains relatively muted. This derivative-heavy delta imbalance outside of value indicates heightened potential for selling exhaustion and a short squeeze.",
+  "key_risk": "Cascading short squeeze triggered by spot limit absorption below the 80000 VAL level."
+}
