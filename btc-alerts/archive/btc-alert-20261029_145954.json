@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-29T14:59:54.251676+00:00",
+  "price": 81130.4,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 47.5817,
+  "perp_cvd": -19.997,
+  "divergence": 67.5787,
+  "poc": 80350.0,
+  "vah": 81100.0,
+  "val": 80200.0,
+  "analysis": "Spot accumulation is actively absorbing perpetual short positioning, driving price above the Value Area High of 81,100. This positive spot-to-perp CVD divergence reflects solid organic buying conviction and elevates short squeeze risk.",
+  "key_risk": "Failure to maintain price acceptance above VAH (81,100), risking a sharp mean-reversion down toward the POC at 80,350."
+}
