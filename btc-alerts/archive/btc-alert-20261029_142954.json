@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-29T14:29:54.154402+00:00",
+  "price": 80310.8,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 108.5726,
+  "perp_cvd": 59.523,
+  "divergence": 49.0496,
+  "poc": 80000.0,
+  "vah": 80350.0,
+  "val": 79900.0,
+  "analysis": "Price action is breaking above the Value Area High driven by strong positive Spot CVD leadership over perpetual futures. This organic spot-led buying conviction supports price expansion beyond the established value area.",
+  "key_risk": "Failed acceptance above VAH at 80350.0 triggering a quick mean-reversion rotation back toward the POC at 80000.0."
+}
