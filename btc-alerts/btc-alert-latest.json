@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-29T03:14:16.680130+00:00",
-  "price": 79886.0,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -7.2424,
-  "perp_cvd": -22.858,
-  "divergence": 15.6156,
+  "timestamp": "2026-10-29T03:19:17.161249+00:00",
+  "price": 79934.51,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": -9.8208,
+  "perp_cvd": -18.641,
+  "divergence": 8.8202,
   "poc": 79850.0,
-  "vah": 80050.0,
-  "val": 79800.0,
-  "analysis": "Aggressive derivative selling is pushing price slightly below the Value Area Low while spot delta remains relatively muted. This structural divergence between high perp volume and passive spot flow increases the probability of short-side exhaustion near POC.",
-  "key_risk": "Failure of perp short aggressive flow to accept below VAL (79,850), risking a short squeeze back into value."
+  "vah": 80000.0,
+  "val": 79750.0,
+  "analysis": "Price rotating inside Value Area near POC ($79,850.00). Spot CVD delta is negative (-9.82 BTC).",
+  "key_risk": "Range chop between VAL ($79,750.00) and VAH ($80,000.00)."
 }
