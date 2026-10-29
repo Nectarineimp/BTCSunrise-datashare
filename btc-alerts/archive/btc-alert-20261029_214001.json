@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-29T21:40:01.091426+00:00",
+  "price": 79144.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -155.5917,
+  "perp_cvd": -939.932,
+  "divergence": 784.3402,
+  "poc": 79500.0,
+  "vah": 79950.0,
+  "val": 78850.0,
+  "analysis": "Aggressive perpetual selling has pushed price slightly below the Value Area Low at 79,100 while spot CVD shows comparatively minimal sell pressure. The heavy reliance on derivatives drive creates a high probability of a short squeeze if price reclaims value.",
+  "key_risk": "Perpetual short crowding causing a rapid mean-reversion squeeze above VAL (79,100)."
+}
