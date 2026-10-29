@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-29T20:00:00.288463+00:00",
+  "price": 80848.64,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 102.135,
+  "perp_cvd": 123.982,
+  "divergence": -21.847,
+  "poc": 80850.0,
+  "vah": 80900.0,
+  "val": 80800.0,
+  "analysis": "Price trades below Value Area Low despite positive Spot and Perp CVD, indicating passive absorption of aggressive market orders. Dominant perp buying creates trapped long risk unless price quickly reclaims the 80,800 level.",
+  "key_risk": "Cascade of trapped long liquidations if price remains below Value Area Low"
+}
