@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-29T20:15:00.308183+00:00",
-  "price": 80414.2,
+  "timestamp": "2026-10-29T20:20:00.466529+00:00",
+  "price": 80368.9,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -5.9987,
-  "perp_cvd": 157.804,
-  "divergence": -163.8026,
+  "spot_cvd": 7.8013,
+  "perp_cvd": 116.812,
+  "divergence": -109.0107,
   "poc": 80850.0,
   "vah": 80950.0,
-  "val": 80450.0,
-  "analysis": "Price has fallen below the Value Area Low as negative spot CVD indicates a total absence of spot accumulation. The strong positive perpetual CVD creates a sharp bearish divergence, leaving aggressive derivative longs trapped and vulnerable to a squeeze.",
-  "key_risk": "Cascade of over-leveraged perpetual long liquidations driving price further below Value Area Low."
+  "val": 80400.0,
+  "analysis": "Price testing liquidity below VAL at $80,368.90. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($80,850.00)."
 }
