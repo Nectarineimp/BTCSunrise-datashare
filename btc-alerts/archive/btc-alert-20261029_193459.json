@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-29T19:34:59.629981+00:00",
+  "price": 80910.23,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 68.3282,
+  "perp_cvd": 171.857,
+  "divergence": -103.5288,
+  "poc": 80800.0,
+  "vah": 80900.0,
+  "val": 80750.0,
+  "analysis": "Price is marginally trading above VAH at $80,900, but the breakout is heavily driven by derivative leverage rather than organic spot buying. Without spot CVD confirmation, the move risks local exhaustion and a fast mean-reversion back into the value area.",
+  "key_risk": "Lack of spot volume support leading to a failed VAH breakout and pull-back toward the POC at $80,800."
+}
