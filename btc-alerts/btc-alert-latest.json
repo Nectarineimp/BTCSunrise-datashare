@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-29T04:34:19.959031+00:00",
-  "price": 79928.3,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 65.4999,
-  "perp_cvd": 12.565,
-  "divergence": 52.9349,
+  "timestamp": "2026-10-29T04:39:20.274307+00:00",
+  "price": 79992.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 67.2778,
+  "perp_cvd": 142.194,
+  "divergence": -74.9162,
   "poc": 79800.0,
   "vah": 79900.0,
   "val": 79750.0,
-  "analysis": "Price has successfully broken out above the Value Area High supported by strong spot CVD accumulation outpacing perpetual delta. This dominant spot buying signals genuine structural expansion rather than a speculative leverage drive.",
-  "key_risk": "A fast rejection back inside the Value Area below 79900.0 triggering a mean-reversion retest of the POC at 79800.0."
+  "analysis": "Price testing liquidity above VAH at $79,992.10. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($79,800.00)."
 }
