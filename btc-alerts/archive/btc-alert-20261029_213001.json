@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-29T21:30:01.084361+00:00",
+  "price": 78942.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -227.7488,
+  "perp_cvd": -972.596,
+  "divergence": 744.8472,
+  "poc": 80350.0,
+  "vah": 80850.0,
+  "val": 79550.0,
+  "analysis": "Price has broken below the Value Area Low driven primarily by aggressive perpetual shorting rather than spot distribution. The heavy leverage imbalance creates elevated exhaustion risk and potential for a short-squeeze retest back into value.",
+  "key_risk": "Reclaim of Value Area Low at 79550 triggering a forced unwind of overextended perp shorts."
+}
