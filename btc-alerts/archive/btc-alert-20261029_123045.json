@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-29T12:30:45.854612+00:00",
+  "price": 80224.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -8.9906,
+  "perp_cvd": -71.569,
+  "divergence": 62.5784,
+  "poc": 80100.0,
+  "vah": 80200.0,
+  "val": 80050.0,
+  "analysis": "Price acceptance above VAH despite heavily negative spot and perp CVD indicates passive absorption of aggressive sellers or a localized short squeeze. The lack of spot-driven delta expansion paired with perp volume dominance suggests weak buyers' conviction and elevated exhaustion risk at current highs.",
+  "key_risk": "Failed auction above VAH (80,200) leading to a sharp mean-reversion back toward the POC (80,100)."
+}
