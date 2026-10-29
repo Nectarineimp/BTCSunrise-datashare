@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-29T16:34:54.631856+00:00",
+  "price": 81398.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 12.7006,
+  "perp_cvd": -79.077,
+  "divergence": 91.7776,
+  "poc": 81700.0,
+  "vah": 81900.0,
+  "val": 81550.0,
+  "analysis": "Price trades below Value Area Low driven by aggressive derivative selling, while positive spot CVD indicates passive absorption at lower levels. The pronounced spot-perp divergence and high leverage volume ratio suggest potential perp seller exhaustion if VAL is reclaimed.",
+  "key_risk": "Breakdown of spot bid absorption leading to forced liquidation cascades below current lows."
+}
