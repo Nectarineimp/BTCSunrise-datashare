@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-29T16:34:54.631856+00:00",
-  "price": 81398.1,
+  "timestamp": "2026-10-29T16:39:54.659363+00:00",
+  "price": 81478.1,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 12.7006,
-  "perp_cvd": -79.077,
-  "divergence": 91.7776,
+  "spot_cvd": 9.7643,
+  "perp_cvd": -33.985,
+  "divergence": 43.7493,
   "poc": 81700.0,
   "vah": 81900.0,
   "val": 81550.0,
-  "analysis": "Price trades below Value Area Low driven by aggressive derivative selling, while positive spot CVD indicates passive absorption at lower levels. The pronounced spot-perp divergence and high leverage volume ratio suggest potential perp seller exhaustion if VAL is reclaimed.",
-  "key_risk": "Breakdown of spot bid absorption leading to forced liquidation cascades below current lows."
+  "analysis": "Price testing liquidity below VAL at $81,478.10. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($81,700.00)."
 }
