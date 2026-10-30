@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-30T00:50:01.955285+00:00",
+  "price": 77307.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -190.606,
+  "perp_cvd": -375.2,
+  "divergence": 184.594,
+  "poc": 78050.0,
+  "vah": 78350.0,
+  "val": 77700.0,
+  "analysis": "Price has broken below the Value Area Low at 77,700, driven predominantly by aggressive perpetual swap market orders. While spot CVD confirms the downward trajectory, heavy derivative volume dominance leaves the breakdown vulnerable to leverage exhaustion.",
+  "key_risk": "Perp short-crowding triggering a cascade squeeze back into the Value Area above 77,700."
+}
