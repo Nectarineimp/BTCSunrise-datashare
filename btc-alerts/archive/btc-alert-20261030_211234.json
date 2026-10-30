@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-30T21:12:34.886373+00:00",
+  "price": 76609.4,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 44.5276,
+  "perp_cvd": -104.121,
+  "divergence": 148.6486,
+  "poc": 76900.0,
+  "vah": 77050.0,
+  "val": 76750.0,
+  "analysis": "Spot demand is actively absorbing aggressive perp selling while price trades below the Value Area Low. This structural divergence creates a setup for a short squeeze back toward the POC if derivative selling exhausts.",
+  "key_risk": "Failure of spot absorption allowing perp selling to push price further away from VAL and trigger cascading liquidations."
+}
