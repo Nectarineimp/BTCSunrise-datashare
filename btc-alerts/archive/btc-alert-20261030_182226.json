@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-30T18:22:26.135719+00:00",
+  "price": 76977.67,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -42.3178,
+  "perp_cvd": -215.608,
+  "divergence": 173.2902,
+  "poc": 77100.0,
+  "vah": 77300.0,
+  "val": 77000.0,
+  "analysis": "Bitcoin is trading below the Value Area Low driven primarily by aggressive derivative selling rather than spot distribution. The heavy reliance on perpetual leverage over spot volume creates significant short exhaustion risk if buying absorption emerges near current lows.",
+  "key_risk": "Failure of spot buyers to absorb aggressive perp shorting, leading to acceptance below VAL toward lower liquidity pools."
+}
