@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-30T22:02:44.183219+00:00",
+  "price": 76850.62,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 17.0006,
+  "perp_cvd": -230.795,
+  "divergence": 247.7955,
+  "poc": 76800.0,
+  "vah": 76850.0,
+  "val": 76600.0,
+  "analysis": "Price is marginally breaking out above VAH at 76,850 despite strong aggressive selling in perpetual swaps, highlighting significant absorption of perp shorts. This sharp CVD divergence sets up a potential short squeeze if price maintains acceptance above the value area high.",
+  "key_risk": "Failure to maintain acceptance above VAH (76,850), triggering a rapid mean-reversion move back into the value area toward the POC at 76,800."
+}
