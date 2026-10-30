@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-30T17:57:25.700793+00:00",
+  "price": 77095.4,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -6.0971,
+  "perp_cvd": -31.886,
+  "divergence": 25.7889,
+  "poc": 77200.0,
+  "vah": 77350.0,
+  "val": 77150.0,
+  "analysis": "Price has traded below the Value Area Low of 77,150 driven primarily by heavy perpetual swap selling rather than spot market distribution. This severe perp-to-spot CVD divergence creates downside leverage exhaustion risk, opening the door for absorption and mean reversion.",
+  "key_risk": "Spot CVD turning aggressively negative and confirming acceptance below VAL."
+}
