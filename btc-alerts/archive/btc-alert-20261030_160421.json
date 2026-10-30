@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-30T16:04:21.091422+00:00",
+  "price": 77390.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 0.0,
+  "perp_cvd": 122.454,
+  "divergence": -122.454,
+  "poc": 77500.0,
+  "vah": 77850.0,
+  "val": 77400.0,
+  "analysis": "Price trading below the Value Area Low of 77,400 despite positive perpetual CVD indicates aggressive derivative buyers are being trapped underneath value. The complete absence of spot market participation leaves the order book vulnerable to a downside leverage unwind.",
+  "key_risk": "Liquidation cascade of trapped perpetual longs upon failure to reclaim VAL at 77,400."
+}
