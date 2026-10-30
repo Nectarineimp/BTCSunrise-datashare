@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-30T14:09:20.614374+00:00",
+  "price": 76781.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 0.0,
+  "perp_cvd": -255.422,
+  "divergence": 255.422,
+  "poc": 77250.0,
+  "vah": 77350.0,
+  "val": 77000.0,
+  "analysis": "Price has broken below the Value Area Low driven purely by aggressive perpetual shorting amidst a total absence of spot volume. This over-leveraged extension creates a high risk of a rapid mean-reversion squeeze if spot buyers step in at lower levels.",
+  "key_risk": "Violent short squeeze triggered by a reclaim of Value Area Low at 77,000."
+}
