@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-30T14:34:20.724219+00:00",
+  "price": 76807.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 0.0,
+  "perp_cvd": -291.008,
+  "divergence": 291.008,
+  "poc": 77000.0,
+  "vah": 77300.0,
+  "val": 76900.0,
+  "analysis": "Price has broken below the Value Area Low driven entirely by aggressive perpetual selling in the complete absence of spot market volume. This unconfirmed derivative expansion creates significant exhaustion risk and potential for a mean-reverting squeeze back toward the 77,000 POC.",
+  "key_risk": "Perpetual short covering triggering a sharp liquidity squeeze back inside the Value Area."
+}
