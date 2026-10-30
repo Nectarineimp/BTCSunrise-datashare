@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-30T23:52:52.385413+00:00",
+  "price": 77324.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 40.8678,
+  "perp_cvd": 51.061,
+  "divergence": -10.1932,
+  "poc": 77200.0,
+  "vah": 77300.0,
+  "val": 77000.0,
+  "analysis": "Bitcoin has pushed above the Value Area High at 77,300, driven primarily by perpetual swap leverage rather than spot volume. The negative spot-perp CVD divergence indicates potential exhaustion risk if spot buying fails to confirm the breakout.",
+  "key_risk": "Lack of spot follow-through causing a failed breakout and swift mean-reversion back inside the Value Area."
+}
