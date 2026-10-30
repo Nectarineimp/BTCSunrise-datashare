@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-30T22:42:47.657540+00:00",
+  "price": 76993.25,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -6.3061,
+  "perp_cvd": 142.512,
+  "divergence": -148.8181,
+  "poc": 76800.0,
+  "vah": 76950.0,
+  "val": 76700.0,
+  "analysis": "Price has accepted above VAH purely on aggressive perpetual swap buying while spot CVD shows net selling. This severe spot-perp divergence creates high exhaustion risk and leaves the breakout vulnerable to sharp liquidation back into value.",
+  "key_risk": "Lack of spot passive/active absorption allowing a perp-led liquidation cascade back into the Value Area below 76,950."
+}
