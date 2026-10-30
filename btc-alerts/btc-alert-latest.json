@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-30T20:02:31.868901+00:00",
-  "price": 76727.5,
+  "timestamp": "2026-10-30T20:07:31.883535+00:00",
+  "price": 76815.1,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -132.7418,
-  "perp_cvd": -52.788,
-  "divergence": -79.9538,
+  "spot_cvd": -101.4256,
+  "perp_cvd": 3.898,
+  "divergence": -105.3236,
   "poc": 76500.0,
   "vah": 76750.0,
   "val": 76400.0,
-  "analysis": "Price is hovering right at VAH ($76,700) driven predominantly by perpetual futures volume, but strongly negative spot CVD delta (-133.31 BTC) indicates active spot distribution into the move. Without spot market order aggression, the current probe above VAH lacks spot acceptance and carries high risk of a bull trap and mean reversion toward POC ($76,500).",
-  "key_risk": "Spot CVD distribution and lack of spot volume follow-through triggering a rejection back into the Value Area."
+  "analysis": "Price testing liquidity above VAH at $76,815.10. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($76,500.00)."
 }
