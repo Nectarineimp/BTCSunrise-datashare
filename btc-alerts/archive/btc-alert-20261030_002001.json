@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-30T00:20:01.822889+00:00",
+  "price": 77996.5,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -35.2624,
+  "perp_cvd": -589.67,
+  "divergence": 554.4076,
+  "poc": 78800.0,
+  "vah": 78950.0,
+  "val": 78000.0,
+  "analysis": "Price has accepted below the Value Area Low at 78,000, driven predominantly by aggressive perpetual selling while spot volume delta remains relatively passive. This pronounced spot-perp CVD divergence highlights derivative overextension, raising the probability of a short-squeeze back into value.",
+  "key_risk": "Aggressive late-perp short liquidations triggering a sharp mean-reversion rally back above 78,000 VAL."
+}
