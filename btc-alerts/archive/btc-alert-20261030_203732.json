@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-30T20:37:32.467923+00:00",
+  "price": 77008.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -3.8119,
+  "perp_cvd": 215.36,
+  "divergence": -219.1719,
+  "poc": 76850.0,
+  "vah": 77000.0,
+  "val": 76750.0,
+  "analysis": "Price is probing above the 77,000 VAH driven entirely by aggressive derivative buying while spot CVD remains negative. This stark spot-perp divergence indicates a fragile, leverage-led expansion vulnerable to sharp mean-reversion if momentum stalls.",
+  "key_risk": "Perpetual swap long liquidation cascade following a failure to hold acceptance above VAH at 77,000."
+}
