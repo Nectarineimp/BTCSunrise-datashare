@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-30T13:09:19.090888+00:00",
+  "price": 77308.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 0.0,
+  "perp_cvd": -36.101,
+  "divergence": 36.101,
+  "poc": 77400.0,
+  "vah": 77550.0,
+  "val": 77350.0,
+  "analysis": "Price has broken below the Value Area Low driven exclusively by derivative selling pressure while spot volume remains entirely absent. This one-sided perpetual flow creates significant risk of a short squeeze back toward the Point of Control if sell-side absorption occurs.",
+  "key_risk": "Perpetual short crowding below VAL without spot confirmation triggering a fast mean-reversion squeeze."
+}
