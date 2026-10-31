@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-31T20:09:09.384692+00:00",
+  "price": 77634.74,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 20.2257,
+  "perp_cvd": 40.76,
+  "divergence": -20.5343,
+  "poc": 77500.0,
+  "vah": 77650.0,
+  "val": 77500.0,
+  "analysis": "Price has pushed above VAH driven primarily by derivative flow, with perpetual CVD outstripping spot CVD delta by more than two to one. Without secondary spot accumulation to validate the breakout, the current price action remains vulnerable to leverage exhaustion and a mean-reverting drop back into the value area.",
+  "key_risk": "Derivative-led expansion above VAH failing to attract spot volume, risking a long liquidation cascade back toward the 77500 POC."
+}
