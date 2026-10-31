@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-31T18:23:56.562461+00:00",
+  "price": 77750.01,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 224.6009,
+  "perp_cvd": 25.54,
+  "divergence": 199.0609,
+  "poc": 77700.0,
+  "vah": 77750.0,
+  "val": 77600.0,
+  "analysis": "Bitcoin is executing a spot-driven expansion above VAH at 77,750, supported by strong spot CVD buying significantly outpacing perpetual flow. Sustained spot accumulation outside value indicates aggressive buying conviction, supporting a bullish continuation bias.",
+  "key_risk": "Failure to sustain price acceptance above VAH (77,750), triggering a mean-reversion move back toward the POC at 77,700."
+}
