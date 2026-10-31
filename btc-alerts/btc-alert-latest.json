@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-31T19:24:00.320198+00:00",
-  "price": 77538.5,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 67.99,
-  "perp_cvd": -34.706,
-  "divergence": 102.696,
+  "timestamp": "2026-10-31T19:29:00.866441+00:00",
+  "price": 77599.16,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 54.8857,
+  "perp_cvd": -52.189,
+  "divergence": 107.0747,
   "poc": 77600.0,
-  "vah": 77700.0,
+  "vah": 77750.0,
   "val": 77550.0,
-  "analysis": "Spot aggressive buying is actively absorbing perpetual futures market orders as price trades just below the 60-minute Value Area Low. This pronounced positive spot-to-perp CVD divergence suggests perp sellers are overextending into spot demand, creating setup conditions for a short squeeze back into value.",
-  "key_risk": "Sustained perp aggressive selling overpowering spot absorption, driving acceptance below 77500."
+  "analysis": "Price rotating inside Value Area near POC ($77,600.00). Spot CVD delta is positive (+54.89 BTC).",
+  "key_risk": "Range chop between VAL ($77,550.00) and VAH ($77,750.00)."
 }
