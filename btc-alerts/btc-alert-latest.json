@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-31T00:12:53.987815+00:00",
-  "price": 77388.01,
-  "regime": "Absorption at Resistance",
-  "spot_cvd": 38.0947,
-  "perp_cvd": -25.5,
-  "divergence": 63.5947,
-  "poc": 77250.0,
-  "vah": 77350.0,
-  "val": 77100.0,
-  "analysis": "Spot absorption is currently holding price at the Value Area High (77,350) despite heavy aggressive perpetual short selling. Continued spot buying is required to confirm acceptance above VAH and prevent a mean-reverting failure.",
-  "key_risk": "Failure of spot CVD to continue absorbing perp delta, triggering a quick rejection back into the Value Area toward the POC (77,250)."
+  "timestamp": "2026-10-31T17:03:51.497732+00:00",
+  "price": 77590.24,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": -0.0006,
+  "perp_cvd": 0.0,
+  "divergence": -0.0006,
+  "poc": 77550.0,
+  "vah": 77600.0,
+  "val": 77550.0,
+  "analysis": "Initializing rolling microstructure buffers. Volume profile accumulating baseline order flow.",
+  "key_risk": "Insufficient tick sample size for regime identification."
 }
