@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-31T18:58:58.850301+00:00",
+  "price": 77635.25,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": 155.4906,
+  "perp_cvd": -75.299,
+  "divergence": 230.7896,
+  "poc": 77700.0,
+  "vah": 77750.0,
+  "val": 77600.0,
+  "analysis": "Spot CVD reflects net buying against persistent derivatives selling below the Value Area Low, creating a clear spot-driven delta divergence. Continued spot absorption at these levels favors a mean-reversion attempt back toward the Point of Control if perp shorting exhausts.",
+  "key_risk": "Lack of spot follow-through leading to acceptance below 77,500 and continuation of the localized breakdown."
+}
