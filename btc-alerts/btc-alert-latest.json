@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-01T01:16:53.331847+00:00",
-  "price": 77718.5,
+  "timestamp": "2026-11-01T01:21:53.347173+00:00",
+  "price": 77712.01,
   "regime": "Mean Reverting / Consolidation",
-  "spot_cvd": -0.0002,
-  "perp_cvd": 0.0,
-  "divergence": -0.0002,
+  "spot_cvd": 1.584,
+  "perp_cvd": 0.903,
+  "divergence": 0.681,
   "poc": 77700.0,
   "vah": 77750.0,
-  "val": 77700.0,
-  "analysis": "Initializing rolling microstructure buffers. Volume profile accumulating baseline order flow.",
-  "key_risk": "Insufficient tick sample size for regime identification."
+  "val": 77650.0,
+  "analysis": "Price rotating inside Value Area near POC ($77,700.00). Spot CVD delta is positive (+1.58 BTC).",
+  "key_risk": "Range chop between VAL ($77,650.00) and VAH ($77,750.00)."
 }
