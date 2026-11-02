@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-02T17:30:35.598568+00:00",
+  "price": 77083.5,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 0.0,
+  "perp_cvd": -356.789,
+  "divergence": 356.789,
+  "poc": 77400.0,
+  "vah": 77550.0,
+  "val": 77200.0,
+  "analysis": "Bitcoin has broken below the Value Area Low of 77,200 driven entirely by derivative market selling with zero spot volume backing. This derivative-only breakdown presents significant mean-reversion risk if futures sellers experience exhaustion.",
+  "key_risk": "Perp short exhaustion leading to a rapid short squeeze back above the 77,200 Value Area Low."
+}
