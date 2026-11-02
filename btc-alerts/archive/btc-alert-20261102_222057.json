@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-02T22:20:57.125436+00:00",
+  "price": 77004.02,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 156.4959,
+  "perp_cvd": 83.873,
+  "divergence": 72.6229,
+  "poc": 76800.0,
+  "vah": 76900.0,
+  "val": 76750.0,
+  "analysis": "Price has accepted above VAH at 76,900 supported by positive spot delta outstripping derivative flows. Strong spot CVD divergence confirms authentic directional conviction rather than a perp-driven leverage spike.",
+  "key_risk": "A quick rejection back inside VAH (76,900) triggering a failed breakout rotation toward the POC at 76,800."
+}
