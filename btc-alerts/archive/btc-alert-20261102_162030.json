@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-02T16:20:30.774970+00:00",
+  "price": 77389.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 0.0,
+  "perp_cvd": -581.685,
+  "divergence": 581.685,
+  "poc": 77750.0,
+  "vah": 77900.0,
+  "val": 77450.0,
+  "analysis": "Price has broken below the Value Area Low driven entirely by aggressive perpetual futures selling in the complete absence of spot volume. The lack of spot participation below VAL signals low structural conviction, raising the probability of a perpetual short-exhaustion squeeze back into the value area.",
+  "key_risk": "Aggressive perpetual short-trapping leading to a violent mean-reversion reclaim above VAL (77,450)."
+}
