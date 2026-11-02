@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-02T15:25:30.262678+00:00",
-  "price": 77985.6,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "timestamp": "2026-11-02T15:30:30.289511+00:00",
+  "price": 77856.5,
+  "regime": "Mean Reverting / Consolidation",
   "spot_cvd": 0.0,
-  "perp_cvd": -218.999,
-  "divergence": 218.999,
+  "perp_cvd": -134.051,
+  "divergence": 134.051,
   "poc": 77800.0,
-  "vah": 77950.0,
+  "vah": 78000.0,
   "val": 77700.0,
-  "analysis": "Price has pushed above the Value Area High to 77,965 despite aggressive perpetual selling, indicating a short squeeze or passive absorption of perp limit orders. With zero spot volume recorded over the last 60 minutes, the breakout lacks spot conviction and is vulnerable to exhaustion.",
-  "key_risk": "Complete absence of spot volume leading to a rapid mean-reversion failure below 77,950."
+  "analysis": "Price rotating inside Value Area near POC ($77,800.00). Spot CVD delta is negative (+0.00 BTC).",
+  "key_risk": "Range chop between VAL ($77,700.00) and VAH ($78,000.00)."
 }
