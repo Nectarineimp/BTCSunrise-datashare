@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-02T23:41:02.466470+00:00",
-  "price": 76836.4,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 129.963,
-  "perp_cvd": -59.132,
-  "divergence": 189.095,
+  "timestamp": "2026-11-02T23:46:02.588791+00:00",
+  "price": 76798.1,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 130.8995,
+  "perp_cvd": -76.744,
+  "divergence": 207.6435,
   "poc": 76800.0,
   "vah": 76850.0,
   "val": 76700.0,
-  "analysis": "Spot aggressive buying is driving price acceptance slightly above the Value Area High despite active derivative short hedging. This pronounced spot-perp CVD divergence indicates organic demand absorption, maintaining a structural upside bias as long as VAH holds.",
-  "key_risk": "Failure to maintain acceptance above VAH (76,850.0) leading to a rotation back down toward the POC."
+  "analysis": "Price rotating inside Value Area near POC ($76,800.00). Spot CVD delta is positive (+130.90 BTC).",
+  "key_risk": "Range chop between VAL ($76,700.00) and VAH ($76,850.00)."
 }
