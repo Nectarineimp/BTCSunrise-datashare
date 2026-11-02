@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-02T18:10:36.357908+00:00",
+  "price": 77333.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 0.0,
+  "perp_cvd": -696.105,
+  "divergence": 696.105,
+  "poc": 76950.0,
+  "vah": 77300.0,
+  "val": 76950.0,
+  "analysis": "Bitcoin is trading marginally above the Value Area High at 77,300 driven exclusively by derivatives positioning amid zero spot volume. The negative perpetual CVD alongside price expansion indicates a short squeeze lacking spot confirmation, elevating mean-reversion risks.",
+  "key_risk": "Lack of organic spot bid to sustain the breakout above VAH, exposing price to a rapid pull-back toward the POC at 76,950."
+}
