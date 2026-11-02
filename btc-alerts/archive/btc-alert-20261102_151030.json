@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-02T15:10:30.140905+00:00",
+  "price": 77968.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 0.0,
+  "perp_cvd": -170.434,
+  "divergence": 170.434,
+  "poc": 77800.0,
+  "vah": 77950.0,
+  "val": 77700.0,
+  "analysis": "Price is probing slightly above the Value Area High at 77,950 amidst complete spot volume inactivity and aggressive perp short flow. The absorption of perp selling at structural resistance creates an elevated risk of a short squeeze or sudden exhaustion back into value.",
+  "key_risk": "Absence of spot buying participation leaving price vulnerable to a sharp mean-reversion back toward the POC at 77,800."
+}
