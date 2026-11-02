@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-02T17:45:36.234499+00:00",
+  "price": 76919.5,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 0.0,
+  "perp_cvd": -573.407,
+  "divergence": 573.407,
+  "poc": 76950.0,
+  "vah": 77400.0,
+  "val": 76950.0,
+  "analysis": "Aggressive perp-driven selling has pushed price marginally below the Value Area Low and POC at 76950 amidst a complete absence of spot volume. This derivative-only pressure creates significant risk of short exhaustion and a swift squeeze back into value if passive buyers absorb the flow.",
+  "key_risk": "Perverse derivative short accumulation at POC without spot volume confirmation risks a rapid mean-reversion squeeze."
+}
