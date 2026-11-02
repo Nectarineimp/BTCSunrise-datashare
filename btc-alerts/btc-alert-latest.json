@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-02T19:00:38.110308+00:00",
-  "price": 76974.3,
-  "regime": "Mean Reverting / Consolidation",
+  "timestamp": "2026-11-02T19:05:44.218594+00:00",
+  "price": 76899.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
   "spot_cvd": 0.0,
-  "perp_cvd": 39.885,
-  "divergence": -39.885,
+  "perp_cvd": -68.137,
+  "divergence": 68.137,
   "poc": 76950.0,
-  "vah": 77250.0,
+  "vah": 77150.0,
   "val": 76900.0,
-  "analysis": "Price rotating inside Value Area near POC ($76,950.00). Spot CVD delta is negative (+0.00 BTC).",
-  "key_risk": "Range chop between VAL ($76,900.00) and VAH ($77,250.00)."
+  "analysis": "Perpetual swaps are driving price below the Value Area Low with negative CVD delta (-68.13) in the complete absence of spot volume. This unbacked leverage-driven expansion below 76,900 creates significant exhaustion and squeeze risk if buyers reclaim VAL.",
+  "key_risk": "Total absence of spot volume validation leaving aggressive perp shorts vulnerable to a reclaim above VAL (76,900.0)."
 }
