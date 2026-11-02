@@ -1,5 +1,5 @@
 <!-- BTC Alert Web Component -->
-<div class="btc-alert" data-timestamp="2026-11-02T14:25:28.195412+00:00">
+<div class="btc-alert" data-timestamp="2026-11-02T14:30:28.198251+00:00">
   <style>
     .btc-alert {
       --bg: #0d1117;
@@ -62,29 +62,29 @@
 
   <div class="btc-alert-header">
     <span>⚡ BTC ORDER FLOW BREAKOUT</span>
-    <span>77,789.70 USD</span>
+    <span>77,795.50 USD</span>
   </div>
 
   <div class="btc-alert-grid">
     <span class="btc-alert-label">Regime</span>
-    <span class="btc-alert-val">Consolidation</span>
+    <span class="btc-alert-val">Leverage Squeeze / Exhaustion Risk</span>
 
     <span class="btc-alert-label">Spot CVD (60m)</span>
     <span class="btc-alert-val btc-pos">0.00 BTC</span>
 
     <span class="btc-alert-label">Perp CVD (60m)</span>
-    <span class="btc-alert-val btc-pos">+0.00 BTC</span>
+    <span class="btc-alert-val btc-neg">-97.29 BTC</span>
 
     <span class="btc-alert-label">Divergence</span>
-    <span class="btc-alert-val btc-neg">-0.00 BTC</span>
+    <span class="btc-alert-val btc-pos">+97.29 BTC</span>
 
     <span class="btc-alert-label">POC | VAH | VAL</span>
-    <span class="btc-alert-val">77,750 | 77,800 | 77,750 USD</span>
+    <span class="btc-alert-val">77,750 | 77,800 | 77,700 USD</span>
   </div>
 
   <div class="btc-alert-body">
-    <strong>Analysis:</strong> 
+    <strong>Analysis:</strong> Price is trading slightly below the Value Area Low at 77,749, driven entirely by aggressive perpetual shorting in the absence of spot volume. The total lack of spot participation creates a structural exhaustion setup with high risk of a short-side leverage squeeze back toward the POC.
   </div>
 
-  
+  <div class="btc-alert-risk"><strong>Key Risk:</strong> Unconfirmed perp short positioning below VAL vulnerable to a rapid short squeeze on any spot bid influx.</div>
 </div>

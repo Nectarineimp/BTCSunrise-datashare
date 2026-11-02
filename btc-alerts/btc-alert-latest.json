@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-02T14:25:28.195412+00:00",
-  "price": 77789.7,
-  "regime": "Consolidation",
+  "timestamp": "2026-11-02T14:30:28.198251+00:00",
+  "price": 77795.5,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
   "spot_cvd": 0.0,
-  "perp_cvd": 0.001,
-  "divergence": -0.001,
+  "perp_cvd": -97.289,
+  "divergence": 97.289,
   "poc": 77750.0,
   "vah": 77800.0,
-  "val": 77750.0,
-  "analysis": "",
-  "key_risk": ""
+  "val": 77700.0,
+  "analysis": "Price is trading slightly below the Value Area Low at 77,749, driven entirely by aggressive perpetual shorting in the absence of spot volume. The total lack of spot participation creates a structural exhaustion setup with high risk of a short-side leverage squeeze back toward the POC.",
+  "key_risk": "Unconfirmed perp short positioning below VAL vulnerable to a rapid short squeeze on any spot bid influx."
 }
