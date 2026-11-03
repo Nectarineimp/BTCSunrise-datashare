@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T00:36:04.645976+00:00",
+  "price": 77161.4,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 58.7882,
+  "perp_cvd": 604.901,
+  "divergence": -546.1128,
+  "poc": 77000.0,
+  "vah": 77150.0,
+  "val": 76800.0,
+  "analysis": "Price is marginally probing above VAH, driven predominantly by aggressive perpetual buying while spot delta remains weak. This significant negative CVD divergence highlights a fragile, derivative-led expansion vulnerable to sharp mean reversion.",
+  "key_risk": "Lack of spot bid support leading to a failed VAH breakout and long liquidation cascade back toward the POC at 77000.0."
+}
