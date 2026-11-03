@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-03T02:16:08.107558+00:00",
-  "price": 77016.01,
+  "timestamp": "2026-11-03T02:21:08.159843+00:00",
+  "price": 76927.99,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -161.3956,
-  "perp_cvd": -147.102,
-  "divergence": -14.2936,
+  "spot_cvd": -196.4894,
+  "perp_cvd": -262.355,
+  "divergence": 65.8656,
   "poc": 77200.0,
-  "vah": 77300.0,
-  "val": 77050.0,
-  "analysis": "Price has broken below the Value Area Low (77050.0) driven by synchronized negative spot and perp CVD delta. Derivative volume heavily dominates spot volume, indicating leverage-led aggressive selling that carries heightened risk of short-side exhaustion or liquidation squeezes.",
-  "key_risk": "Acceptance and sustained trading below 77050.0 triggering secondary derivative liquidation cascades."
+  "vah": 77250.0,
+  "val": 76950.0,
+  "analysis": "Price testing liquidity below VAL at $76,927.99. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($77,200.00)."
 }
