@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-03T17:01:58.711814+00:00",
-  "price": 77745.7,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -4.7644,
-  "perp_cvd": -184.101,
-  "divergence": 179.3366,
+  "timestamp": "2026-11-03T17:06:58.839658+00:00",
+  "price": 77717.22,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 56.3147,
+  "perp_cvd": -169.351,
+  "divergence": 225.6657,
   "poc": 77500.0,
-  "vah": 77650.0,
+  "vah": 77700.0,
   "val": 77400.0,
-  "analysis": "Price testing liquidity above VAH at $77,745.70. Delta volume lacks high-conviction institutional participation.",
-  "key_risk": "Mean-reversion trap back toward Value Area POC ($77,500.00)."
+  "analysis": "Spot buying is actively absorbing heavy perpetual short positioning, driving price marginally above the Value Area High at 77,700. Sustained spot delta is required to force a leverage squeeze and secure acceptance outside the previous value area.",
+  "key_risk": "Failure to hold acceptance above VAH (77,700), triggering a rapid mean-reversion back toward the POC at 77,500."
 }
