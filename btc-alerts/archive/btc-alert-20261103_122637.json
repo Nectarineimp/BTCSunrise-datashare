@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T12:26:37.670508+00:00",
+  "price": 77392.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 28.4762,
+  "perp_cvd": 149.461,
+  "divergence": -120.9848,
+  "poc": 77050.0,
+  "vah": 77300.0,
+  "val": 77000.0,
+  "analysis": "Price has accepted above the Value Area High (77,300) driven overwhelmingly by aggressive perpetual positioning rather than organic spot accumulation. The substantial negative CVD divergence (-118.68 BTC) highlights a leverage-fueled expansion that is highly vulnerable to a cascade back into the value area if spot demand remains passive.",
+  "key_risk": "Lack of spot CVD confirmation triggering long liquidation cascades and mean-reversion below VAH (77,300)."
+}
