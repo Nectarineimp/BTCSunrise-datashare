@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T14:41:51.281169+00:00",
+  "price": 77150.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 29.8565,
+  "perp_cvd": -178.897,
+  "divergence": 208.7535,
+  "poc": 77600.0,
+  "vah": 77800.0,
+  "val": 77250.0,
+  "analysis": "Price has auctioned below the Value Area Low driven by aggressive perpetual selling, though positive spot CVD indicates active spot absorption of short volume. This significant CVD divergence increases the likelihood of a short squeeze back toward the Point of Control.",
+  "key_risk": "Perpetual selling pressure accelerating and breaking spot absorption, leading to sustained acceptance below 77,250."
+}
