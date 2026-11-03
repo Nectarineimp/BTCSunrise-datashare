@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-03T03:11:09.277851+00:00",
-  "price": 76568.11,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": -425.72,
-  "perp_cvd": -333.608,
-  "divergence": -92.112,
+  "timestamp": "2026-11-03T03:16:09.292341+00:00",
+  "price": 76760.0,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": -404.8596,
+  "perp_cvd": -287.4,
+  "divergence": -117.4596,
   "poc": 76950.0,
   "vah": 77050.0,
-  "val": 76800.0,
-  "analysis": "Price trading below Value Area Low is reinforced by aligned aggressive selling across spot and perpetual venues, with spot CVD leading the downside momentum. Order flow exhibits strong spot-driven conviction, maintaining a bearish tilt toward lower liquidity pools while price remains rejected from value.",
-  "key_risk": "Reclamation and acceptance back above Value Area Low at 76,800 triggering perp short-covering."
+  "val": 76750.0,
+  "analysis": "Price rotating inside Value Area near POC ($76,950.00). Spot CVD delta is negative (-404.86 BTC).",
+  "key_risk": "Range chop between VAL ($76,750.00) and VAH ($77,050.00)."
 }
