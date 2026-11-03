@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T20:26:03.452965+00:00",
+  "price": 77782.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 13.1448,
+  "perp_cvd": 208.859,
+  "divergence": -195.7142,
+  "poc": 77700.0,
+  "vah": 77750.0,
+  "val": 77500.0,
+  "analysis": "Price has marginally broken above the Value Area High, but the push is heavily driven by aggressive derivative positioning with minimal spot accumulation. Without spot CVD follow-through, the move lacks institutional backing and faces heightened risk of a liquidation-driven reversal back into value.",
+  "key_risk": "Lack of spot bid follow-through triggering a long liquidation cascade below VAH at 77,750."
+}
