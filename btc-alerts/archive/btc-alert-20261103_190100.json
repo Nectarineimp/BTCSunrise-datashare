@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T19:01:00.785730+00:00",
+  "price": 77604.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -25.9282,
+  "perp_cvd": -70.95,
+  "divergence": 45.0218,
+  "poc": 77650.0,
+  "vah": 77800.0,
+  "val": 77600.0,
+  "analysis": "Price has broken below the Value Area Low of 77,600 driven predominantly by aggressive perpetual futures shorting rather than spot distribution. The pronounced negative perp CVD relative to muted spot selling highlights short exhaustion risk if spot buyers absorb the aggressive leverage flow.",
+  "key_risk": "Cascade of leveraged short positions accelerating lower liquidity sweeps before spot bid support materializes."
+}
