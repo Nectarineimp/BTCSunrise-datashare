@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T04:16:10.331301+00:00",
+  "price": 76915.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -135.1208,
+  "perp_cvd": 67.929,
+  "divergence": -203.0498,
+  "poc": 76900.0,
+  "vah": 76950.0,
+  "val": 76750.0,
+  "analysis": "Price is probing just above VAH driven entirely by derivative buying, while negative spot CVD indicates spot traders are taking liquidity and selling into the move. This leverage-led expansion without spot volume backing leaves the breakout vulnerable to exhaustion and a fast mean-reversion back into the value area.",
+  "key_risk": "Perp long liquidation cascade triggered by failure to sustain acceptance above 76,950 VAH."
+}
