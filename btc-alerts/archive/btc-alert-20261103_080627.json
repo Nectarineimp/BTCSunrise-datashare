@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T08:06:27.609554+00:00",
+  "price": 76694.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 5.9092,
+  "perp_cvd": 163.93,
+  "divergence": -158.0208,
+  "poc": 76850.0,
+  "vah": 76950.0,
+  "val": 76700.0,
+  "analysis": "Aggressive perpetual buying is failing to lift price above the Value Area Low of 76,700 due to negligible spot CVD support. This severe spot/perp divergence creates high vulnerability for a downside leverage liquidation cascade if 76,700 is not reclaimed quickly.",
+  "key_risk": "Liquidation cascade from trapped derivative longs below the Value Area Low (76,700)."
+}
