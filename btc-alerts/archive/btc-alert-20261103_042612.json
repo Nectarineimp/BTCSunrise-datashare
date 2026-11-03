@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T04:26:12.141546+00:00",
+  "price": 76950.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -134.5849,
+  "perp_cvd": 100.907,
+  "divergence": -235.4919,
+  "poc": 76900.0,
+  "vah": 76950.0,
+  "val": 76750.0,
+  "analysis": "Perp aggressive buying is driving price marginally above VAH while spot CVD remains negative, signaling passive spot absorption of leverage flows. Without spot participation, this breakout lacks conviction and carries high risk of a fast rejection back toward the POC.",
+  "key_risk": "Spot CVD non-confirmation triggering a perp long liquidation cascade back inside the Value Area."
+}
