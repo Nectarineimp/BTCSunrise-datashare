@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T13:46:38.309657+00:00",
+  "price": 77746.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 256.1773,
+  "perp_cvd": 376.618,
+  "divergence": -120.4407,
+  "poc": 77400.0,
+  "vah": 77550.0,
+  "val": 77250.0,
+  "analysis": "Price acceptance above the 77,550 VAH is currently sustained by aggressive derivatives buying rather than spot demand. With perpetual volume outpacing spot volume by over four times, the upside extension remains vulnerable to leverage exhaustion.",
+  "key_risk": "Loss of VAH (77,550) triggering a sharp mean-reversion flush back into the value area toward POC (77,400)."
+}
