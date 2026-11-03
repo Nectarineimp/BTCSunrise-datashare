@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-03T13:31:38.273552+00:00",
-  "price": 77498.0,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 252.3377,
-  "perp_cvd": 23.331,
-  "divergence": 229.0067,
+  "timestamp": "2026-11-03T13:41:38.304595+00:00",
+  "price": 77766.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 256.1773,
+  "perp_cvd": 357.947,
+  "divergence": -101.7697,
   "poc": 77400.0,
-  "vah": 77450.0,
-  "val": 77300.0,
-  "analysis": "Spot delta is aggressively leading perpetual flows, driving price acceptance marginally above the 60-minute Value Area High at 77,450. This organic spot-driven imbalance provides solid structural backing for further upward expansion if VAH holds as support.",
-  "key_risk": "Failure to sustain acceptance above VAH (77,450) triggering a mean-reversion move back into the value area toward POC (77,400)."
+  "vah": 77500.0,
+  "val": 77250.0,
+  "analysis": "Price testing liquidity above VAH at $77,766.90. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($77,400.00)."
 }
