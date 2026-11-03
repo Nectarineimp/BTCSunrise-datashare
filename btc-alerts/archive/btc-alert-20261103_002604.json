@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T00:26:04.626293+00:00",
+  "price": 77007.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 95.0035,
+  "perp_cvd": 203.605,
+  "divergence": -108.6015,
+  "poc": 76800.0,
+  "vah": 76950.0,
+  "val": 76600.0,
+  "analysis": "Price has accepted above the Value Area High driven primarily by aggressive derivative positioning rather than spot demand. Without matching follow-through from spot buyers, the breakout remains vulnerable to a leverage-driven pullback into the value area.",
+  "key_risk": "Spot volume lag and heavy reliance on perp aggression, creating downside cascade risk if price falls back below VAH (76,950)."
+}
