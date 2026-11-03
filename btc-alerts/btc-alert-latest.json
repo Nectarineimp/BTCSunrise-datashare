@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-03T19:11:00.952499+00:00",
-  "price": 77504.9,
+  "timestamp": "2026-11-03T19:16:01.629092+00:00",
+  "price": 77525.9,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -30.9739,
-  "perp_cvd": -273.687,
-  "divergence": 242.7131,
+  "spot_cvd": -23.4275,
+  "perp_cvd": -295.993,
+  "divergence": 272.5655,
   "poc": 77600.0,
-  "vah": 77750.0,
-  "val": 77550.0,
-  "analysis": "Perpetual futures aggressive selling is driving price below the 60m Value Area Low while spot CVD remains relatively passive. This derivative-led expansion below 77,550 creates potential short-exhaustion and squeeze dynamics back toward the POC.",
-  "key_risk": "Perp short-squeeze reclaim of VAL at 77,550 triggering rapid mean reversion back to POC."
+  "vah": 77700.0,
+  "val": 77500.0,
+  "analysis": "Aggressive perpetual swap selling has driven price below the Value Area Low of 77,500 while spot CVD remains relatively passive. This pronounced spot-perp divergence highlights a breakdown driven primarily by derivatives leverage rather than spot distribution.",
+  "key_risk": "Reclaim of VAL (77,500) triggering a short-covering squeeze against heavily aggressive perpetual positioning."
 }
