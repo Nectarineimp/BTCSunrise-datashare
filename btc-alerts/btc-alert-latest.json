@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-03T04:26:12.141546+00:00",
-  "price": 76950.01,
+  "timestamp": "2026-11-03T04:31:12.236360+00:00",
+  "price": 77082.0,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -134.5849,
-  "perp_cvd": 100.907,
-  "divergence": -235.4919,
+  "spot_cvd": -93.4016,
+  "perp_cvd": 218.321,
+  "divergence": -311.7226,
   "poc": 76900.0,
   "vah": 76950.0,
-  "val": 76750.0,
-  "analysis": "Perp aggressive buying is driving price marginally above VAH while spot CVD remains negative, signaling passive spot absorption of leverage flows. Without spot participation, this breakout lacks conviction and carries high risk of a fast rejection back toward the POC.",
-  "key_risk": "Spot CVD non-confirmation triggering a perp long liquidation cascade back inside the Value Area."
+  "val": 76700.0,
+  "analysis": "Price testing liquidity above VAH at $77,082.00. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($76,900.00)."
 }
