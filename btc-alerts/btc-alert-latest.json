@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-03T03:36:09.333461+00:00",
-  "price": 76674.0,
+  "timestamp": "2026-11-03T03:41:09.422675+00:00",
+  "price": 76683.2,
   "regime": "Spot-Led Expansion",
-  "spot_cvd": -275.4065,
-  "perp_cvd": -103.701,
-  "divergence": -171.7055,
-  "poc": 76900.0,
+  "spot_cvd": -227.6354,
+  "perp_cvd": -79.345,
+  "divergence": -148.2904,
+  "poc": 76850.0,
   "vah": 76950.0,
   "val": 76700.0,
-  "analysis": "Price has broken below the Value Area Low of 76,700, driven predominantly by aggressive spot selling over the past hour. The directional alignment between spot and perpetual CVD reinforces genuine spot-led downside momentum.",
-  "key_risk": "Failure to maintain acceptance below VAL (76,700), triggering a mean-reversion squeeze back toward the POC at 76,900."
+  "analysis": "Bitcoin is expanding below the Value Area Low of 76,700, propelled by heavy spot-led distribution outstripping perpetual swaps selling. Strong negative spot CVD delta reinforces high sell-side conviction, maintaining a firm short-term bearish bias.",
+  "key_risk": "Potential liquidity sweep and rapid mean-reversion squeeze above 76,700 if aggressive spot selling exhausts at current low volume nodes."
 }
