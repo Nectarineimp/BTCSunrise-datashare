@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T04:46:12.400320+00:00",
+  "price": 76971.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -71.7403,
+  "perp_cvd": 161.513,
+  "divergence": -233.2533,
+  "poc": 76900.0,
+  "vah": 77050.0,
+  "val": 76800.0,
+  "analysis": "Price is marginally pushing above VAH driven entirely by aggressive perpetual buying while spot CVD shows net distribution. This clear spot-perp CVD divergence at value boundaries signals elevated risk of a long exhaustion squeeze back inside the value area.",
+  "key_risk": "Absence of spot cumulative volume delta support above VAH leading to a leverage long liquidation cascade."
+}
