@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T10:06:31.431680+00:00",
+  "price": 77073.32,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 70.4583,
+  "perp_cvd": 129.86,
+  "divergence": -59.4017,
+  "poc": 77000.0,
+  "vah": 77050.0,
+  "val": 76800.0,
+  "analysis": "Bitcoin is attempting a breakout above the Value Area High driven predominantly by perpetual futures volume rather than spot demand. Without spot CVD follow-through, this leverage-heavy push faces heightened risk of exhaustion or a sharp pull-back into the value area.",
+  "key_risk": "Failure of spot buyers to absorb sell liquidity above VAH (77050.0), threatening a mean-reversion move toward POC (77000.0)."
+}
