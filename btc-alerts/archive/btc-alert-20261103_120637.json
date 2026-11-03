@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T12:06:37.349046+00:00",
+  "price": 77024.5,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 76.6514,
+  "perp_cvd": 120.181,
+  "divergence": -43.5296,
+  "poc": 77050.0,
+  "vah": 77250.0,
+  "val": 77050.0,
+  "analysis": "Perpetual buyers are aggressively chasing long positions below the Value Area Low (77050.0) without spot volume support. This clear delta divergence indicates passive limit absorption, leaving over-leveraged perps vulnerable to a sharp liquidation cascade.",
+  "key_risk": "Absorbed perp long positions triggering a cascade of liquidations below VAL (77050.0)."
+}
