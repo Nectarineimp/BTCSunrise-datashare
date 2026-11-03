@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-03T12:06:37.349046+00:00",
-  "price": 77024.5,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 76.6514,
-  "perp_cvd": 120.181,
-  "divergence": -43.5296,
+  "timestamp": "2026-11-03T12:11:37.653960+00:00",
+  "price": 77132.74,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 16.1867,
+  "perp_cvd": -37.997,
+  "divergence": 54.1837,
   "poc": 77050.0,
-  "vah": 77250.0,
-  "val": 77050.0,
-  "analysis": "Perpetual buyers are aggressively chasing long positions below the Value Area Low (77050.0) without spot volume support. This clear delta divergence indicates passive limit absorption, leaving over-leveraged perps vulnerable to a sharp liquidation cascade.",
-  "key_risk": "Absorbed perp long positions triggering a cascade of liquidations below VAL (77050.0)."
+  "vah": 77200.0,
+  "val": 77000.0,
+  "analysis": "Price rotating inside Value Area near POC ($77,050.00). Spot CVD delta is positive (+16.19 BTC).",
+  "key_risk": "Range chop between VAL ($77,000.00) and VAH ($77,200.00)."
 }
