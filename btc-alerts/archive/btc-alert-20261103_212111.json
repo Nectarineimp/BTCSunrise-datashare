@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T21:21:11.542624+00:00",
+  "price": 77896.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -1.0331,
+  "perp_cvd": 204.176,
+  "divergence": -205.2092,
+  "poc": 77850.0,
+  "vah": 77900.0,
+  "val": 77750.0,
+  "analysis": "The price break above VAH at 77,900 is heavily driven by perpetual swap leverage while spot CVD remains negative. Without aggressive spot absorption, this rally is vulnerable to leverage exhaustion and mean reversion back into the Value Area.",
+  "key_risk": "Perp-driven long liquidation cascade following rejection at VAH (77,900)."
+}
