@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T22:11:13.307611+00:00",
+  "price": 77828.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -1.2259,
+  "perp_cvd": -122.268,
+  "divergence": 121.0422,
+  "poc": 77850.0,
+  "vah": 78000.0,
+  "val": 77850.0,
+  "analysis": "Aggressive perpetual swap selling has pushed price below the Value Area Low of 77,850 while spot CVD remains relatively muted. The heavy perp-driven divergence without spot confirmation leaves aggressive shorts vulnerable to a potential squeeze back into the value area.",
+  "key_risk": "Lack of spot absorption leading to cascading downside liquidations below 77,800."
+}
