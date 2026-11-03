@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T03:11:09.277851+00:00",
+  "price": 76568.11,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": -425.72,
+  "perp_cvd": -333.608,
+  "divergence": -92.112,
+  "poc": 76950.0,
+  "vah": 77050.0,
+  "val": 76800.0,
+  "analysis": "Price trading below Value Area Low is reinforced by aligned aggressive selling across spot and perpetual venues, with spot CVD leading the downside momentum. Order flow exhibits strong spot-driven conviction, maintaining a bearish tilt toward lower liquidity pools while price remains rejected from value.",
+  "key_risk": "Reclamation and acceptance back above Value Area Low at 76,800 triggering perp short-covering."
+}
