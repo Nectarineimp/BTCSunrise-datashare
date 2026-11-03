@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T04:41:12.255420+00:00",
+  "price": 77028.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -92.2075,
+  "perp_cvd": 230.669,
+  "divergence": -322.8765,
+  "poc": 76900.0,
+  "vah": 77000.0,
+  "val": 76700.0,
+  "analysis": "Price acceptance above the 77,000 VAH is currently reliant on perpetual leverage, as negative spot CVD indicates spot traders are distributing into the push. This pronounced CVD divergence creates a fragile market structure prone to sudden leverage exhaustion and a mean-reverting move.",
+  "key_risk": "Perpetual unwinding triggering a breakdown back below VAH (77,000.0) toward the POC."
+}
