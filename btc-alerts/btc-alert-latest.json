@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-03T20:41:04.001838+00:00",
-  "price": 77850.7,
+  "timestamp": "2026-11-03T20:46:04.005770+00:00",
+  "price": 77826.1,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 19.4974,
-  "perp_cvd": 249.077,
-  "divergence": -229.5796,
+  "spot_cvd": 16.0221,
+  "perp_cvd": 246.614,
+  "divergence": -230.5919,
   "poc": 77750.0,
   "vah": 77800.0,
   "val": 77550.0,
-  "analysis": "Price has expanded above VAH driven almost exclusively by perpetual leverage, while spot CVD shows negligible buying (+21 BTC spot vs +262 BTC perp). Without spot market acceptance at these elevated levels, the breakout is highly vulnerable to a long liquidation cascade back into the Value Area.",
-  "key_risk": "Lack of spot demand leading to a sharp rejection back below VAH (77,800) and rotation toward POC (77,750)."
+  "analysis": "Price testing liquidity above VAH at $77,826.10. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($77,750.00)."
 }
