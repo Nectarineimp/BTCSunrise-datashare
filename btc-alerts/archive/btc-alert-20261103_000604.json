@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T00:06:04.071235+00:00",
+  "price": 76768.0,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 92.4489,
+  "perp_cvd": 6.763,
+  "divergence": 85.6859,
+  "poc": 76750.0,
+  "vah": 76850.0,
+  "val": 76750.0,
+  "analysis": "Strong positive spot CVD divergence against sluggish perpetual delta indicates passive absorption by spot buyers at the Value Area Low. A sustained reclaim of 76,750 USD should trigger a mean-reversion move higher toward the Point of Control and VAH.",
+  "key_risk": "Acceptance below 76,750 VAL invalidating spot absorption and triggering downstream perp liquidations."
+}
