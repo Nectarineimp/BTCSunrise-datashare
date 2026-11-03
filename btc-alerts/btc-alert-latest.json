@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-03T09:16:30.980506+00:00",
-  "price": 76793.8,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 191.6096,
-  "perp_cvd": -22.59,
-  "divergence": 214.1996,
+  "timestamp": "2026-11-03T09:21:30.992759+00:00",
+  "price": 76829.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 185.0236,
+  "perp_cvd": -65.652,
+  "divergence": 250.6755,
   "poc": 76500.0,
-  "vah": 76750.0,
-  "val": 76500.0,
-  "analysis": "Spot cumulative volume delta (+190.5 BTC) is driving price expansion above the Value Area High (76,750) despite passive derivative selling. Organic spot buying outside the value area confirms directional conviction and acceptance at higher price levels.",
-  "key_risk": "Auction re-entry below VAH (76,750) triggering mean reversion back into the value area toward POC (76,500)."
+  "vah": 76700.0,
+  "val": 76450.0,
+  "analysis": "Price testing liquidity above VAH at $76,829.00. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($76,500.00)."
 }
