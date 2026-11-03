@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T14:01:48.605660+00:00",
+  "price": 77700.0,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 275.0164,
+  "perp_cvd": 326.11,
+  "divergence": -51.0936,
+  "poc": 77350.0,
+  "vah": 77700.0,
+  "val": 77250.0,
+  "analysis": "Aggressive spot accumulation alongside positive derivative flows has pushed price marginally above the Value Area High at 77,700. While strong spot delta supports the breakout, heavy perp volume dominance requires caution against leverage exhaustion at current highs.",
+  "key_risk": "Failed breakout acceptance and quick rejection back inside the Value Area below 77,700 VAH."
+}
