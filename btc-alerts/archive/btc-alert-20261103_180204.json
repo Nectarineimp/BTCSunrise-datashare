@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T18:02:04.955686+00:00",
+  "price": 77629.9,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 61.7167,
+  "perp_cvd": 1.648,
+  "divergence": 60.0687,
+  "poc": 77650.0,
+  "vah": 77800.0,
+  "val": 77650.0,
+  "analysis": "Spot delta significantly outpaces perpetual futures (+61.7 spot vs +1.6 perp CVD), signaling active spot absorption of derivative liquidity at the Value Area Low. A reclaim of the 77,650 POC/VAL pivot is required to confirm value area re-entry and continuation.",
+  "key_risk": "Failure to reclaim 77,650 VAL/POC, risking persistent acceptance below value despite spot accumulation."
+}
