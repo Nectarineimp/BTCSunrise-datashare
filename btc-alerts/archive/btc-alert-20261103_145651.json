@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T14:56:51.337716+00:00",
+  "price": 77435.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 1.2173,
+  "perp_cvd": -538.523,
+  "divergence": 539.7403,
+  "poc": 77200.0,
+  "vah": 77450.0,
+  "val": 77100.0,
+  "analysis": "Price has accepted above VAH despite aggressive perpetual swap selling, signaling active passive absorption and a potential short squeeze. Low spot volume relative to perpetual volume indicates fragile breakout conviction that relies on continued leverage liquidation rather than organic spot demand.",
+  "key_risk": "Failure to sustain acceptance above VAH (77,450) triggering a sharp mean-reversion back toward POC (77,200)."
+}
