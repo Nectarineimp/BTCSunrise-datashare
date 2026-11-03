@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T15:41:57.449625+00:00",
+  "price": 77564.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 1.8955,
+  "perp_cvd": -18.78,
+  "divergence": 20.6755,
+  "poc": 77350.0,
+  "vah": 77450.0,
+  "val": 77300.0,
+  "analysis": "Price has breached the Value Area High driven primarily by perp short absorption rather than aggressive spot accumulation. The severe negative perp CVD divergence alongside thin spot volume highlights short-squeeze dynamics that carry elevated exhaustion risk.",
+  "key_risk": "Loss of acceptance above VAH (77,450) triggering a mean-reversion move back toward the POC (77,350)."
+}
