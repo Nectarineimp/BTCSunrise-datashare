@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T06:01:18.075380+00:00",
+  "price": 76621.87,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": -95.1595,
+  "perp_cvd": -86.809,
+  "divergence": -8.3505,
+  "poc": 76600.0,
+  "vah": 76750.0,
+  "val": 76550.0,
+  "analysis": "Price has marginally accepted below the 76600 Value Area Low, driven predominantly by net spot cumulative volume delta selling outpacing perpetual flows. Sustained downside expansion requires continued spot delta aggressive selling to prevent a quick mean-reverting reclaim of the POC.",
+  "key_risk": "Failed auction below the 76600 VAL level leading to a sharp squeeze back into the value area."
+}
