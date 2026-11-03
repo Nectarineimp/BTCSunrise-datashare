@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-03T09:31:31.017462+00:00",
+  "price": 76907.5,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 192.3696,
+  "perp_cvd": 47.605,
+  "divergence": 144.7646,
+  "poc": 76500.0,
+  "vah": 76800.0,
+  "val": 76450.0,
+  "analysis": "Bitcoin demonstrates a spot-led expansion regime, pushing above VAH (76,800) driven by positive spot CVD delta (+192.34 BTC) outpacing perpetual futures accumulation. This organic spot buying confirms bullish conviction and favors upside continuation while price accepts above the Value Area High.",
+  "key_risk": "Failed breakout returning inside the Value Area, triggering a mean-reversion sweep toward the POC at 76,500."
+}
