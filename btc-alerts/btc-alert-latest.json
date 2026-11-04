@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-04T03:21:29.904730+00:00",
-  "price": 76025.7,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 112.1468,
-  "perp_cvd": -128.636,
-  "divergence": 240.7828,
+  "timestamp": "2026-11-04T03:26:29.921625+00:00",
+  "price": 76290.0,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 137.4308,
+  "perp_cvd": -12.544,
+  "divergence": 149.9748,
   "poc": 76600.0,
-  "vah": 76900.0,
-  "val": 76050.0,
-  "analysis": "Spot flows show active absorption (+112.1 CVD) while aggressive derivative shorting (-128.6 CVD) pushes price just below the 76,050 Value Area Low. This pronounced CVD divergence at value boundary support creates elevated risk for a perpetual short squeeze back toward the 76,600 POC.",
-  "key_risk": "Perpetual short volume cascading into spot liquidation, driving sustained acceptance below the Value Area Low."
+  "vah": 76850.0,
+  "val": 76000.0,
+  "analysis": "Price rotating inside Value Area near POC ($76,600.00). Spot CVD delta is positive (+137.43 BTC).",
+  "key_risk": "Range chop between VAL ($76,000.00) and VAH ($76,850.00)."
 }
