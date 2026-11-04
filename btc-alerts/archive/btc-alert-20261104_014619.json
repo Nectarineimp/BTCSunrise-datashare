@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T01:46:19.555572+00:00",
+  "price": 76835.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -31.243,
+  "perp_cvd": -265.968,
+  "divergence": 234.725,
+  "poc": 76900.0,
+  "vah": 77100.0,
+  "val": 76850.0,
+  "analysis": "Derivative order flow is driving the breakdown below the Value Area Low with aggressive perp shorting significantly outstripping spot participation. Lack of spot CVD confirmation leaves the move vulnerable to a leverage exhaustion squeeze back into value.",
+  "key_risk": "Reclaim of Value Area Low at 76,850 triggering derivative short covering."
+}
