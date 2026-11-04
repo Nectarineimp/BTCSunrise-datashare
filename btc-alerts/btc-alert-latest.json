@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-04T12:11:45.261685+00:00",
-  "price": 78137.19,
+  "timestamp": "2026-11-04T12:16:45.262786+00:00",
+  "price": 78039.6,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -69.1243,
-  "perp_cvd": -790.629,
-  "divergence": 721.5047,
+  "spot_cvd": -89.2071,
+  "perp_cvd": -1022.586,
+  "divergence": 933.3789,
   "poc": 78600.0,
   "vah": 78700.0,
-  "val": 78250.0,
-  "analysis": "Price has broken below the Value Area Low (78,300) driven predominantly by aggressive derivative shorting rather than spot distribution. The significant divergence between heavy negative perp CVD and relatively flat spot CVD indicates potential perp short overextension and squeeze risk if VAL is reclaimed.",
-  "key_risk": "Perp short exhaustion leading to a sharp mean-reversion squeeze if price reclaims 78,300."
+  "val": 78200.0,
+  "analysis": "Price testing liquidity below VAL at $78,039.60. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($78,600.00)."
 }
