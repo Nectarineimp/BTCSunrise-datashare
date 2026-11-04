@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T20:01:52.834078+00:00",
+  "price": 79962.7,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": -220.498,
+  "perp_cvd": -112.917,
+  "divergence": -107.581,
+  "poc": 80000.0,
+  "vah": 80200.0,
+  "val": 79950.0,
+  "analysis": "Aggressive spot selling is driving price acceptance below the Value Area Low at 79,950, confirming strong bearish conviction across venues. Net negative deltas in both spot and perp CVD validate a downward expansion regime led by physical spot flows.",
+  "key_risk": "Sell-side absorption at lower liquidity pools triggering a rapid mean-reversion reclaim of VAL at 79,950."
+}
