@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T11:31:43.334063+00:00",
+  "price": 78673.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 46.5614,
+  "perp_cvd": 190.229,
+  "divergence": -143.6676,
+  "poc": 78600.0,
+  "vah": 78650.0,
+  "val": 78500.0,
+  "analysis": "Price has accepted above VAH at 78,650, but the breakout is driven predominantly by aggressive perpetual swap positioning rather than spot accumulation. The significant negative CVD divergence leaves the move vulnerable to derivative exhaustion and a fast rotation back into the value area.",
+  "key_risk": "Absence of spot buying follow-through triggering derivative long liquidations back below VAH."
+}
