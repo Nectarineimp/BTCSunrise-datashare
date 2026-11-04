@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T20:26:55.685890+00:00",
+  "price": 80210.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -172.3673,
+  "perp_cvd": 141.793,
+  "divergence": -314.1603,
+  "poc": 80000.0,
+  "vah": 80200.0,
+  "val": 79950.0,
+  "analysis": "Price has pushed marginally above VAH driven primarily by derivative buying, but strongly negative spot CVD indicates spot market absorption and distribution. Without spot spot-led conviction, this leverage-driven expansion faces high exhaustion risk and potential rejection back into the value area.",
+  "key_risk": "Spot absorption of derivative buyers above VAH triggering long liquidation down toward the 80,000 POC."
+}
