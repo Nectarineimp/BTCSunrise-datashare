@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T16:01:46.963984+00:00",
+  "price": 80774.4,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 131.8213,
+  "perp_cvd": 1065.039,
+  "divergence": -933.2177,
+  "poc": 78850.0,
+  "vah": 80150.0,
+  "val": 78550.0,
+  "analysis": "Price has expanded above VAH at 80150, but momentum is heavily skewed toward perpetual swap leverage with minimal spot participation (+131.8 spot vs +1072.2 perp CVD). This structural reliance on derivatives leaves the breakout vulnerable to long liquidation cascades and mean reversion back into the value area.",
+  "key_risk": "Spot volume non-confirmation leading to aggressive perp unwinding below VAH (80150.0)."
+}
