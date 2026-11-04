@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T04:41:30.396025+00:00",
+  "price": 76886.94,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 18.0855,
+  "perp_cvd": 286.312,
+  "divergence": -268.2265,
+  "poc": 76550.0,
+  "vah": 76850.0,
+  "val": 76450.0,
+  "analysis": "Price is testing VAH acceptance driven almost exclusively by perpetual aggressive buying, while spot CVD remains stagnant. This massive spot-perp divergence indicates high risk of leverage exhaustion and a potential failed breakout back into the value area.",
+  "key_risk": "Lack of spot market follow-through triggering a perp long liquidation cascade below VAH."
+}
