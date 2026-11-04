@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-04T14:26:46.584693+00:00",
-  "price": 78381.0,
-  "regime": "Mean Reverting / Consolidation",
-  "spot_cvd": -125.0519,
-  "perp_cvd": -101.439,
-  "divergence": -23.6129,
+  "timestamp": "2026-11-04T14:31:46.595228+00:00",
+  "price": 78447.83,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": -116.4808,
+  "perp_cvd": -77.483,
+  "divergence": -38.9978,
   "poc": 78350.0,
-  "vah": 78450.0,
-  "val": 78300.0,
-  "analysis": "Price rotating inside Value Area near POC ($78,350.00). Spot CVD delta is negative (-125.05 BTC).",
-  "key_risk": "Range chop between VAL ($78,300.00) and VAH ($78,450.00)."
+  "vah": 78400.0,
+  "val": 78250.0,
+  "analysis": "Price is marginally holding above VAH at 78,400 despite negative spot and perp CVD over the last 60 minutes, indicating passive bid absorption. Without aggressive spot buying to support the expansion, the breakout lacks directional conviction.",
+  "key_risk": "Exhaustion of passive bids causing a rapid mean-reversion move back inside the Value Area toward the 78,350 POC."
 }
