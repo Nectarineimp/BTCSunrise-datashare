@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T15:31:46.889924+00:00",
+  "price": 80015.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 9.2525,
+  "perp_cvd": 1330.723,
+  "divergence": -1321.4705,
+  "poc": 78550.0,
+  "vah": 79050.0,
+  "val": 78250.0,
+  "analysis": "The breakout above VAH to $80,036.6 is almost entirely driven by aggressive perpetual futures buying with zero spot volume support. This heavy reliance on derivative leverage creates a fragile market structure vulnerable to long liquidations and mean-reversion back into the Value Area.",
+  "key_risk": "Lack of spot bid conviction risking a violent leverage unwinding back below VAH ($79,050.0)."
+}
