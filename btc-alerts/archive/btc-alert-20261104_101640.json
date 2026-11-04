@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T10:16:40.768642+00:00",
+  "price": 78505.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -5.4178,
+  "perp_cvd": -73.892,
+  "divergence": 68.4742,
+  "poc": 78400.0,
+  "vah": 78500.0,
+  "val": 78300.0,
+  "analysis": "Aggressive derivative selling is currently being absorbed at the Value Area High, creating setup potential for a short squeeze if price maintains above 78,500. Subdued spot volume relative to perp volume highlights low structural buying conviction at current highs.",
+  "key_risk": "Rejection back inside the Value Area below 78,500.0 leading to long liquidation cascade toward POC at 78,400.0"
+}
