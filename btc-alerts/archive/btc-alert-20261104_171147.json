@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T17:11:47.111452+00:00",
+  "price": 80400.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 239.7721,
+  "perp_cvd": -45.866,
+  "divergence": 285.6381,
+  "poc": 80600.0,
+  "vah": 80700.0,
+  "val": 80500.0,
+  "analysis": "Price trades below Value Area Low despite strong positive spot CVD delta, reflecting aggressive spot absorption against perp short positioning. A swift reclaim of 80,500 could trigger a perp short squeeze back toward POC at 80,600.",
+  "key_risk": "Failure to reclaim VAL at 80,500 leading to spot absorption exhaustion and downside acceleration."
+}
