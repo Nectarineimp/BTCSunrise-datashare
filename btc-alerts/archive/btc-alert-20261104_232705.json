@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T23:27:05.900735+00:00",
+  "price": 80552.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -16.1307,
+  "perp_cvd": 194.484,
+  "divergence": -210.6148,
+  "poc": 80700.0,
+  "vah": 80950.0,
+  "val": 80600.0,
+  "analysis": "Price has acceptance below the Value Area Low of 80,600 as spot market selling unloads into aggressive perpetual long absorption. This extreme spot-perp CVD divergence leaves derivative buyers heavily exposed to downside liquidation risk.",
+  "key_risk": "Cascade of leveraged perpetual long liquidations if spot selling continues to breach key support levels below VAL."
+}
