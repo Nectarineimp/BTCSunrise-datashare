@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-04T02:41:24.107580+00:00",
-  "price": 76648.0,
-  "regime": "Absorption at Resistance",
-  "spot_cvd": 99.8321,
-  "perp_cvd": -28.051,
-  "divergence": 127.8831,
+  "timestamp": "2026-11-04T02:46:24.112513+00:00",
+  "price": 76608.0,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 109.2206,
+  "perp_cvd": -178.76,
+  "divergence": 287.9806,
   "poc": 76700.0,
-  "vah": 77000.0,
-  "val": 76700.0,
-  "analysis": "Aggressive spot CVD accumulation (+99.5 BTC) is currently being absorbed by passive sell liquidity just below the Value Area Low (76,700). Despite muted perpetual futures delta, the underlying spot bid provides a structural divergence favoring a mean-reversion retest of the value area.",
-  "key_risk": "Failure to reclaim VAL (76,700) causing spot buy absorption to exhaust and triggering downside expansion."
+  "vah": 76950.0,
+  "val": 76600.0,
+  "analysis": "Price rotating inside Value Area near POC ($76,700.00). Spot CVD delta is positive (+109.22 BTC).",
+  "key_risk": "Range chop between VAL ($76,600.00) and VAH ($76,950.00)."
 }
