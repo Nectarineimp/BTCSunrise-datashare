@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T18:51:48.699793+00:00",
+  "price": 80409.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 126.7768,
+  "perp_cvd": -242.559,
+  "divergence": 369.3358,
+  "poc": 80600.0,
+  "vah": 80700.0,
+  "val": 80400.0,
+  "analysis": "Spot buyers are actively absorbing aggressive perpetual short positioning below the Value Area Low. This divergence creates immediate short-squeeze potential back toward the Point of Control if perp selling momentum stalls.",
+  "key_risk": "Failure of spot absorption to sustain, leading to perp aggressive selling driving a clean breakdown below 80,300."
+}
