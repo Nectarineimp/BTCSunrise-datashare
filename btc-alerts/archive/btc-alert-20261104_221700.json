@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T22:17:00.252910+00:00",
+  "price": 80537.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 19.8702,
+  "perp_cvd": 165.149,
+  "divergence": -145.2788,
+  "poc": 80150.0,
+  "vah": 80400.0,
+  "val": 80050.0,
+  "analysis": "Price has broken out above VAH at 80,300, but the move is overwhelmingly perpetual-driven with severe spot CVD lag. This structural divergence leaves the expansion highly vulnerable to an aggressive leverage unraveling back into the value area.",
+  "key_risk": "Lack of spot passive bid absorption causing a failed breakout and reversion below VAH (80,300)."
+}
