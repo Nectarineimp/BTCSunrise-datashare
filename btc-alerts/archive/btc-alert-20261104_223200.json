@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T22:32:00.285466+00:00",
+  "price": 80664.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 51.3394,
+  "perp_cvd": 543.431,
+  "divergence": -492.0916,
+  "poc": 80550.0,
+  "vah": 80700.0,
+  "val": 80200.0,
+  "analysis": "Price has pushed above VAH at 80650, but the move is disproportionately driven by perpetual futures leverage while spot CVD remains muted. Without aggressive spot buying confirmation, this expansion lacks structural backing and faces elevated risk of a mean-reverting liquidation flush.",
+  "key_risk": "Lack of spot market follow-through triggering a cascade of long liquidations back into the Value Area."
+}
