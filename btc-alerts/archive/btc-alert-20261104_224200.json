@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T22:42:00.323284+00:00",
+  "price": 80852.4,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 71.1749,
+  "perp_cvd": 595.943,
+  "divergence": -524.7681,
+  "poc": 80550.0,
+  "vah": 80850.0,
+  "val": 80400.0,
+  "analysis": "Perpetual futures delta is aggressively driving price to test VAH at 80,850 while spot CVD severely lags with minimal delta. Without organic spot absorption to validate acceptance above the value area, this leverage-heavy expansion faces acute exhaustion and liquidation risk.",
+  "key_risk": "Perp long liquidation Cascade triggered by lack of spot buying follow-through above VAH 80,850"
+}
