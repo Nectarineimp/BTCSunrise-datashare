@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-04T14:11:46.562751+00:00",
-  "price": 78251.9,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 10.4191,
-  "perp_cvd": -205.184,
-  "divergence": 215.6031,
+  "timestamp": "2026-11-04T14:16:46.574122+00:00",
+  "price": 78414.95,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 35.7908,
+  "perp_cvd": -147.456,
+  "divergence": 183.2468,
   "poc": 78350.0,
   "vah": 78400.0,
   "val": 78250.0,
-  "analysis": "Aggressive perpetual futures selling has pushed price marginally below the Value Area Low, but positive spot CVD indicates active spot absorption of leveraged liquidity. This substantial spot-perp divergence creates high probability for a perp short exhaustion and subsequent mean-reversion back toward POC.",
-  "key_risk": "Spot market volume capitulating to perp selling momentum below the 78,250 VAL support."
+  "analysis": "Spot CVD remains positive while derivative traders aggressively short into resistance, driving a strong positive spot-perp divergence at VAH. Sustained spot absorption above 78,400 risks triggering a leverage squeeze into higher liquidity.",
+  "key_risk": "Failure to maintain acceptance above VAH (78,400), causing mean-reversion back toward POC at 78,350."
 }
