@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T00:51:19.200167+00:00",
+  "price": 77049.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -9.4597,
+  "perp_cvd": -931.09,
+  "divergence": 921.6303,
+  "poc": 77400.0,
+  "vah": 77550.0,
+  "val": 77100.0,
+  "analysis": "Aggressive derivative shorting has pushed price below the Value Area Low at 77,100, while passive spot CVD remains near flat (-9.85 BTC). This pronounced perp-driven divergence without spot selling confirmation points to potential short-seller exhaustion and squeeze risk back toward the 77,400 POC.",
+  "key_risk": "Perpetual short continuation triggering secondary spot market selling, confirming value area rejection."
+}
