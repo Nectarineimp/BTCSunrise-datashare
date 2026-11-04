@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T14:01:46.270680+00:00",
+  "price": 78266.8,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": 83.5622,
+  "perp_cvd": 12.769,
+  "divergence": 70.7932,
+  "poc": 78350.0,
+  "vah": 78450.0,
+  "val": 78300.0,
+  "analysis": "Spot market buyers are attempting to absorb supply below the Value Area Low ($78,300), showing positive delta divergence relative to perps. A sustained reclaim above VAL is required to confirm spot-led recovery and prevent further downside expansion.",
+  "key_risk": "Limit order absorption at the Value Area Low ($78,300) keeping price suppressed despite positive CVD."
+}
