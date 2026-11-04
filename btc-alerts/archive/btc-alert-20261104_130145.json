@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T13:01:45.654064+00:00",
+  "price": 78428.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -80.0298,
+  "perp_cvd": -257.503,
+  "divergence": 177.4732,
+  "poc": 78250.0,
+  "vah": 78350.0,
+  "val": 78150.0,
+  "analysis": "Price has traded above VAH despite negative 60-minute net CVD across spot and perp venues, pointing to heavy passive buy absorption of market sellers. The derivative-dominated volume profile creates elevated exhaustion risk if passive limit bids pull back from these higher levels.",
+  "key_risk": "Re-entry below VAH (78,350) accelerating mean-reversion toward the POC (78,250) under persistent spot sell delta."
+}
