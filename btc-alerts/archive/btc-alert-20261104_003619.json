@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T00:36:19.149275+00:00",
+  "price": 76937.4,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -24.61,
+  "perp_cvd": -974.87,
+  "divergence": 950.26,
+  "poc": 77400.0,
+  "vah": 77550.0,
+  "val": 77100.0,
+  "analysis": "Aggressive perp-driven selling has forced price below the Value Area Low while spot CVD remains mostly flat, indicating leverage-heavy positioning rather than organic spot distribution. This structural divergence creates significant risk of a short-covering rally back into the Value Area if downside momentum stalls.",
+  "key_risk": "Perp short overextension driving a violent short squeeze back above 77,100 VAL."
+}
