@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T18:36:48.399491+00:00",
+  "price": 80496.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 122.7621,
+  "perp_cvd": -146.781,
+  "divergence": 269.5431,
+  "poc": 80600.0,
+  "vah": 80700.0,
+  "val": 80450.0,
+  "analysis": "Spot cumulative volume delta remains positive despite aggressive perpetual futures shorting pushing price marginally below the Value Area Low. This structural divergence indicates spot absorption at key support, favoring a potential short squeeze back toward the 80,600 Point of Control.",
+  "key_risk": "Failure of spot absorption leading to sustained acceptance below the 80,450 Value Area Low."
+}
