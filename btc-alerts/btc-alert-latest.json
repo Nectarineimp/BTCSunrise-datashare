@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-04T02:26:24.093813+00:00",
-  "price": 76702.7,
+  "timestamp": "2026-11-04T02:31:24.101795+00:00",
+  "price": 76701.5,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 69.8397,
-  "perp_cvd": -80.979,
-  "divergence": 150.8187,
-  "poc": 76900.0,
-  "vah": 77050.0,
-  "val": 76750.0,
-  "analysis": "Spot absorption is active below the Value Area Low as passive spot buyers absorb aggressive perp market selling. High derivative volume dominance combined with positive spot CVD divergence indicates potential downside exhaustion and short squeeze vulnerability.",
-  "key_risk": "Failure of spot CVD to maintain positive delta could lead to sustained acceptance below VAL ($76,750)."
+  "spot_cvd": 82.1129,
+  "perp_cvd": -48.344,
+  "divergence": 130.4569,
+  "poc": 76700.0,
+  "vah": 77000.0,
+  "val": 76700.0,
+  "analysis": "Spot buyers are currently absorbing aggressive perpetual short selling right at the Value Area Low of 76,700. This strong positive spot-perp CVD divergence sets up potential for a short-side leverage squeeze back into the value area.",
+  "key_risk": "Perpetual aggressive selling overwhelming spot absorption and confirming acceptance below 76,700 VAL."
 }
