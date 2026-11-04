@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T02:01:19.602539+00:00",
+  "price": 77053.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -27.2227,
+  "perp_cvd": -293.487,
+  "divergence": 266.2643,
+  "poc": 76900.0,
+  "vah": 77050.0,
+  "val": 76850.0,
+  "analysis": "Price is marginally holding above VAH despite aggressive perp market selling, indicating passive absorption of short flows at local highs. The absence of spot delta participation leaves the breakout vulnerable to a swift mean-reversion move back inside the value area.",
+  "key_risk": "Acceptance failure back below 77050 VAH triggering a mean-reversion sweep down to the 76900 POC."
+}
