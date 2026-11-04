@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-04T20:41:56.280077+00:00",
+  "price": 80221.42,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -174.2252,
+  "perp_cvd": 105.456,
+  "divergence": -279.6812,
+  "poc": 80000.0,
+  "vah": 80200.0,
+  "val": 79950.0,
+  "analysis": "Perpetual buyers are pushing price marginally above the Value Area High while spot CVD remains strongly negative, indicating aggressive spot absorption. This leverage-led expansion lacking spot conviction creates heightened risk of exhaustion and mean reversion toward the Point of Control.",
+  "key_risk": "Perp long liquidation cascade triggered by a failure to sustain price above the 80,200 VAH level under continued spot selling."
+}
