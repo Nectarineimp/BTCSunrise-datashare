@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-05T19:05:16.163139+00:00",
-  "price": 75975.0,
-  "regime": "Absorption at Resistance",
-  "spot_cvd": 58.9003,
-  "perp_cvd": -47.819,
-  "divergence": 106.7193,
+  "timestamp": "2026-11-05T19:10:16.173846+00:00",
+  "price": 76034.8,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 49.6004,
+  "perp_cvd": -124.519,
+  "divergence": 174.1194,
   "poc": 76150.0,
   "vah": 76200.0,
   "val": 76000.0,
-  "analysis": "Spot buyers are actively absorbing aggressive perpetual swap selling right at the 76,000 Value Area Low threshold. The strong positive spot-to-perp CVD divergence indicates passive accumulation that could trigger a quick mean-reversion back into the value area.",
-  "key_risk": "Failure of spot absorption allowing perp sell volume to establish value acceptance below 76,000."
+  "analysis": "Price rotating inside Value Area near POC ($76,150.00). Spot CVD delta is positive (+49.60 BTC).",
+  "key_risk": "Range chop between VAL ($76,000.00) and VAH ($76,200.00)."
 }
