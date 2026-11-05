@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-05T17:05:10.744681+00:00",
+  "price": 76226.4,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 10.2928,
+  "perp_cvd": 43.001,
+  "divergence": -32.7082,
+  "poc": 76800.0,
+  "vah": 77000.0,
+  "val": 76250.0,
+  "analysis": "Aggressive perpetual market buying is failing to push price higher, resulting in a breakdown below Value Area Low despite positive overall CVD. The sharp divergence between dominant perp volume and lagging spot participation highlights significant long absorption and liquidation risk.",
+  "key_risk": "Long liquidation cascade triggered by failure to reclaim VAL (76250) under heavy perp long skew."
+}
