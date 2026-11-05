@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-05T22:00:21.829601+00:00",
+  "price": 75821.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -150.1435,
+  "perp_cvd": -359.398,
+  "divergence": 209.2545,
+  "poc": 75900.0,
+  "vah": 76100.0,
+  "val": 75850.0,
+  "analysis": "Heavy perpetual swap selling is driving price marginally below the Value Area Low at 75,850, while spot net selling remains relatively subdued. The persistent divergence between aggressive derivative shorting and spot absorption elevates the risk of a leverage exhaustion short squeeze back toward the 75,900 POC.",
+  "key_risk": "Sustained acceptance below 75,850 VAL accelerating perp liquidation cascades versus spot absorption driving a mean-reversion squeeze."
+}
