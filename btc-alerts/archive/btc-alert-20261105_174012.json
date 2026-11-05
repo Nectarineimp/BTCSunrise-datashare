@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-05T17:40:12.620816+00:00",
+  "price": 75899.5,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 23.1495,
+  "perp_cvd": -155.461,
+  "divergence": 178.6105,
+  "poc": 76100.0,
+  "vah": 76200.0,
+  "val": 75900.0,
+  "analysis": "Aggressive derivative selling has pushed price marginally below VAL (75,900), contrasting with positive spot CVD delta indicating passive spot absorption. If spot buyers maintain absorption at these levels, over-extended perp shorts face immediate exhaustion and squeeze risk back into the Value Area.",
+  "key_risk": "Spot buyer fatigue failing to absorb derivative selling, leading to sustained acceptance below the 75,900 VAL."
+}
