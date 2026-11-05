@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-05T14:35:05.019605+00:00",
-  "price": 79462.01,
-  "regime": "Mean Reverting / Consolidation",
-  "spot_cvd": 24.8957,
-  "perp_cvd": -324.81,
-  "divergence": 349.7057,
+  "timestamp": "2026-11-05T14:40:05.033835+00:00",
+  "price": 79207.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 6.0824,
+  "perp_cvd": -473.032,
+  "divergence": 479.1144,
   "poc": 79350.0,
-  "vah": 79700.0,
+  "vah": 79750.0,
   "val": 79350.0,
-  "analysis": "Price rotating inside Value Area near POC ($79,350.00). Spot CVD delta is positive (+24.90 BTC).",
-  "key_risk": "Range chop between VAL ($79,350.00) and VAH ($79,700.00)."
+  "analysis": "Aggressive perp selling has pushed price below the Value Area Low at 79350, but positive spot CVD indicates passive spot absorption rather than spot-led distribution. If perp short sellers exhaust their liquidity without triggering spot panic, a sharp squeeze back toward the 79350 POC is highly probable.",
+  "key_risk": "Failure of spot passive absorption leading to an aggressive perp breakdown extension below key support."
 }
