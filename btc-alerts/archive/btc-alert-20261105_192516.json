@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-05T19:25:16.202921+00:00",
+  "price": 76015.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 47.4336,
+  "perp_cvd": 118.468,
+  "divergence": -71.0344,
+  "poc": 76000.0,
+  "vah": 76200.0,
+  "val": 76000.0,
+  "analysis": "Price has broken below the Value Area Low at 76,000 despite positive cumulative volume delta across both spot and perpetual venues. The move is heavily skewed by derivative flows with perpetual volume outstripping spot by over 6x, creating significant long absorption and liquidation risk if 76,000 is not reclaimed.",
+  "key_risk": "Trapped perpetual long position liquidation cascade below 75,900 due to weak spot volume support."
+}
