@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-05T00:57:09.505050+00:00",
+  "price": 80571.34,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -89.8348,
+  "perp_cvd": 196.293,
+  "divergence": -286.1278,
+  "poc": 80700.0,
+  "vah": 80800.0,
+  "val": 80600.0,
+  "analysis": "Price has broken below the Value Area Low at 80,600 driven by spot absorption of aggressive derivative buying. The strong negative CVD divergence indicates overleveraged perp longs at risk of a liquidation cascade if spot selling persists.",
+  "key_risk": "Perp long liquidation cascade below 80,500 amidst aggressive spot distribution"
+}
