@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-05T22:00:21.829601+00:00",
-  "price": 75821.8,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -150.1435,
-  "perp_cvd": -359.398,
-  "divergence": 209.2545,
+  "timestamp": "2026-11-05T22:05:21.891267+00:00",
+  "price": 75968.6,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": -130.9332,
+  "perp_cvd": -314.414,
+  "divergence": 183.4808,
   "poc": 75900.0,
-  "vah": 76100.0,
-  "val": 75850.0,
-  "analysis": "Heavy perpetual swap selling is driving price marginally below the Value Area Low at 75,850, while spot net selling remains relatively subdued. The persistent divergence between aggressive derivative shorting and spot absorption elevates the risk of a leverage exhaustion short squeeze back toward the 75,900 POC.",
-  "key_risk": "Sustained acceptance below 75,850 VAL accelerating perp liquidation cascades versus spot absorption driving a mean-reversion squeeze."
+  "vah": 76000.0,
+  "val": 75800.0,
+  "analysis": "Price trades marginally above VAH despite net negative spot and perp CVD, indicating passive absorption of aggressive sellers at resistance. Without aggressive spot market buy conviction, the current location risks a rotational breakdown back into the Value Area.",
+  "key_risk": "Exhaustion of passive absorption bids at 76,000 triggering a mean-reversion rotation toward POC at 75,900."
 }
