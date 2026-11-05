@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-05T19:35:19.460229+00:00",
-  "price": 76200.4,
+  "timestamp": "2026-11-05T19:40:19.476873+00:00",
+  "price": 76188.6,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 46.374,
-  "perp_cvd": 288.392,
-  "divergence": -242.018,
+  "spot_cvd": 46.8294,
+  "perp_cvd": 348.847,
+  "divergence": -302.0176,
   "poc": 76000.0,
   "vah": 76200.0,
   "val": 76000.0,
-  "analysis": "Price is probing above VAH at 76,200 driven predominantly by aggressive perpetual leverage while spot CVD remains muted. This severe spot-perp CVD divergence leaves the move vulnerable to a rapid long squeeze and mean-reversion back into the Value Area.",
-  "key_risk": "Failure to sustain acceptance above VAH (76,200) triggering aggressive long deleveraging down toward POC (76,000)."
+  "analysis": "Price is marginally attempting a breakout above VAH at 76,200, but the expansion is driven almost exclusively by perpetual leverage while spot CVD remains muted. Without spot market accumulation to support the higher prices, this derivative-led push faces substantial risk of exhaustion and mean-reversion back toward the 76,000 POC.",
+  "key_risk": "Spot CVD divergence and lack of spot volume follow-through triggering a leverage liquidation cascade back into the value area."
 }
