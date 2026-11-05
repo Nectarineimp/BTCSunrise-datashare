@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-05T22:45:23.582707+00:00",
-  "price": 75773.8,
+  "timestamp": "2026-11-05T22:50:23.588295+00:00",
+  "price": 75600.0,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 11.7257,
-  "perp_cvd": 39.235,
-  "divergence": -27.5093,
+  "spot_cvd": 6.7076,
+  "perp_cvd": -172.17,
+  "divergence": 178.8776,
   "poc": 75850.0,
-  "vah": 76000.0,
+  "vah": 76050.0,
   "val": 75750.0,
-  "analysis": "Perpetual futures traders are aggressively buying into weakness without spot CVD participation, failing to keep price inside the value area. This pronounced spot-perp divergence leaves aggressive perp longs vulnerable to a liquidation cascade below the 75,800 VAL.",
-  "key_risk": "Cascading perp long liquidations if price fails to rapidly reclaim the Value Area Low at 75,800."
+  "analysis": "Price testing liquidity below VAL at $75,600.00. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($75,850.00)."
 }
