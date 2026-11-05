@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-05T19:05:16.163139+00:00",
+  "price": 75975.0,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": 58.9003,
+  "perp_cvd": -47.819,
+  "divergence": 106.7193,
+  "poc": 76150.0,
+  "vah": 76200.0,
+  "val": 76000.0,
+  "analysis": "Spot buyers are actively absorbing aggressive perpetual swap selling right at the 76,000 Value Area Low threshold. The strong positive spot-to-perp CVD divergence indicates passive accumulation that could trigger a quick mean-reversion back into the value area.",
+  "key_risk": "Failure of spot absorption allowing perp sell volume to establish value acceptance below 76,000."
+}
