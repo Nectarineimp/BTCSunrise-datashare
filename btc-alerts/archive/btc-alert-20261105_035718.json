@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-05T03:57:18.135626+00:00",
+  "price": 80565.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -51.6611,
+  "perp_cvd": 469.255,
+  "divergence": -520.9161,
+  "poc": 80700.0,
+  "vah": 80800.0,
+  "val": 80600.0,
+  "analysis": "Price trading below the Value Area Low at 80,600 with strong positive perp CVD against negative spot CVD indicates aggressive trapped leverage. Without spot volume backing, the market faces heightened risk of a cascading long liquidation.",
+  "key_risk": "Cascading perpetual long liquidations below the Value Area Low due to persistent spot selling."
+}
