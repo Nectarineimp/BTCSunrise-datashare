@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-05T02:42:12.816203+00:00",
+  "price": 80627.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -34.4661,
+  "perp_cvd": -84.064,
+  "divergence": 49.5979,
+  "poc": 80800.0,
+  "vah": 80850.0,
+  "val": 80650.0,
+  "analysis": "Bitcoin has accepted price below the 60-minute Value Area Low at $80,650, driven predominantly by heavy perpetual swap selling rather than spot distribution. The pronounced divergence between aggressive perp delta and milder spot cumulative volume delta indicates potential downside exhaustion if spot liquidity absorbs the leveraged selling.",
+  "key_risk": "Aggressive perpetual short crowding below VAL triggering a swift mean-reversion squeeze back toward the Point of Control at $80,800."
+}
