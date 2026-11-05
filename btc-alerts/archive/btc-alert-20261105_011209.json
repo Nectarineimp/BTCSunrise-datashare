@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-05T01:12:09.752623+00:00",
+  "price": 80520.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -92.9875,
+  "perp_cvd": 146.047,
+  "divergence": -239.0345,
+  "poc": 80700.0,
+  "vah": 80800.0,
+  "val": 80550.0,
+  "analysis": "Bitcoin has broken below its Value Area Low at 80,550 as persistent spot aggressive selling overrides heavy perpetual swap buying. This severe spot-perp CVD divergence signals a high-risk long trap, favoring further downside unless spot absorption reclaims value.",
+  "key_risk": "Leveraged long liquidation cascade triggered by sustained acceptance below VAL (80,550)."
+}
