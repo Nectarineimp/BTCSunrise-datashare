@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-05T23:25:23.667927+00:00",
+  "price": 75340.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -132.3653,
+  "perp_cvd": -708.927,
+  "divergence": 576.5617,
+  "poc": 75700.0,
+  "vah": 75800.0,
+  "val": 75350.0,
+  "analysis": "Aggressive derivative selling has pushed price slightly below the Value Area Low at 75,350 while spot CVD remains relatively passive. This heavy futures-led delta creates a setup prone to perp short exhaustion and mean-reversion back toward the 75,700 POC.",
+  "key_risk": "Spot CVD failure to absorb perp selling, leading to a confirmed breakdown below VAL."
+}
