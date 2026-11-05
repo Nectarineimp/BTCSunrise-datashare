@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-05T21:55:21.813124+00:00",
+  "price": 75765.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -143.8809,
+  "perp_cvd": -349.316,
+  "divergence": 205.4351,
+  "poc": 75900.0,
+  "vah": 76100.0,
+  "val": 75850.0,
+  "analysis": "Price has broken below Value Area Low driven primarily by aggressive perpetual futures shorting rather than heavy spot distribution. With derivative delta significantly leading spot, the downside breakdown carries elevated risk of a short-squeeze if spot absorption holds.",
+  "key_risk": "Re-acceptance back above Value Area Low at 75,850 triggering a forced unwind of aggressive perp shorts."
+}
