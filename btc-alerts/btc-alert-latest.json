@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-05T13:35:03.478691+00:00",
-  "price": 79700.39,
-  "regime": "Absorption at Resistance",
-  "spot_cvd": -14.1218,
-  "perp_cvd": -1.458,
-  "divergence": -12.6638,
+  "timestamp": "2026-11-05T13:40:03.550627+00:00",
+  "price": 79680.0,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": -8.2206,
+  "perp_cvd": 56.757,
+  "divergence": -64.9776,
   "poc": 79650.0,
   "vah": 79700.0,
   "val": 79600.0,
-  "analysis": "Bitcoin is probing the Value Area High at 79,700 despite significant spot market selling of -14.12 BTC over the past hour. Without aggressive spot bid participation, this marginal VAH acceptance lacks conviction and risks a rapid reversion back to the POC.",
-  "key_risk": "Spot distribution forcing a failure at VAH and a swift mean-reversion drive toward POC (79,650)."
+  "analysis": "Price rotating inside Value Area near POC ($79,650.00). Spot CVD delta is negative (-8.22 BTC).",
+  "key_risk": "Range chop between VAL ($79,600.00) and VAH ($79,700.00)."
 }
