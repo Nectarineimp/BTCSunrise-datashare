@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-05T15:55:06.627953+00:00",
+  "price": 76520.19,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -145.5494,
+  "perp_cvd": -90.069,
+  "divergence": -55.4804,
+  "poc": 78800.0,
+  "vah": 79350.0,
+  "val": 77400.0,
+  "analysis": "Price has broken below the Value Area Low at 77,450 driven primarily by heavy derivative market selling. With perp volume dominating over spot by more than 8:1, the move risks short exhaustion if passive spot liquidity absorbs the push.",
+  "key_risk": "Acceptance back inside the Value Area above 77,450 triggering a short squeeze toward the 78,800 POC."
+}
