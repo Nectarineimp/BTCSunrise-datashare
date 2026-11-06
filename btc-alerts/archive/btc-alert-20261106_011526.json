@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-06T01:15:26.959860+00:00",
+  "price": 76234.5,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 10.5337,
+  "perp_cvd": -20.456,
+  "divergence": 30.9897,
+  "poc": 76300.0,
+  "vah": 76350.0,
+  "val": 76150.0,
+  "analysis": "Price is marginally probing above VAH supported by net positive spot delta, absorbing aggressive derivative shorting. Sustained spot buying is required to accept higher prices and prevent a swift reversion into the value area toward POC.",
+  "key_risk": "Rejection back below VAH (76,350) triggering perp short continuation toward POC (76,250)"
+}
