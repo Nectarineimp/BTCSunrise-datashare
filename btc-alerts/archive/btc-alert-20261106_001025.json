@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-06T00:10:25.435783+00:00",
+  "price": 76050.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -173.7354,
+  "perp_cvd": -897.252,
+  "divergence": 723.5166,
+  "poc": 75700.0,
+  "vah": 75850.0,
+  "val": 75350.0,
+  "analysis": "Price has pushed above VAH to 76,090 despite net negative spot and derivative CVD, signaling passive limit absorption or short-trap dynamics. Without spot aggressor volume confirmation, the breakout lacks structural backing and faces elevated mean-reversion risk.",
+  "key_risk": "Loss of VAH support at 75,850 triggering a sharp pull-back toward the 75,700 POC."
+}
