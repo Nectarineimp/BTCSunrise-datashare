@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-06T03:45:31.562843+00:00",
-  "price": 75926.57,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 16.8368,
-  "perp_cvd": -246.518,
-  "divergence": 263.3548,
-  "poc": 76200.0,
-  "vah": 76300.0,
-  "val": 75900.0,
-  "analysis": "Price trading below the Value Area Low ($75,900) is being driven by aggressive perpetual shorting rather than spot distribution. Mild spot CVD accumulation against heavy perp selling creates a pronounced bullish CVD divergence, leaving derivative shorts vulnerable to an exhaustion squeeze.",
-  "key_risk": "Acceptance below VAL ($75,900) leading to spot bid depletion and downside extension."
+  "timestamp": "2026-11-06T03:50:31.573979+00:00",
+  "price": 75938.0,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 7.9871,
+  "perp_cvd": -289.23,
+  "divergence": 297.2172,
+  "poc": 75850.0,
+  "vah": 76150.0,
+  "val": 75750.0,
+  "analysis": "Price rotating inside Value Area near POC ($75,850.00). Spot CVD delta is positive (+7.99 BTC).",
+  "key_risk": "Range chop between VAL ($75,750.00) and VAH ($76,150.00)."
 }
