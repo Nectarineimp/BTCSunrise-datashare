@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-06T01:10:26.960925+00:00",
+  "price": 76148.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 6.7108,
+  "perp_cvd": -167.482,
+  "divergence": 174.1928,
+  "poc": 76300.0,
+  "vah": 76350.0,
+  "val": 76150.0,
+  "analysis": "Aggressive perpetual shorting has pushed price slightly below the Value Area Low, but positive spot CVD indicates passive spot absorption at these lower levels. The heavy derivative volume relative to spot elevates the risk of a leverage squeeze if price reclaims VAL.",
+  "key_risk": "A quick reclamation of VAL at 76,150.0 triggering a cascade of perp short liquidations."
+}
