@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-06T03:45:31.562843+00:00",
+  "price": 75926.57,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 16.8368,
+  "perp_cvd": -246.518,
+  "divergence": 263.3548,
+  "poc": 76200.0,
+  "vah": 76300.0,
+  "val": 75900.0,
+  "analysis": "Price trading below the Value Area Low ($75,900) is being driven by aggressive perpetual shorting rather than spot distribution. Mild spot CVD accumulation against heavy perp selling creates a pronounced bullish CVD divergence, leaving derivative shorts vulnerable to an exhaustion squeeze.",
+  "key_risk": "Acceptance below VAL ($75,900) leading to spot bid depletion and downside extension."
+}
