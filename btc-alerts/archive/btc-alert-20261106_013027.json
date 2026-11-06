@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-06T01:30:27.219247+00:00",
+  "price": 76034.2,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -0.5299,
+  "perp_cvd": -94.79,
+  "divergence": 94.2601,
+  "poc": 76300.0,
+  "vah": 76400.0,
+  "val": 76100.0,
+  "analysis": "Price has broken below the Value Area Low driven almost entirely by aggressive perpetual swaps selling without spot confirmation. This extreme derivative flow divergence creates significant risk of short seller exhaustion and mean reversion back into value.",
+  "key_risk": "Spot passive absorption below VAL triggering a leverage-driven short squeeze."
+}
