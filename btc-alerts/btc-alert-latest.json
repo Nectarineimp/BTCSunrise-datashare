@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-06T05:00:33.303649+00:00",
-  "price": 75803.76,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -107.7448,
-  "perp_cvd": -68.538,
-  "divergence": -39.2068,
+  "timestamp": "2026-11-06T05:05:33.302365+00:00",
+  "price": 75641.28,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": -182.1502,
+  "perp_cvd": -52.811,
+  "divergence": -129.3392,
   "poc": 75700.0,
   "vah": 75800.0,
   "val": 75650.0,
-  "analysis": "Price testing liquidity above VAH at $75,803.76. Delta volume lacks high-conviction institutional participation.",
-  "key_risk": "Mean-reversion trap back toward Value Area POC ($75,700.00)."
+  "analysis": "Bitcoin has broken below the Value Area Low at 75,650, driven predominantly by aggressive spot selling delta outstripping derivative flows. The microstructure indicates spot-led downward expansion, maintaining a strong short-term bearish bias while price remains accepted below value.",
+  "key_risk": "Passive absorption of spot market sell orders near lower liquidity pockets, triggering a mean-reverting squeeze back above VAL (75,650)."
 }
