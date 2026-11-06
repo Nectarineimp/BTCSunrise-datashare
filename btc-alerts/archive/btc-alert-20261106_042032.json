@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-06T04:20:32.434838+00:00",
+  "price": 75709.69,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 40.7911,
+  "perp_cvd": -525.823,
+  "divergence": 566.6141,
+  "poc": 75850.0,
+  "vah": 75950.0,
+  "val": 75700.0,
+  "analysis": "Price has traded below the Value Area Low of 75,700 driven by aggressive perpetual market selling. However, positive spot CVD indicates passive spot absorption of derivative shorts, creating conditions for a potential short squeeze back toward the POC at 75,850.",
+  "key_risk": "Failure of spot CVD absorption to hold, triggering cascading liquidations below 75,600."
+}
