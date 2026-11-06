@@ -1,5 +1,5 @@
 <!-- BTC Alert Web Component -->
-<div class="btc-alert" data-timestamp="2026-11-06T05:10:33.367302+00:00">
+<div class="btc-alert" data-timestamp="2026-11-06T05:15:33.378245+00:00">
   <style>
     .btc-alert {
       --bg: #0d1117;
@@ -62,29 +62,29 @@
 
   <div class="btc-alert-header">
     <span>⚡ BTC ORDER FLOW BREAKOUT</span>
-    <span>75,600.60 USD</span>
+    <span>75,558.28 USD</span>
   </div>
 
   <div class="btc-alert-grid">
     <span class="btc-alert-label">Regime</span>
-    <span class="btc-alert-val">Mean Reverting / Consolidation</span>
+    <span class="btc-alert-val">Leverage Squeeze / Exhaustion Risk</span>
 
     <span class="btc-alert-label">Spot CVD (60m)</span>
-    <span class="btc-alert-val btc-neg">-201.73 BTC</span>
+    <span class="btc-alert-val btc-neg">-200.00 BTC</span>
 
     <span class="btc-alert-label">Perp CVD (60m)</span>
-    <span class="btc-alert-val btc-pos">+49.88 BTC</span>
+    <span class="btc-alert-val btc-neg">-13.16 BTC</span>
 
     <span class="btc-alert-label">Divergence</span>
-    <span class="btc-alert-val btc-neg">-251.61 BTC</span>
+    <span class="btc-alert-val btc-neg">-186.85 BTC</span>
 
     <span class="btc-alert-label">POC | VAH | VAL</span>
     <span class="btc-alert-val">75,600 | 75,800 | 75,600 USD</span>
   </div>
 
   <div class="btc-alert-body">
-    <strong>Analysis:</strong> Price rotating inside Value Area near POC ($75,600.00). Spot CVD delta is negative (-201.73 BTC).
+    <strong>Analysis:</strong> Price trading below Value Area Low accompanied by negative spot CVD indicates aggressive spot distribution. Persistent positive perp CVD against spot selling highlights a bearish divergence that exposes overleveraged long positions to liquidation risk.
   </div>
 
-  <div class="btc-alert-risk"><strong>Key Risk:</strong> Range chop between VAL ($75,600.00) and VAH ($75,800.00).</div>
+  <div class="btc-alert-risk"><strong>Key Risk:</strong> Cascading long liquidations in perpetual futures if price fails to reclaim VAL at 75,600.</div>
 </div>
