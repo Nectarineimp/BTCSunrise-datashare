@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-06T00:35:26.129195+00:00",
+  "price": 76213.8,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 26.753,
+  "perp_cvd": -67.177,
+  "divergence": 93.93,
+  "poc": 75900.0,
+  "vah": 76100.0,
+  "val": 75750.0,
+  "analysis": "Spot CVD accumulation is actively driving price acceptance above the Value Area High at 76,100 despite persistent perpetual swap net selling. This strong spot-led CVD divergence confirms organic demand, supporting upside momentum while price remains above VAH.",
+  "key_risk": "Loss of VAH (76,100) triggering a mean-reversion rotation down to the Point of Control at 75,900."
+}
