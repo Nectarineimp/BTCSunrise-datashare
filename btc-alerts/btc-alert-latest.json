@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-06T00:20:25.443518+00:00",
-  "price": 76014.6,
+  "timestamp": "2026-11-06T00:25:25.474823+00:00",
+  "price": 76039.4,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -119.797,
-  "perp_cvd": -758.099,
-  "divergence": 638.302,
+  "spot_cvd": -117.2496,
+  "perp_cvd": -736.751,
+  "divergence": 619.5014,
   "poc": 75400.0,
   "vah": 75850.0,
   "val": 75200.0,
-  "analysis": "Price testing liquidity above VAH at $76,014.60. Delta volume lacks high-conviction institutional participation.",
-  "key_risk": "Mean-reversion trap back toward Value Area POC ($75,400.00)."
+  "analysis": "Price has expanded above VAH despite negative CVD across both spot and perpetual venues, indicating aggressive short absorption and squeeze mechanics. Low spot participation relative to high derivative volume creates fragile market structure prone to sudden reversal if forced buying wanes.",
+  "key_risk": "Re-entry into the value area below VAH (75,850.0), triggering rapid mean-reversion toward POC (75,400.0) on spot CVD failure."
 }
