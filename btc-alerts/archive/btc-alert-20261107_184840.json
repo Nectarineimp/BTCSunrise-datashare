@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-07T18:48:40.348263+00:00",
+  "price": 75830.76,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 1.1174,
+  "perp_cvd": 22.755,
+  "divergence": -21.6376,
+  "poc": 75800.0,
+  "vah": 75900.0,
+  "val": 75800.0,
+  "analysis": "Price has fallen below the Value Area Low of 75,800 despite positive perpetual CVD, indicating aggressive leverage buying is being absorbed by sellers. With spot volume virtually non-existent at 5.6 BTC, the market lacks underlying spot support, leaving aggressive perp longs vulnerable to a cascading liquidity flush.",
+  "key_risk": "Leveraged long position positioning below VAL without spot volume backing."
+}
