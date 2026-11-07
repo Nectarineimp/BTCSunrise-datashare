@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-07T17:23:04.555568+00:00",
+  "price": 75791.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 0.0,
+  "perp_cvd": 67.427,
+  "divergence": -67.427,
+  "poc": 75750.0,
+  "vah": 75800.0,
+  "val": 75700.0,
+  "analysis": "Price has marginally breached VAH driven strictly by perpetual buying interest in the complete absence of spot volume. Without spot market accumulation to validate the push, the breakout lacks structural conviction and faces severe mean-reversion risk.",
+  "key_risk": "Absence of spot volume confirmation leaving leveraged long positions vulnerable to a sharp rejection back into the value area."
+}
