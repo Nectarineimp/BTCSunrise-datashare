@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-07T18:48:40.348263+00:00",
-  "price": 75830.76,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 1.1174,
-  "perp_cvd": 22.755,
-  "divergence": -21.6376,
+  "timestamp": "2026-11-07T18:53:40.445855+00:00",
+  "price": 75818.1,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 0.3398,
+  "perp_cvd": 28.762,
+  "divergence": -28.4222,
   "poc": 75800.0,
   "vah": 75900.0,
   "val": 75800.0,
-  "analysis": "Price has fallen below the Value Area Low of 75,800 despite positive perpetual CVD, indicating aggressive leverage buying is being absorbed by sellers. With spot volume virtually non-existent at 5.6 BTC, the market lacks underlying spot support, leaving aggressive perp longs vulnerable to a cascading liquidity flush.",
-  "key_risk": "Leveraged long position positioning below VAL without spot volume backing."
+  "analysis": "Price rotating inside Value Area near POC ($75,800.00). Spot CVD delta is positive (+0.34 BTC).",
+  "key_risk": "Range chop between VAL ($75,800.00) and VAH ($75,900.00)."
 }
