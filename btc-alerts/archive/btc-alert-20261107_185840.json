@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-07T18:58:40.657946+00:00",
+  "price": 75808.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -1.5238,
+  "perp_cvd": 36.088,
+  "divergence": -37.6118,
+  "poc": 75800.0,
+  "vah": 75900.0,
+  "val": 75800.0,
+  "analysis": "Aggressive perpetual buying into spot market selling has pushed price below the Value Area Low, creating a severe negative CVD divergence. This microstructure setup indicates leveraged longs are increasingly trapped, significantly elevating the risk of a downward liquidation cascade.",
+  "key_risk": "Cascading perpetual long liquidations triggered by failure to reclaim the Value Area Low at 75,800."
+}
