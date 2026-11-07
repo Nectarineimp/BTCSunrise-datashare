@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-07T22:43:56.810214+00:00",
-  "price": 75800.04,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 2.9785,
-  "perp_cvd": -18.071,
-  "divergence": 21.0495,
-  "poc": 75700.0,
+  "timestamp": "2026-11-07T22:48:59.669787+00:00",
+  "price": 75778.28,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 2.1751,
+  "perp_cvd": -22.07,
+  "divergence": 24.245,
+  "poc": 75750.0,
   "vah": 75800.0,
   "val": 75700.0,
-  "analysis": "Spot buyers are actively absorbing heavy derivative sell-side pressure, driving price marginally above the Value Area High at $75,800. Continued spot aggressiveness is required to sustain the breakout and trigger a short squeeze on defensive perp positioning.",
-  "key_risk": "Failure of spot buyers to hold above VAH ($75,800), risking a sharp mean-reversion back to the POC ($75,700)."
+  "analysis": "Price rotating inside Value Area near POC ($75,750.00). Spot CVD delta is positive (+2.18 BTC).",
+  "key_risk": "Range chop between VAL ($75,700.00) and VAH ($75,800.00)."
 }
