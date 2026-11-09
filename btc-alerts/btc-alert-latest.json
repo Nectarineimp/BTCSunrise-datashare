@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-09T15:13:26.651189+00:00",
-  "price": 74919.9,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 17.0161,
-  "perp_cvd": 163.833,
-  "divergence": -146.8169,
+  "timestamp": "2026-11-09T15:18:26.680015+00:00",
+  "price": 74990.1,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 8.8146,
+  "perp_cvd": 122.012,
+  "divergence": -113.1974,
   "poc": 74950.0,
-  "vah": 75050.0,
-  "val": 74900.0,
-  "analysis": "Perpetual traders are aggressively opening long positions into a price breakdown below the Value Area Low while spot buying remains virtually non-existent. This heavy derivative-led absorption creates a fragile market structure vulnerable to a sharp long liquidation flush.",
-  "key_risk": "Cascading long liquidations triggered by perpetual positioning failure below Value Area Low (74,900.0)."
+  "vah": 75000.0,
+  "val": 74800.0,
+  "analysis": "Price rotating inside Value Area near POC ($74,950.00). Spot CVD delta is positive (+8.81 BTC).",
+  "key_risk": "Range chop between VAL ($74,800.00) and VAH ($75,000.00)."
 }
