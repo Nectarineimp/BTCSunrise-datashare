@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-09T20:28:31.882553+00:00",
+  "price": 74806.36,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 45.9308,
+  "perp_cvd": 65.84,
+  "divergence": -19.9092,
+  "poc": 74850.0,
+  "vah": 75050.0,
+  "val": 74800.0,
+  "analysis": "Aggressive perp buying is being heavily absorbed below the Value Area Low of 74,800 without sufficient spot volume follow-through. This order flow imbalance signals elevated risk of long exhaustion and potential downside continuation if passive spot support remains absent.",
+  "key_risk": "Failure of aggressive perp buyers to reclaim VAL at 74,800 triggering a long liquidation cascade."
+}
