@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-09T20:13:31.823032+00:00",
-  "price": 74930.0,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 105.7055,
-  "perp_cvd": 72.452,
-  "divergence": 33.2535,
+  "timestamp": "2026-11-09T20:18:31.841536+00:00",
+  "price": 74942.12,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 73.6847,
+  "perp_cvd": 84.74,
+  "divergence": -11.0553,
   "poc": 74850.0,
-  "vah": 74950.0,
-  "val": 74600.0,
-  "analysis": "Spot-led buying delta is currently supporting price acceptance just above the Value Area High at 74,950. Sustained spot accumulation is required to prevent a mean-reverting rejection back into the value area toward the 74,850 POC.",
-  "key_risk": "Failed auction acceptance above VAH leading to a rapid rotation back toward POC at 74,850."
+  "vah": 75100.0,
+  "val": 74750.0,
+  "analysis": "Price rotating inside Value Area near POC ($74,850.00). Spot CVD delta is positive (+73.68 BTC).",
+  "key_risk": "Range chop between VAL ($74,750.00) and VAH ($75,100.00)."
 }
