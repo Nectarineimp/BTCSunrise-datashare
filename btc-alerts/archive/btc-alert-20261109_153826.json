@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-09T15:38:26.738930+00:00",
+  "price": 75339.4,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 224.6534,
+  "perp_cvd": 308.9,
+  "divergence": -84.2466,
+  "poc": 75100.0,
+  "vah": 75250.0,
+  "val": 74950.0,
+  "analysis": "Price has expanded above VAH at 75,250 driven predominantly by perpetual leverage rather than strong spot aggression. Without spot buying confirmation to absorb overhead supply, the move risks liquidation-driven exhaustion and mean-reversion.",
+  "key_risk": "Lack of spot volume support above VAH triggering a sharp derivative-led pull-back inside the value area towards POC at 75,100."
+}
