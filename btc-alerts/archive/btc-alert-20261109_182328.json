@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-09T18:23:28.667178+00:00",
+  "price": 74488.83,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 23.7465,
+  "perp_cvd": -135.91,
+  "divergence": 159.6565,
+  "poc": 74750.0,
+  "vah": 74850.0,
+  "val": 74600.0,
+  "analysis": "Spot buyers are currently absorbing heavy perpetual short aggression below the Value Area Low of 74,650 USD. Continued divergence between positive spot CVD and negative perp CVD elevates short squeeze probability back toward the POC at 74,750 USD.",
+  "key_risk": "Breakdown of spot absorption allowing perp short momentum to drive price acceptance deeper below VAL."
+}
