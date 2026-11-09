@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-09T18:08:28.100993+00:00",
+  "price": 74880.39,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": 24.0618,
+  "perp_cvd": -167.833,
+  "divergence": 191.8948,
+  "poc": 74750.0,
+  "vah": 74900.0,
+  "val": 74700.0,
+  "analysis": "Price is testing VAH at 74,850 backed by positive spot CVD despite aggressive derivative shorting. Spot absorption of heavy perpetual selling creates structural support for a short-covering squeeze higher.",
+  "key_risk": "Spot buying exhaustion allowing perpetual shorts to reject price back into the value area toward POC at 74,750."
+}
