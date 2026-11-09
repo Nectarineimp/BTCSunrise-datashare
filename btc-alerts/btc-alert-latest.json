@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-09T17:48:27.859237+00:00",
-  "price": 74721.5,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 17.3933,
-  "perp_cvd": -365.752,
-  "divergence": 383.1453,
+  "timestamp": "2026-11-09T17:53:27.868992+00:00",
+  "price": 74783.0,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 24.0227,
+  "perp_cvd": -351.97,
+  "divergence": 375.9927,
   "poc": 74750.0,
-  "vah": 75000.0,
-  "val": 74700.0,
-  "analysis": "Aggressive perpetual selling is pushing price slightly below Value Area Low, but positive spot CVD indicates passive absorption of derivative volume. This creates a potential leverage squeeze risk if short sellers fail to drive acceptance below the 74,700 VAL boundary.",
-  "key_risk": "Failure of spot CVD absorption leading to sustained acceptance below 74,700 VAL."
+  "vah": 74950.0,
+  "val": 74650.0,
+  "analysis": "Price rotating inside Value Area near POC ($74,750.00). Spot CVD delta is positive (+24.02 BTC).",
+  "key_risk": "Range chop between VAL ($74,650.00) and VAH ($74,950.00)."
 }
