@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-09T19:13:30.011134+00:00",
-  "price": 74606.8,
-  "regime": "Mean Reverting / Consolidation",
-  "spot_cvd": 8.3621,
-  "perp_cvd": -341.842,
-  "divergence": 350.2041,
+  "timestamp": "2026-11-09T19:18:30.015580+00:00",
+  "price": 74687.72,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 56.4066,
+  "perp_cvd": -287.126,
+  "divergence": 343.5326,
   "poc": 74600.0,
   "vah": 74700.0,
-  "val": 74450.0,
-  "analysis": "Price rotating inside Value Area near POC ($74,600.00). Spot CVD delta is positive (+8.36 BTC).",
-  "key_risk": "Range chop between VAL ($74,450.00) and VAH ($74,700.00)."
+  "val": 74500.0,
+  "analysis": "Spot net buying is absorbing aggressive perpetual short flow as price breaks marginally above the Value Area High at 74,700. Sustained acceptance above VAH increases the likelihood of a perpetual short squeeze given the sharp negative perp CVD divergence.",
+  "key_risk": "Failure to hold acceptance above 74,700 VAH leading to a sharp mean-reversion rotation back into the value area toward POC at 74,600."
 }
