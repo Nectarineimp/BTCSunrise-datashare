@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-09T15:08:26.652080+00:00",
-  "price": 74622.0,
-  "regime": "Consolidation",
-  "spot_cvd": 0.0,
-  "perp_cvd": -0.001,
-  "divergence": 0.001,
-  "poc": 74600.0,
-  "vah": 74650.0,
-  "val": 74600.0,
-  "analysis": "",
-  "key_risk": ""
+  "timestamp": "2026-11-09T15:13:26.651189+00:00",
+  "price": 74919.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 17.0161,
+  "perp_cvd": 163.833,
+  "divergence": -146.8169,
+  "poc": 74950.0,
+  "vah": 75050.0,
+  "val": 74900.0,
+  "analysis": "Perpetual traders are aggressively opening long positions into a price breakdown below the Value Area Low while spot buying remains virtually non-existent. This heavy derivative-led absorption creates a fragile market structure vulnerable to a sharp long liquidation flush.",
+  "key_risk": "Cascading long liquidations triggered by perpetual positioning failure below Value Area Low (74,900.0)."
 }
