@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-09T18:08:28.100993+00:00",
-  "price": 74880.39,
-  "regime": "Absorption at Resistance",
-  "spot_cvd": 24.0618,
-  "perp_cvd": -167.833,
-  "divergence": 191.8948,
+  "timestamp": "2026-11-09T18:13:28.616433+00:00",
+  "price": 74768.8,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 25.3306,
+  "perp_cvd": -150.108,
+  "divergence": 175.4386,
   "poc": 74750.0,
-  "vah": 74900.0,
-  "val": 74700.0,
-  "analysis": "Price is testing VAH at 74,850 backed by positive spot CVD despite aggressive derivative shorting. Spot absorption of heavy perpetual selling creates structural support for a short-covering squeeze higher.",
-  "key_risk": "Spot buying exhaustion allowing perpetual shorts to reject price back into the value area toward POC at 74,750."
+  "vah": 74850.0,
+  "val": 74650.0,
+  "analysis": "Price rotating inside Value Area near POC ($74,750.00). Spot CVD delta is positive (+25.33 BTC).",
+  "key_risk": "Range chop between VAL ($74,650.00) and VAH ($74,850.00)."
 }
