@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T21:29:19.143193+00:00",
+  "price": 73942.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 91.8996,
+  "perp_cvd": 149.03,
+  "divergence": -57.1304,
+  "poc": 73750.0,
+  "vah": 73950.0,
+  "val": 73700.0,
+  "analysis": "Price has accepted above the Value Area High, but the breakout is heavily leverage-driven with perpetual CVD outpacing spot delta. Without stronger spot absorption and volume follow-through, this move exhibits high exhaustion risk and vulnerability to a long squeeze back into the value area.",
+  "key_risk": "Perp-led expansion above VAH unsupported by spot volume, leaving market vulnerable to a leverage liquidation cascade."
+}
