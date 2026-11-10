@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T00:43:01.710653+00:00",
+  "price": 75066.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 114.1607,
+  "perp_cvd": 1.683,
+  "divergence": 112.4777,
+  "poc": 75300.0,
+  "vah": 75400.0,
+  "val": 75100.0,
+  "analysis": "Price has traded below the Value Area Low at 75,100 despite substantial spot accumulation (+115 BTC delta), highlighting aggressive spot absorption of derivative sell pressure. This stark spot-perp CVD divergence indicates potential downside perp exhaustion and a mean-reversion setup back toward the POC.",
+  "key_risk": "Failure of spot absorption to sustain price, leading to an acceptance below 75,000 and cascading leverage liquidations."
+}
