@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T09:58:42.120290+00:00",
+  "price": 74528.55,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": 7.5115,
+  "perp_cvd": -69.453,
+  "divergence": 76.9645,
+  "poc": 74350.0,
+  "vah": 74500.0,
+  "val": 74250.0,
+  "analysis": "Spot buyers are passively absorbing heavy aggressive perp selling, allowing price to marginally push above the 74,500 VAH. However, weak total spot volume relative to derivative flows creates structural vulnerability for a breakout failure.",
+  "key_risk": "Lack of spot volume follow-through causing rejection back inside the Value Area toward POC (74,350)."
+}
