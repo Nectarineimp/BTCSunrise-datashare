@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T11:43:54.354548+00:00",
+  "price": 74332.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 154.8978,
+  "perp_cvd": 173.374,
+  "divergence": -18.4762,
+  "poc": 74200.0,
+  "vah": 74350.0,
+  "val": 74150.0,
+  "analysis": "Bitcoin is testing VAH at $74,350 with positive cumulative volume delta across spot and perp, though aggressive flows are predominantly leverage-driven. Fractional acceptance above VAH lacks heavy spot volume confirmation, exposing the breakout to potential exhaustion if perp delta fades.",
+  "key_risk": "Lack of spot volume follow-through above VAH ($74,350) risking a mean-reverting rotation back toward the POC ($74,200)."
+}
