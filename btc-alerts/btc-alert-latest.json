@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-10T02:58:15.237196+00:00",
-  "price": 74848.29,
-  "regime": "Mean Reverting / Consolidation",
-  "spot_cvd": 20.1515,
-  "perp_cvd": 105.154,
-  "divergence": -85.0025,
+  "timestamp": "2026-11-10T03:03:15.240499+00:00",
+  "price": 74814.61,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 19.6527,
+  "perp_cvd": 85.982,
+  "divergence": -66.3293,
   "poc": 74800.0,
   "vah": 74950.0,
   "val": 74800.0,
-  "analysis": "Price rotating inside Value Area near POC ($74,800.00). Spot CVD delta is positive (+20.15 BTC).",
-  "key_risk": "Range chop between VAL ($74,800.00) and VAH ($74,950.00)."
+  "analysis": "Perpetual aggressive buying is heavily outpacing spot demand while price trades below the Value Area Low, indicating leverage-driven positioning into passive spot absorption. Without spot buyers stepping in to reclaim 74,800, the market remains highly vulnerable to a long liquidation cascade.",
+  "key_risk": "Perpetual long liquidation cascade triggered by failure to reclaim VAL at 74,800."
 }

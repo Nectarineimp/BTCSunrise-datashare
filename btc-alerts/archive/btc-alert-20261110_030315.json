@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T03:03:15.240499+00:00",
+  "price": 74814.61,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 19.6527,
+  "perp_cvd": 85.982,
+  "divergence": -66.3293,
+  "poc": 74800.0,
+  "vah": 74950.0,
+  "val": 74800.0,
+  "analysis": "Perpetual aggressive buying is heavily outpacing spot demand while price trades below the Value Area Low, indicating leverage-driven positioning into passive spot absorption. Without spot buyers stepping in to reclaim 74,800, the market remains highly vulnerable to a long liquidation cascade.",
+  "key_risk": "Perpetual long liquidation cascade triggered by failure to reclaim VAL at 74,800."
+}
