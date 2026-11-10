@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-10T21:04:21.013567+00:00",
-  "price": 73892.26,
+  "timestamp": "2026-11-10T21:09:17.046947+00:00",
+  "price": 73952.3,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 120.8236,
-  "perp_cvd": 193.426,
-  "divergence": -72.6024,
+  "spot_cvd": 116.6117,
+  "perp_cvd": 291.896,
+  "divergence": -175.2843,
   "poc": 73750.0,
   "vah": 73850.0,
-  "val": 73600.0,
-  "analysis": "Price has broken out above the Value Area High at 73,850, supported primarily by aggressive perpetual swap volume rather than spot accumulation. Without spot CVD confirmation to absorb overhead liquidity, the expansion remains vulnerable to a sharp leverage-driven mean reversion.",
-  "key_risk": "Failure of spot CVD to back the breakout, exposing positions to a liquidation cascade below the 73,850 VAH level."
+  "val": 73550.0,
+  "analysis": "Price testing liquidity above VAH at $73,952.30. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($73,750.00)."
 }
