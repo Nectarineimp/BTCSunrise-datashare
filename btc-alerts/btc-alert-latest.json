@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-10T00:53:01.929028+00:00",
-  "price": 75000.0,
+  "timestamp": "2026-11-10T00:58:08.286672+00:00",
+  "price": 74949.3,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 50.9972,
-  "perp_cvd": -83.394,
-  "divergence": 134.3912,
-  "poc": 75300.0,
-  "vah": 75450.0,
-  "val": 75050.0,
-  "analysis": "Price testing liquidity below VAL at $75,000.00. Delta volume lacks high-conviction institutional participation.",
-  "key_risk": "Mean-reversion trap back toward Value Area POC ($75,300.00)."
+  "spot_cvd": 35.4139,
+  "perp_cvd": -73.379,
+  "divergence": 108.7929,
+  "poc": 75000.0,
+  "vah": 75350.0,
+  "val": 74950.0,
+  "analysis": "Spot CVD accumulation (+35.4 BTC) contrasting aggressive perpetual selling (-73.4 BTC) indicates passive spot absorption directly below the 74,950 Value Area Low. A reclaim of the 75,000 POC would likely trigger derivative short covering back toward the 75,350 VAH.",
+  "key_risk": "Perp short aggression overwhelming passive spot bid absorption below the 74,950 VAL."
 }
