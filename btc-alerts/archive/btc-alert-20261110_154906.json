@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T15:49:06.179308+00:00",
+  "price": 73222.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 7.3324,
+  "perp_cvd": 545.858,
+  "divergence": -538.5256,
+  "poc": 74600.0,
+  "vah": 74850.0,
+  "val": 74400.0,
+  "analysis": "Spot CVD is stagnant despite aggressive perpetual futures buying, creating a severe negative CVD divergence below the Value Area. The lack of spot volume leaves over-leveraged perp long positions vulnerable to a downside liquidation cascade.",
+  "key_risk": "Long liquidation cascade due to extreme perpetual market leverage lacking spot bid support below VAL."
+}
