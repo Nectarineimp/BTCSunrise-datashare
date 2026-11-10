@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T00:28:01.521469+00:00",
+  "price": 75150.0,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 125.9393,
+  "perp_cvd": 53.902,
+  "divergence": 72.0373,
+  "poc": 75300.0,
+  "vah": 75400.0,
+  "val": 75200.0,
+  "analysis": "Bitcoin trades below the Value Area Low of 75,200 despite positive Spot CVD outpacing Perps, signaling spot absorption of market sell flow outside value. A mean-reversion rotation toward the 75,300 Point of Control is favored if spot buying persists.",
+  "key_risk": "Continued price acceptance below VAL (75,200) coupled with spot CVD exhaustion leading to downside liquidation flow."
+}
