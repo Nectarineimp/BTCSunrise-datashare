@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-10T00:08:00.564998+00:00",
-  "price": 75411.82,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 197.8473,
-  "perp_cvd": 190.207,
-  "divergence": 7.6403,
-  "poc": 75250.0,
-  "vah": 75350.0,
-  "val": 75150.0,
-  "analysis": "Bitcoin is executing a spot-driven breakout above the Value Area High, backed by strong spot CVD delta outpacing perpetual volume. Sustained acceptance above $75,350 confirms bullish order flow conviction and lowers immediate mean-reversion probability.",
-  "key_risk": "Failed auction and re-entry back into the Value Area below $75,350, triggering a rotation toward the POC at $75,250."
+  "timestamp": "2026-11-10T00:13:00.824629+00:00",
+  "price": 75268.1,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 185.2623,
+  "perp_cvd": 220.885,
+  "divergence": -35.6227,
+  "poc": 75300.0,
+  "vah": 75400.0,
+  "val": 75200.0,
+  "analysis": "Price rotating inside Value Area near POC ($75,300.00). Spot CVD delta is positive (+185.26 BTC).",
+  "key_risk": "Range chop between VAL ($75,200.00) and VAH ($75,400.00)."
 }
