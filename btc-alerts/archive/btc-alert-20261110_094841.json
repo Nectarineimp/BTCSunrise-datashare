@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T09:48:41.450937+00:00",
+  "price": 74435.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -5.1472,
+  "perp_cvd": -25.803,
+  "divergence": 20.6558,
+  "poc": 74350.0,
+  "vah": 74450.0,
+  "val": 74200.0,
+  "analysis": "Price has accepted above VAH despite strong negative perp CVD, pointing to passive buyer absorption of aggressive short flow. Without spot accumulation joining the move, the market faces short-squeeze upside momentum paired with heightened mean-reversion risk if VAH fails.",
+  "key_risk": "Loss of VAH acceptance at 74,450 resulting in a rapid mean-reversion move toward the POC at 74,350."
+}
