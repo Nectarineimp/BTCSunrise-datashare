@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-10T19:29:14.532515+00:00",
-  "price": 73391.65,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 77.1761,
-  "perp_cvd": -27.687,
-  "divergence": 104.8631,
+  "timestamp": "2026-11-10T19:34:14.574943+00:00",
+  "price": 73447.2,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 89.0864,
+  "perp_cvd": -4.284,
+  "divergence": 93.3704,
   "poc": 73400.0,
-  "vah": 73550.0,
+  "vah": 73500.0,
   "val": 73350.0,
-  "analysis": "Spot bid flow is absorbing aggressive derivative shorting below the Value Area Low of $73,350. This persistent spot-perp CVD divergence creates prime conditions for a short squeeze back inside the value area towards the POC.",
-  "key_risk": "Continued perp selling pressure overwhelming spot absorption and confirming a breakdown below VAL."
+  "analysis": "Bitcoin is attempting a breakout above the Value Area High supported by steady spot accumulation despite persistent perp selling. Market bias remains bullish as long as spot buyers absorb perpetual short liquidity above 73,500.",
+  "key_risk": "Rejection back inside the Value Area below 73,500 triggering a mean-reverting move toward POC at 73,400."
 }
