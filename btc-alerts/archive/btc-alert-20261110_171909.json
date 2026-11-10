@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T17:19:09.375111+00:00",
+  "price": 72962.91,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 34.3242,
+  "perp_cvd": -361.872,
+  "divergence": 396.1962,
+  "poc": 73200.0,
+  "vah": 73350.0,
+  "val": 73050.0,
+  "analysis": "Aggressive perp selling has driven price below the Value Area Low at 73,050, but positive spot CVD indicates underlying spot absorption at these lower levels. This pronounced CVD divergence creates heightened potential for a short-covering leverage squeeze if price reclaims VAL.",
+  "key_risk": "Failure of spot absorption to sustain price above local support, triggering cascading perp liquidations on further downside."
+}
