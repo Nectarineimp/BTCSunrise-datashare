@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T01:13:08.627045+00:00",
+  "price": 75210.0,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 35.4573,
+  "perp_cvd": -206.385,
+  "divergence": 241.8422,
+  "poc": 75000.0,
+  "vah": 75200.0,
+  "val": 75000.0,
+  "analysis": "Positive spot CVD is absorbing aggressive derivative shorting as price marginally pushes past the 75,200 Value Area High. Continued spot accumulation provides a constructive bias for expansion, though thin acceptance above VAH leaves the breakout vulnerable to rapid mean reversion.",
+  "key_risk": "Rejection back inside the Value Area leading to derivative-driven liquidation down to the 75,000 POC."
+}
