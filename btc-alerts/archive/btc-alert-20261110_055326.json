@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T05:53:26.391731+00:00",
+  "price": 74899.4,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 26.5676,
+  "perp_cvd": -9.44,
+  "divergence": 36.0076,
+  "poc": 74750.0,
+  "vah": 74900.0,
+  "val": 74750.0,
+  "analysis": "Spot CVD aggression (+27.59 BTC) is driving price acceptance above the Value Area High (74,900) despite passive perp net selling. The resulting positive CVD divergence signals a healthy spot-led breakout attempt with minimal leverage-driven distortion.",
+  "key_risk": "Failure to hold acceptance above VAH (74,900) triggering a mean-reverting rotation back toward POC (74,750)."
+}
