@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T12:44:04.225301+00:00",
+  "price": 74210.26,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 5.3869,
+  "perp_cvd": 102.219,
+  "divergence": -96.8321,
+  "poc": 74350.0,
+  "vah": 74400.0,
+  "val": 74200.0,
+  "analysis": "Aggressive perpetual buying is completely unbacked by spot demand while price trades below the Value Area Low. This severe CVD divergence indicates high structural vulnerability to a leverage long liquidation cascade unless spot bid materializes to reclaim 74,200.",
+  "key_risk": "Long liquidation cascade driven by unbacked derivative accumulation below VAL."
+}
