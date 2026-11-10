@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-10T13:19:04.351267+00:00",
-  "price": 74222.0,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -9.0123,
-  "perp_cvd": 21.832,
-  "divergence": -30.8443,
-  "poc": 74200.0,
-  "vah": 74400.0,
-  "val": 74200.0,
-  "analysis": "Price trading below VAL coupled with negative spot CVD (-12.35) highlights aggressive spot distribution despite perpetual traders attempting to long (+16.72 CVD). This severe spot-perp divergence exposes leveraged derivatives positions to downside liquidation risk if spot selling persists.",
-  "key_risk": "Cascading long liquidations triggered by perp over-leverage failing to reclaim the 74,200 VAL."
+  "timestamp": "2026-11-10T13:24:04.365070+00:00",
+  "price": 74294.8,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": -9.3524,
+  "perp_cvd": 2.133,
+  "divergence": -11.4854,
+  "poc": 74300.0,
+  "vah": 74350.0,
+  "val": 74150.0,
+  "analysis": "Price rotating inside Value Area near POC ($74,300.00). Spot CVD delta is negative (-9.35 BTC).",
+  "key_risk": "Range chop between VAL ($74,150.00) and VAH ($74,350.00)."
 }
