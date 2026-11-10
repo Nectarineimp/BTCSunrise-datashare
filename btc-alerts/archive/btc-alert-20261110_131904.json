@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T13:19:04.351267+00:00",
+  "price": 74222.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -9.0123,
+  "perp_cvd": 21.832,
+  "divergence": -30.8443,
+  "poc": 74200.0,
+  "vah": 74400.0,
+  "val": 74200.0,
+  "analysis": "Price trading below VAL coupled with negative spot CVD (-12.35) highlights aggressive spot distribution despite perpetual traders attempting to long (+16.72 CVD). This severe spot-perp divergence exposes leveraged derivatives positions to downside liquidation risk if spot selling persists.",
+  "key_risk": "Cascading long liquidations triggered by perp over-leverage failing to reclaim the 74,200 VAL."
+}
