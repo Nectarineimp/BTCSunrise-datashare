@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-10T00:58:08.286672+00:00",
-  "price": 74949.3,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 35.4139,
-  "perp_cvd": -73.379,
-  "divergence": 108.7929,
+  "timestamp": "2026-11-10T01:03:08.542374+00:00",
+  "price": 75253.16,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 130.7443,
+  "perp_cvd": -61.902,
+  "divergence": 192.6463,
   "poc": 75000.0,
-  "vah": 75350.0,
+  "vah": 75250.0,
   "val": 74950.0,
-  "analysis": "Spot CVD accumulation (+35.4 BTC) contrasting aggressive perpetual selling (-73.4 BTC) indicates passive spot absorption directly below the 74,950 Value Area Low. A reclaim of the 75,000 POC would likely trigger derivative short covering back toward the 75,350 VAH.",
-  "key_risk": "Perp short aggression overwhelming passive spot bid absorption below the 74,950 VAL."
+  "analysis": "Positive spot CVD is driving price marginally above the Value Area High while perpetual markets absorb liquidity via aggressive selling. Sustained spot delta is required to confirm value acceptance above 75,250 and prevent a mean-reverting rejection back to POC.",
+  "key_risk": "Breakout failure at VAH (75,250) triggering a rapid mean-reversion move toward the 75,000 POC."
 }
