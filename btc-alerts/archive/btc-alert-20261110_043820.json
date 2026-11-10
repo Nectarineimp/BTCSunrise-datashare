@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T04:38:20.972156+00:00",
+  "price": 74720.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 25.1801,
+  "perp_cvd": 76.85,
+  "divergence": -51.6699,
+  "poc": 74500.0,
+  "vah": 74800.0,
+  "val": 74500.0,
+  "analysis": "Price has pushed above the 74,700 VAH, but the expansion is heavily driven by aggressive perpetual swap volume with minimal spot delta support. Without spot buyer follow-through, this leverage-driven breakout is highly susceptible to an exhaustion reversal back into the Value Area.",
+  "key_risk": "Long liquidation cascade and mean-reversion below 74,700 VAH driven by spot CVD divergence."
+}
