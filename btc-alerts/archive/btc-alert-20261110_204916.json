@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T20:49:16.842341+00:00",
+  "price": 73784.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 45.2733,
+  "perp_cvd": 170.27,
+  "divergence": -124.9967,
+  "poc": 73650.0,
+  "vah": 73750.0,
+  "val": 73450.0,
+  "analysis": "Price has pushed above VAH at 73,750, but the breakout is heavily skewed toward perpetual futures leverage rather than spot market accumulation. The negative CVD divergence of -144.46 BTC signals late long positioning that is vulnerable to exhaustion without spot follow-through.",
+  "key_risk": "Lack of spot bid support leading to a sharp perpetual long unwinding back into the Value Area."
+}
