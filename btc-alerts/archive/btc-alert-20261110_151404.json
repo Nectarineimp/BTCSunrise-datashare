@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T15:14:04.950261+00:00",
+  "price": 74768.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 30.6304,
+  "perp_cvd": 543.484,
+  "divergence": -512.8536,
+  "poc": 73700.0,
+  "vah": 74300.0,
+  "val": 73600.0,
+  "analysis": "Price has broken out above VAH at 74300, but the move is driven almost entirely by perpetual futures leverage rather than spot accumulation. Without spot CVD follow-through, this expansion carries a high risk of leverage exhaustion and a sharp mean-reversion back into the value area.",
+  "key_risk": "Lack of spot CVD absorption triggering a long liquidation cascade back below the 74300 VAH level."
+}
