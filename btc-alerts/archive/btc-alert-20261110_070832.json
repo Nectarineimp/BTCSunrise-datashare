@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T07:08:32.117504+00:00",
+  "price": 74714.73,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": -99.8062,
+  "perp_cvd": -46.731,
+  "divergence": -53.0752,
+  "poc": 74600.0,
+  "vah": 74700.0,
+  "val": 74550.0,
+  "analysis": "Price trades marginally above Value Area High despite negative spot and perp CVD deltas over the past hour. This price-delta divergence reflects passive absorption of market sells, though the absence of spot buying leaves the break above 74,700 fragile.",
+  "key_risk": "Exhaustion of passive absorption triggering a sharp mean-reversion down to the Point of Control at 74,600."
+}
