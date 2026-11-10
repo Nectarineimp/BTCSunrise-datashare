@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-10T08:13:33.959720+00:00",
-  "price": 74785.2,
+  "timestamp": "2026-11-10T08:18:33.967254+00:00",
+  "price": 74700.0,
   "regime": "Mean Reverting / Consolidation",
-  "spot_cvd": 201.0683,
-  "perp_cvd": 67.314,
-  "divergence": 133.7543,
+  "spot_cvd": 199.7763,
+  "perp_cvd": 76.679,
+  "divergence": 123.0973,
   "poc": 74850.0,
   "vah": 74900.0,
   "val": 74750.0,
-  "analysis": "Price rotating inside Value Area near POC ($74,850.00). Spot CVD delta is positive (+201.07 BTC).",
-  "key_risk": "Range chop between VAL ($74,750.00) and VAH ($74,900.00)."
+  "analysis": "Spot CVD is leading positive delta (+202.7 BTC) despite price trading below the Value Area Low of 74,750, pointing to spot absorption of sell-side liquidity. Reclaiming VAL opens a path toward POC at 74,850, while continued failure to re-enter value threatens spot buyer exhaustion.",
+  "key_risk": "Failure to reclaim 74,750 VAL triggering spot buyer fatigue and expansion toward lower market node support."
 }
