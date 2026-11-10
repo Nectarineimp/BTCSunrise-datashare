@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T07:28:33.226637+00:00",
+  "price": 74753.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -29.3978,
+  "perp_cvd": 19.882,
+  "divergence": -49.2798,
+  "poc": 74650.0,
+  "vah": 74750.0,
+  "val": 74600.0,
+  "analysis": "Price has moved above VAH at 74,750 backed primarily by perpetual leverage buying, while spot CVD shows aggressive net selling of -30.45 BTC. This negative spot-perp divergence signals lack of spot conviction and leaves the breakout vulnerable to long exhaustion and value area re-entry.",
+  "key_risk": "Perpetual long liquidation cascade triggered by a failure to sustain acceptance above VAH (74,750.0), target POC at 74,650.0."
+}
