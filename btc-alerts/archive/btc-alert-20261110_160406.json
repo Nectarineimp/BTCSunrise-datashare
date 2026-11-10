@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T16:04:06.225497+00:00",
+  "price": 73219.19,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 54.8251,
+  "perp_cvd": 755.536,
+  "divergence": -700.7109,
+  "poc": 74600.0,
+  "vah": 74850.0,
+  "val": 73250.0,
+  "analysis": "Aggressive derivative buying is failing to defend the Value Area Low as spot demand remains negligible, creating severe long absorption. Price acceptance below $73,250 leaves over-leveraged buyers vulnerable to downside liquidation cascades.",
+  "key_risk": "Long liquidation cascade triggered by perp buyer absorption below Value Area Low."
+}
