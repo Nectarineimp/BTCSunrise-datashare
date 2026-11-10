@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-10T05:43:25.639084+00:00",
+  "price": 74847.0,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 29.3378,
+  "perp_cvd": -58.837,
+  "divergence": 88.1748,
+  "poc": 74650.0,
+  "vah": 74850.0,
+  "val": 74600.0,
+  "analysis": "Price has expanded above VAH supported by net-positive spot delta absorbing aggressive derivative short interest. The strong CVD divergence highlights spot-driven market control, though elevated perp volume presents short-term volatility risks.",
+  "key_risk": "Acceptance back inside the Value Area below VAH (74850.00), triggering a mean-reversion sequence toward the POC."
+}
