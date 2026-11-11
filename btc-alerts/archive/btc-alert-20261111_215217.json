@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-11T21:52:17.823418+00:00",
+  "price": 74484.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -16.8217,
+  "perp_cvd": -270.63,
+  "divergence": 253.8083,
+  "poc": 74650.0,
+  "vah": 74800.0,
+  "val": 74550.0,
+  "analysis": "Price has traded below the Value Area Low driven primarily by aggressive derivative short-selling while spot flows remain relatively muted. This structural mismatch heightens the probability of a short-squeeze reversal if passive spot buyers absorb the perp selling momentum.",
+  "key_risk": "High perp open interest concentration creating short-squeeze risk back inside the value area toward POC."
+}
