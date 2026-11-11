@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-11T14:52:06.629920+00:00",
+  "price": 73713.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -106.0167,
+  "perp_cvd": -272.742,
+  "divergence": 166.7253,
+  "poc": 73500.0,
+  "vah": 73650.0,
+  "val": 73400.0,
+  "analysis": "Price is trading above VAH despite negative CVD across both spot and perpetual markets, signaling a breakout lacking aggressive spot buying support. Dominant perpetual volume alongside negative taker delta indicates potential short squeeze mechanics or imminent exhaustion back into the value area.",
+  "key_risk": "Acceptance failure above VAH (73650.0) triggering mean reversion toward the POC at 73500.0."
+}
