@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-11T18:51:56.353507+00:00",
+  "price": 74488.0,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 103.3025,
+  "perp_cvd": 59.406,
+  "divergence": 43.8965,
+  "poc": 74500.0,
+  "vah": 74600.0,
+  "val": 74450.0,
+  "analysis": "Spot CVD outpaces perpetual volume delta, indicating spot-driven accumulation despite price temporarily probing below the Value Area Low. Reclaiming 74,450 (VAL) is critical to trigger a mean-reversion rotation toward the 74,500 POC.",
+  "key_risk": "Failure to reclaim VAL (74,450) triggering spot buyer exhaustion and breakdown into lower value area nodes."
+}
