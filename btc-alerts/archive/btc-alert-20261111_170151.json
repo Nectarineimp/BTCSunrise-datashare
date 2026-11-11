@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-11T17:01:51.198393+00:00",
+  "price": 74232.46,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -35.969,
+  "perp_cvd": -64.784,
+  "divergence": 28.815,
+  "poc": 74200.0,
+  "vah": 74350.0,
+  "val": 74200.0,
+  "analysis": "Aggressive perpetual contract selling has pushed price slightly below the Value Area Low at 74,200 alongside negative spot CVD. With spot volume remaining muted relative to derivatives activity, the breakdown lacks strong institutional spot backing.",
+  "key_risk": "Reclaiming the 74,200 VAL/POC level on spot buying, triggering a short squeeze on overextended perp positions."
+}

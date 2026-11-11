@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-11T16:56:50.466690+00:00",
-  "price": 74167.6,
+  "timestamp": "2026-11-11T17:01:51.198393+00:00",
+  "price": 74232.46,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -31.2987,
-  "perp_cvd": -71.476,
-  "divergence": 40.1773,
+  "spot_cvd": -35.969,
+  "perp_cvd": -64.784,
+  "divergence": 28.815,
   "poc": 74200.0,
   "vah": 74350.0,
   "val": 74200.0,
-  "analysis": "Price has accepted below the Value Area Low at 74,200 driven predominantly by aggressive perpetual swap delta selling. Without strong spot volume participation to validate the breakdown, the downside move risks leverage exhaustion and a sharp short-covering rally.",
-  "key_risk": "Perpetual short-covering rebound triggering a quick reclaim above the 74,200 Value Area Low."
+  "analysis": "Aggressive perpetual contract selling has pushed price slightly below the Value Area Low at 74,200 alongside negative spot CVD. With spot volume remaining muted relative to derivatives activity, the breakdown lacks strong institutional spot backing.",
+  "key_risk": "Reclaiming the 74,200 VAL/POC level on spot buying, triggering a short squeeze on overextended perp positions."
 }
