@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-11T14:52:06.629920+00:00",
-  "price": 73713.8,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -106.0167,
-  "perp_cvd": -272.742,
-  "divergence": 166.7253,
+  "timestamp": "2026-11-11T14:57:06.654689+00:00",
+  "price": 73604.9,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": -106.8007,
+  "perp_cvd": -191.788,
+  "divergence": 84.9873,
   "poc": 73500.0,
   "vah": 73650.0,
   "val": 73400.0,
-  "analysis": "Price is trading above VAH despite negative CVD across both spot and perpetual markets, signaling a breakout lacking aggressive spot buying support. Dominant perpetual volume alongside negative taker delta indicates potential short squeeze mechanics or imminent exhaustion back into the value area.",
-  "key_risk": "Acceptance failure above VAH (73650.0) triggering mean reversion toward the POC at 73500.0."
+  "analysis": "Price is probing above the 73,650 VAH despite negative spot and perp CVD, indicating passive limit bid absorption of market selling. Without aggressive spot order flow follow-through, breakout conviction remains weak and vulnerable to a rotation back inside the value area.",
+  "key_risk": "Lack of aggressive spot market buying to sustain acceptance above VAH, risking mean reversion toward the 73,500 POC."
 }

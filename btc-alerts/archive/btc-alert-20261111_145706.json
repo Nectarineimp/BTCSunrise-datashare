@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-11T14:57:06.654689+00:00",
+  "price": 73604.9,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": -106.8007,
+  "perp_cvd": -191.788,
+  "divergence": 84.9873,
+  "poc": 73500.0,
+  "vah": 73650.0,
+  "val": 73400.0,
+  "analysis": "Price is probing above the 73,650 VAH despite negative spot and perp CVD, indicating passive limit bid absorption of market selling. Without aggressive spot order flow follow-through, breakout conviction remains weak and vulnerable to a rotation back inside the value area.",
+  "key_risk": "Lack of aggressive spot market buying to sustain acceptance above VAH, risking mean reversion toward the 73,500 POC."
+}
