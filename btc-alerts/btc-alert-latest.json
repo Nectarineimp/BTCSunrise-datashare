@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-11T20:16:59.322482+00:00",
-  "price": 74546.4,
+  "timestamp": "2026-11-11T20:22:00.339615+00:00",
+  "price": 74502.1,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 0.5651,
-  "perp_cvd": 461.765,
-  "divergence": -461.1999,
+  "spot_cvd": 16.7874,
+  "perp_cvd": 628.04,
+  "divergence": -611.2526,
   "poc": 74350.0,
   "vah": 74500.0,
-  "val": 74300.0,
-  "analysis": "Price has traded above the Value Area High at 74,616, but the breakout is heavily leverage-driven with perp CVD (+511.2) vastly outstripping spot CVD (+9.6). This extreme negative CVD divergence signals high exhaustion risk and vulnerable market structure if spot bids fail to absorb selling back into value.",
-  "key_risk": "Perpetual long liquidation cascade triggered by a lack of spot market follow-through, risking a rapid pull-back inside the value area."
+  "val": 74350.0,
+  "analysis": "Price testing liquidity above VAH at $74,502.10. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($74,350.00)."
 }
