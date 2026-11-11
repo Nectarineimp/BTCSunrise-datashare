@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-11T16:56:50.466690+00:00",
+  "price": 74167.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -31.2987,
+  "perp_cvd": -71.476,
+  "divergence": 40.1773,
+  "poc": 74200.0,
+  "vah": 74350.0,
+  "val": 74200.0,
+  "analysis": "Price has accepted below the Value Area Low at 74,200 driven predominantly by aggressive perpetual swap delta selling. Without strong spot volume participation to validate the breakdown, the downside move risks leverage exhaustion and a sharp short-covering rally.",
+  "key_risk": "Perpetual short-covering rebound triggering a quick reclaim above the 74,200 Value Area Low."
+}
