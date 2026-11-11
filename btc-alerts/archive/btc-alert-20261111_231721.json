@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-11T23:17:21.306427+00:00",
+  "price": 73943.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -41.3639,
+  "perp_cvd": -355.369,
+  "divergence": 314.0051,
+  "poc": 74350.0,
+  "vah": 74500.0,
+  "val": 74100.0,
+  "analysis": "Aggressive perp net selling has pushed price below the Value Area Low at 74,100 while spot volume and CVD show minimal confirmation. This derivative-heavy imbalance creates a strong setup for short-side exhaustion and a potential mean-reversion squeeze back into value.",
+  "key_risk": "Spot absorption at sub-VAL lows triggering a cascading short squeeze back toward POC (74,350)."
+}
