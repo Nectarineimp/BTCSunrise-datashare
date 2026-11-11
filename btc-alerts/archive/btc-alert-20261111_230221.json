@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-11T23:02:21.155562+00:00",
+  "price": 74056.86,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -47.474,
+  "perp_cvd": -465.056,
+  "divergence": 417.582,
+  "poc": 74400.0,
+  "vah": 74500.0,
+  "val": 74200.0,
+  "analysis": "Bitcoin has broken below the Value Area Low of 74,200 driven predominantly by aggressive perpetual swap delta rather than spot distribution. The pronounced CVD divergence highlights short-side leverage crowding, elevating the risk of a sharp upside squeeze if spot passive bids absorb the flow.",
+  "key_risk": "Spot disinterest failing to absorb aggressive perp selling, opening the door for further downside expansion."
+}
