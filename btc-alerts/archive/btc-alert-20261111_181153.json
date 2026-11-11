@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-11T18:11:53.024587+00:00",
+  "price": 74433.51,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 29.2909,
+  "perp_cvd": 299.829,
+  "divergence": -270.5381,
+  "poc": 74450.0,
+  "vah": 74600.0,
+  "val": 74400.0,
+  "analysis": "Aggressive perpetual buying is failing to push price back into the Value Area amidst negligible spot demand, indicating passive absorption of long market orders below VAL. This significant spot-perp CVD divergence creates a fragile structure prone to a sharp liquidation cascade if current price support breaks.",
+  "key_risk": "Cascade of long liquidations triggered by buyer exhaustion below the 74400 Value Area Low."
+}
