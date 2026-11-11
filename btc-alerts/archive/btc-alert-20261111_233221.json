@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-11T23:32:21.473824+00:00",
+  "price": 73870.4,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -35.6679,
+  "perp_cvd": -319.795,
+  "divergence": 284.1271,
+  "poc": 74450.0,
+  "vah": 74500.0,
+  "val": 74050.0,
+  "analysis": "Price has drifted below VAL driven overwhelmingly by aggressive futures order flow, while spot CVD shows minimal selling conviction. This pronounced perp-led divergence highlights leverage exhaustion risk and potential for a mean-reverting squeeze back toward POC.",
+  "key_risk": "Lack of spot passive bid support allowing aggressive perp selling to force structural breakdown below 73,900."
+}
