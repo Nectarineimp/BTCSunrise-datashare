@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-12T20:12:48.579949+00:00",
+  "price": 71544.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -3.78,
+  "perp_cvd": 115.236,
+  "divergence": -119.016,
+  "poc": 71600.0,
+  "vah": 71700.0,
+  "val": 71550.0,
+  "analysis": "Aggressive perpetual buying is failing to defend the market as spot distribution pushes price below the Value Area Low of 71,550. This strong CVD divergence leaves over-leveraged perp long positions vulnerable to a liquidity squeeze.",
+  "key_risk": "Cascading long liquidations driven by unhedged perpetual accumulation below the 71,550 VAL."
+}
