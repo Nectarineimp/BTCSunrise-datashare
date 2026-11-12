@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-12T18:52:44.479503+00:00",
-  "price": 71630.9,
+  "timestamp": "2026-11-12T18:57:44.481613+00:00",
+  "price": 71701.1,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -27.4506,
-  "perp_cvd": -121.662,
-  "divergence": 94.2114,
-  "poc": 71900.0,
-  "vah": 72000.0,
+  "spot_cvd": -35.7458,
+  "perp_cvd": -112.89,
+  "divergence": 77.1442,
+  "poc": 71850.0,
+  "vah": 72050.0,
   "val": 71800.0,
-  "analysis": "Bitcoin has accepted below the Value Area Low of 71,800, primarily driven by aggressive perpetual shorting rather than spot distribution. The significant positive divergence between spot and perp CVD indicates potential short-side leverage exhaustion and heightened mean-reversion risk back toward the 71,900 POC.",
-  "key_risk": "Continuation of aggressive perp selling triggering cascading liquidations before spot absorption can materialize."
+  "analysis": "Price testing liquidity below VAL at $71,701.10. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($71,850.00)."
 }
