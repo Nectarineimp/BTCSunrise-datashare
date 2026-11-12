@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-12T21:32:53.324509+00:00",
+  "price": 71565.93,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -32.4232,
+  "perp_cvd": 55.664,
+  "divergence": -88.0872,
+  "poc": 71450.0,
+  "vah": 71550.0,
+  "val": 71400.0,
+  "analysis": "Price has breached VAH driven primarily by speculative perp buying while spot CVD remains persistently negative. This pronounced spot-perp divergence indicates fragile leverage-driven expansion and heightens the risk of a sharp mean-reversion back into the value area.",
+  "key_risk": "Perp exhaustion and long liquidations triggering a swift breakdown below VAH at 71550.0."
+}
