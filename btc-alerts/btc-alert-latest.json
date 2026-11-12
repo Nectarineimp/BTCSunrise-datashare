@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-12T17:57:42.633615+00:00",
-  "price": 71941.54,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 16.5526,
-  "perp_cvd": -276.888,
-  "divergence": 293.4406,
+  "timestamp": "2026-11-12T18:02:42.658533+00:00",
+  "price": 71841.21,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 18.719,
+  "perp_cvd": -190.571,
+  "divergence": 209.29,
   "poc": 71700.0,
-  "vah": 71900.0,
-  "val": 71650.0,
-  "analysis": "Price acceptance above VAH at 71,930 alongside strong spot-perp CVD divergence indicates aggressive perp shorting is being absorbed by passive spot demand. This structural imbalance creates high probability for a leverage-driven squeeze higher if perps are forced to cover.",
-  "key_risk": "Failure to sustain acceptance above VAH (71,900) leading to rapid mean-reversion back toward the POC at 71,700."
+  "vah": 71950.0,
+  "val": 71700.0,
+  "analysis": "Price rotating inside Value Area near POC ($71,700.00). Spot CVD delta is positive (+18.72 BTC).",
+  "key_risk": "Range chop between VAL ($71,700.00) and VAH ($71,950.00)."
 }
