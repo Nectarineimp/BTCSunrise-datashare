@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-12T20:12:48.579949+00:00",
-  "price": 71544.0,
+  "timestamp": "2026-11-12T20:17:48.581304+00:00",
+  "price": 71458.3,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -3.78,
-  "perp_cvd": 115.236,
-  "divergence": -119.016,
-  "poc": 71600.0,
+  "spot_cvd": -8.6928,
+  "perp_cvd": 76.336,
+  "divergence": -85.0288,
+  "poc": 71550.0,
   "vah": 71700.0,
-  "val": 71550.0,
-  "analysis": "Aggressive perpetual buying is failing to defend the market as spot distribution pushes price below the Value Area Low of 71,550. This strong CVD divergence leaves over-leveraged perp long positions vulnerable to a liquidity squeeze.",
-  "key_risk": "Cascading long liquidations driven by unhedged perpetual accumulation below the 71,550 VAL."
+  "val": 71500.0,
+  "analysis": "Aggressive perp buying is meeting spot absorption below Value Area Low, creating a sharp negative CVD divergence. The lack of spot-driven conviction leaves overextended long positions vulnerable to a downside cascade.",
+  "key_risk": "Downside long liquidation cascade upon failure to reclaim VAL at 71500"
 }
