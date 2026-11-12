@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-12T19:07:45.252357+00:00",
+  "price": 71630.02,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -23.3745,
+  "perp_cvd": -170.816,
+  "divergence": 147.4415,
+  "poc": 71950.0,
+  "vah": 72050.0,
+  "val": 71650.0,
+  "analysis": "Price has pushed below the Value Area Low driven primarily by aggressive perpetual futures selling, while spot CVD remains relatively muted. This pronounced CVD divergence suggests leveraged short crowding and elevated risk of a short-squeeze back toward the POC.",
+  "key_risk": "Spot CVD turning heavily negative to confirm genuine structural acceptance below 71,650."
+}
