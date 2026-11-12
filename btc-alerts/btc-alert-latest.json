@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-12T00:12:21.986801+00:00",
-  "price": 73888.26,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 3.1947,
-  "perp_cvd": 316.956,
-  "divergence": -313.7613,
-  "poc": 74000.0,
+  "timestamp": "2026-11-12T00:17:21.988141+00:00",
+  "price": 73974.1,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 3.1689,
+  "perp_cvd": 313.774,
+  "divergence": -310.6051,
+  "poc": 73850.0,
   "vah": 74100.0,
   "val": 73850.0,
-  "analysis": "Aggressive perpetual futures buying is failing to lift price as spot demand remains non-existent, resulting in price trading below the Value Area Low. This severe spot-perp CVD divergence indicates leveraged longs are being passively absorbed, elevating the probability of a forced long liquidation cascade.",
-  "key_risk": "Leveraged long liquidation cascade driven by price acceptance below the 73,850 VAL while spot bid volume remains negligible."
+  "analysis": "Price rotating inside Value Area near POC ($73,850.00). Spot CVD delta is positive (+3.17 BTC).",
+  "key_risk": "Range chop between VAL ($73,850.00) and VAH ($74,100.00)."
 }
