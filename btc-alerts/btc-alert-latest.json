@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-13T13:48:34.321626+00:00",
-  "price": 69732.7,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 71.8165,
-  "perp_cvd": -65.926,
-  "divergence": 137.7425,
-  "poc": 69200.0,
-  "vah": 69400.0,
-  "val": 69100.0,
-  "analysis": "Spot CVD accumulation is driving price expansion above the 69,400 VAH despite aggressive perpetual swap shorting. Market bias favors continued upside as spot buyers absorb perpetual liquidity and risk triggering a short squeeze.",
-  "key_risk": "Failure to sustain price acceptance above the 69,400 VAH, leading to a mean-reversion move toward the 69,200 POC."
+  "timestamp": "2026-11-13T13:58:34.385576+00:00",
+  "price": 69926.99,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 91.0036,
+  "perp_cvd": 245.463,
+  "divergence": -154.4594,
+  "poc": 69150.0,
+  "vah": 69650.0,
+  "val": 69000.0,
+  "analysis": "Price testing liquidity above VAH at $69,926.99. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($69,150.00)."
 }
