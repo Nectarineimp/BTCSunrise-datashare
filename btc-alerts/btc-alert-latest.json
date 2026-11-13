@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-13T00:23:04.380486+00:00",
-  "price": 71420.24,
+  "timestamp": "2026-11-13T00:28:04.375458+00:00",
+  "price": 71144.0,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -86.4743,
-  "perp_cvd": -554.009,
-  "divergence": 467.5347,
+  "spot_cvd": -73.5328,
+  "perp_cvd": -63.705,
+  "divergence": -9.8278,
   "poc": 71300.0,
-  "vah": 71400.0,
-  "val": 71100.0,
-  "analysis": "Price is holding above the Value Area High despite aggressive perp market selling, pointing to strong passive limit bid absorption. The heavy derivative volume dominance and negative CVD divergence suggest trapped short positioning that could trigger a squeeze if 71,400 holds.",
-  "key_risk": "Failure to sustain acceptance above 71,400 VAH leading to rapid mean-reversion down to the 71,300 POC."
+  "vah": 71450.0,
+  "val": 71250.0,
+  "analysis": "Price testing liquidity below VAL at $71,144.00. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($71,300.00)."
 }
