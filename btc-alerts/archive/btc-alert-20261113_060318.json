@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T06:03:18.753144+00:00",
+  "price": 68153.71,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 119.7086,
+  "perp_cvd": 303.904,
+  "divergence": -184.1954,
+  "poc": 68500.0,
+  "vah": 68850.0,
+  "val": 68450.0,
+  "analysis": "Price trades below Value Area Low at 68,450 despite positive cumulative volume delta, which is predominantly driven by perpetual leverage rather than spot accumulation. This divergence between aggressive derivative buying and negative price location creates elevated risk of long liquidation.",
+  "key_risk": "Failure to reclaim Value Area Low at 68,450 triggering a long liquidation cascade."
+}
