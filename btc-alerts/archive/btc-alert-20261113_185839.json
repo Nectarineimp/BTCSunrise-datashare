@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T18:58:39.165003+00:00",
+  "price": 69013.79,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 16.8417,
+  "perp_cvd": 17.763,
+  "divergence": -0.9213,
+  "poc": 68850.0,
+  "vah": 68950.0,
+  "val": 68800.0,
+  "analysis": "Bitcoin is demonstrating structural strength above the Value Area High (68,950) backed by strong spot-led CVD delta divergence. The aggressive spot buying relative to perpetual leverage indicates genuine organic demand driving the breakout higher.",
+  "key_risk": "Failure to hold 68,950 VAH on a retest, risking rapid mean-reversion into the Volume Profile POC at 68,850."
+}
