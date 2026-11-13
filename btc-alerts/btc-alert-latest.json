@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-13T00:03:04.039359+00:00",
-  "price": 71441.83,
+  "timestamp": "2026-11-13T00:08:04.319071+00:00",
+  "price": 71402.43,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -31.5258,
-  "perp_cvd": -563.542,
-  "divergence": 532.0162,
+  "spot_cvd": -25.508,
+  "perp_cvd": -590.716,
+  "divergence": 565.208,
   "poc": 71100.0,
   "vah": 71400.0,
   "val": 71100.0,
-  "analysis": "Price has accepted above the Value Area High (71,400) despite aggressive perpetual market selling, indicating passive limit absorption of incoming shorts. With perpetual volume dominating spot by over 5x, the expansion lacks organic spot demand and remains vulnerable to a sharp leverage-driven squeeze or mean reversion.",
-  "key_risk": "Loss of acceptance above VAH (71,400) triggering a rapid mean-reversion move toward the POC at 71,100."
+  "analysis": "Price testing liquidity above VAH at $71,402.43. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($71,100.00)."
 }
