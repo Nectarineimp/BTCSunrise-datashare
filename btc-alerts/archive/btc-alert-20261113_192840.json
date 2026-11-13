@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T19:28:40.032200+00:00",
+  "price": 69016.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 36.4379,
+  "perp_cvd": 66.822,
+  "divergence": -30.3841,
+  "poc": 68900.0,
+  "vah": 69000.0,
+  "val": 68800.0,
+  "analysis": "Bitcoin has broken above the Value Area High at 69,000, but the move is heavily reliant on derivative flows rather than aggressive spot buying. The negative spot-perp CVD divergence indicates potential buyer exhaustion if spot participation fails to accelerate.",
+  "key_risk": "Lack of spot follow-through triggering a sharp long-squeeze back into the Value Area below 69,000."
+}

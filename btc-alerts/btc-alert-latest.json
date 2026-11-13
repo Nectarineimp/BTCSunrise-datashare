@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-13T19:23:40.041196+00:00",
-  "price": 68996.36,
-  "regime": "Mean Reverting / Consolidation",
-  "spot_cvd": 32.6719,
-  "perp_cvd": 68.574,
-  "divergence": -35.9021,
+  "timestamp": "2026-11-13T19:28:40.032200+00:00",
+  "price": 69016.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 36.4379,
+  "perp_cvd": 66.822,
+  "divergence": -30.3841,
   "poc": 68900.0,
   "vah": 69000.0,
   "val": 68800.0,
-  "analysis": "Price rotating inside Value Area near POC ($68,900.00). Spot CVD delta is positive (+32.67 BTC).",
-  "key_risk": "Range chop between VAL ($68,800.00) and VAH ($69,000.00)."
+  "analysis": "Bitcoin has broken above the Value Area High at 69,000, but the move is heavily reliant on derivative flows rather than aggressive spot buying. The negative spot-perp CVD divergence indicates potential buyer exhaustion if spot participation fails to accelerate.",
+  "key_risk": "Lack of spot follow-through triggering a sharp long-squeeze back into the Value Area below 69,000."
 }
