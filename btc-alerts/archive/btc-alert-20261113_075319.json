@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T07:53:19.064939+00:00",
+  "price": 68692.24,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 102.4247,
+  "perp_cvd": 77.521,
+  "divergence": 24.9037,
+  "poc": 68750.0,
+  "vah": 69150.0,
+  "val": 68650.0,
+  "analysis": "Price is marginally probing below the Value Area Low at 68,650 despite positive spot and perp CVD, indicating passive absorption of aggressive sell flow near value boundaries. A swift reclaim of VAL would favor a mean-reverting rotation back toward the POC at 68,750.",
+  "key_risk": "Failure to reclaim VAL leading to a derivative-driven continuation breakdown into lower market profile thin spots."
+}
