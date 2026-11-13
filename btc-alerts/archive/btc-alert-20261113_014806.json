@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T01:48:06.375209+00:00",
+  "price": 70893.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 57.9023,
+  "perp_cvd": 190.866,
+  "divergence": -132.9637,
+  "poc": 71000.0,
+  "vah": 71150.0,
+  "val": 70900.0,
+  "analysis": "Perpetual futures aggressive buying is heavily outstripping spot demand while price trades below the Value Area Low at $70,900, indicating passive spot absorption of leveraged longs. This structural divergence leaves market participants vulnerable to a downside leverage unwind if price fails to reclaim the $71,000 POC.",
+  "key_risk": "Trapped perpetual long liquidations accelerating a downside breakdown below the $70,900 VAL."
+}
