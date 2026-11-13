@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T14:03:34.378458+00:00",
+  "price": 70013.5,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 89.959,
+  "perp_cvd": 258.638,
+  "divergence": -168.679,
+  "poc": 69150.0,
+  "vah": 69700.0,
+  "val": 69000.0,
+  "analysis": "Price has broken out above the Value Area High at $69,700, but the rally is heavily over-indexed on perpetual leverage rather than spot accumulation. The pronounced negative CVD divergence (-160.7 BTC) indicates elevated long exhaustion risk if spot buyers fail to support higher price acceptance.",
+  "key_risk": "Derivative long liquidations driving a mean-reversion collapse back inside the Value Area below $69,700"
+}
