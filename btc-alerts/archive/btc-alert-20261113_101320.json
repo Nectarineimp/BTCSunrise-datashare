@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T10:13:20.669988+00:00",
+  "price": 69440.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -18.8805,
+  "perp_cvd": 535.332,
+  "divergence": -554.2125,
+  "poc": 69000.0,
+  "vah": 69150.0,
+  "val": 68800.0,
+  "analysis": "Price has pushed above VAH at $69,100, driven almost entirely by aggressive perpetual swaps buying while spot CVD remains virtually flat. This extreme leverage imbalance creates significant risk of a long squeeze and rapid mean-reversion back into the value area.",
+  "key_risk": "Perp buyer exhaustion triggering a long liquidation cascade back below VAH ($69,100)."
+}
