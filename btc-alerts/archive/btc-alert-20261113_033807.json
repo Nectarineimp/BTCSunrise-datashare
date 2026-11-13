@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T03:38:07.053454+00:00",
+  "price": 69263.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 96.5525,
+  "perp_cvd": -772.889,
+  "divergence": 869.4415,
+  "poc": 70300.0,
+  "vah": 70400.0,
+  "val": 69900.0,
+  "analysis": "Price has broken below the Value Area Low at 69,900 driven by aggressive perp selling while spot buyers exhibit mild absorption. This high spot-perp CVD divergence creates significant potential for a short-covering squeeze back toward the Point of Control.",
+  "key_risk": "Continued perp selling pressure overwhelming spot bid depth, leading to sustained acceptance below local support."
+}
