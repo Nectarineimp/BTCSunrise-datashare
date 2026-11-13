@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T19:08:39.169871+00:00",
+  "price": 69000.78,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 22.6754,
+  "perp_cvd": -32.252,
+  "divergence": 54.9274,
+  "poc": 68850.0,
+  "vah": 68950.0,
+  "val": 68800.0,
+  "analysis": "Price has marginally expanded above VAH at 68,950, but order flow shows strong perpetual delta dominance over spot CVD. This heavy reliance on leverage without aggressive spot participation creates heightened vulnerability to a leverage exhaustion event.",
+  "key_risk": "Failed breakout below VAH (68,950) triggering perp long liquidations back toward POC (68,850)."
+}
