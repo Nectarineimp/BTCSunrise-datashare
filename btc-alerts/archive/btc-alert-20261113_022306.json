@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T02:23:06.706416+00:00",
+  "price": 70716.76,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 8.4716,
+  "perp_cvd": -16.328,
+  "divergence": 24.7996,
+  "poc": 70900.0,
+  "vah": 71200.0,
+  "val": 70750.0,
+  "analysis": "Spot buyers are absorbing aggressive perp market selling below the Value Area Low of 70,750, driving a positive CVD divergence of over 22.5 BTC. This order flow imbalance suggests derivative short-seller exhaustion and heightened risk of a squeeze back toward the 70,900 POC.",
+  "key_risk": "Perp aggressive selling overwhelming spot passive bids below VAL, triggering systemic downside liquidations."
+}
