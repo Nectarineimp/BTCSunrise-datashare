@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-13T09:53:20.302726+00:00",
-  "price": 69023.8,
+  "timestamp": "2026-11-13T09:58:20.491921+00:00",
+  "price": 69099.84,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -75.286,
-  "perp_cvd": 256.782,
-  "divergence": -332.068,
+  "spot_cvd": -64.9592,
+  "perp_cvd": 307.15,
+  "divergence": -372.1092,
   "poc": 69000.0,
   "vah": 69100.0,
   "val": 68800.0,
-  "analysis": "Price has pushed marginally above VAH driven exclusively by aggressive perpetual leverage, while spot CVD exhibits net-selling divergence. Without spot accumulation backing this breakout, the market faces heightened risk of long liquidation and mean-reversion back inside the value area.",
-  "key_risk": "Lack of spot market participation leading to a rapid unwind of overextended perp longs back below VAH (69050.0)."
+  "analysis": "Perpetual swaps are driving price marginally above VAH while spot CVD remains negative, indicating a leverage-led move lacking organic spot demand. This significant CVD divergence leaves the marginal breakout highly vulnerable to a long liquidation sweep back into the value area.",
+  "key_risk": "Lack of spot buying follow-through risking a breakout failure and sharp mean-reversion below VAH."
 }
