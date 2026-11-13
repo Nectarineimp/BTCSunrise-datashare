@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T20:38:43.977530+00:00",
+  "price": 68911.32,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": -48.4602,
+  "perp_cvd": -30.823,
+  "divergence": -17.6372,
+  "poc": 69000.0,
+  "vah": 69100.0,
+  "val": 68900.0,
+  "analysis": "Heavy spot-led aggressive selling has pushed price below the Value Area Low at 68,900, demonstrating strong downside order flow conviction. With spot CVD leading perp CVD declines, market bias remains firmly bearish unless bids absorb the ongoing spot distribution.",
+  "key_risk": "Re-acceptance above VAL (68,900) triggering a short-covering squeeze toward the POC at 69,000."
+}
