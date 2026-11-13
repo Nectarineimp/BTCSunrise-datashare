@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T06:48:18.916287+00:00",
+  "price": 68801.18,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 80.0375,
+  "perp_cvd": 748.809,
+  "divergence": -668.7715,
+  "poc": 68150.0,
+  "vah": 68600.0,
+  "val": 68000.0,
+  "analysis": "Price has expanded above VAH at $68,600, driven predominantly by aggressive perpetual leverage rather than spot accumulation. The severe negative spot-to-perp CVD divergence indicates fragile breakout conviction that is vulnerable to a sharp long squeeze.",
+  "key_risk": "Lack of spot CVD follow-through risking a mean-reversion rejection back into the Value Area below $68,600."
+}
