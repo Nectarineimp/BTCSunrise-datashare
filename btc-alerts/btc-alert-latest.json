@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-13T08:53:20.144846+00:00",
-  "price": 68809.69,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 91.4166,
-  "perp_cvd": 66.419,
-  "divergence": 24.9976,
-  "poc": 68550.0,
+  "timestamp": "2026-11-13T08:58:20.147691+00:00",
+  "price": 68723.6,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 55.0998,
+  "perp_cvd": 274.031,
+  "divergence": -218.9313,
+  "poc": 68750.0,
   "vah": 68800.0,
   "val": 68550.0,
-  "analysis": "Price has broken out above VAH at 68,800 supported by net positive spot CVD leading perpetual delta, signaling genuine institutional buying power. Sustaining acceptance above VAH remains critical to confirm continued upside drift rather than a false breakout.",
-  "key_risk": "Loss of VAH acceptance (68,800) triggering a rapid mean-reversion move down to POC (68,550)"
+  "analysis": "Price rotating inside Value Area near POC ($68,750.00). Spot CVD delta is positive (+55.10 BTC).",
+  "key_risk": "Range chop between VAL ($68,550.00) and VAH ($68,800.00)."
 }
