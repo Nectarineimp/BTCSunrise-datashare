@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T15:08:34.729360+00:00",
+  "price": 68774.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -70.5154,
+  "perp_cvd": -415.492,
+  "divergence": 344.9766,
+  "poc": 69250.0,
+  "vah": 69450.0,
+  "val": 68900.0,
+  "analysis": "Bitcoin has broken below the Value Area Low of 68,900 driven predominantly by aggressive perpetual swap market selling rather than spot distribution. The significant volume imbalance and CVD divergence indicate elevated risk of a short squeeze if spot passive absorption holds at current levels.",
+  "key_risk": "Lack of spot market selling follow-through triggering a violent short squeeze back into the value area above 68,900."
+}
