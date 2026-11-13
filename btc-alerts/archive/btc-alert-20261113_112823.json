@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T11:28:23.875290+00:00",
+  "price": 69490.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -44.9605,
+  "perp_cvd": 88.567,
+  "divergence": -133.5275,
+  "poc": 69300.0,
+  "vah": 69400.0,
+  "val": 69250.0,
+  "analysis": "Price has traded above VAH at 69,469.3 driven entirely by aggressive derivative long positioning (+85.4 BTC perp CVD), while spot market participants actively distribute (-45.3 BTC spot CVD). The significant negative CVD divergence (-130.7 BTC) signals high exhaustion risk and vulnerability to a leverage unwind back inside the Value Area.",
+  "key_risk": "Lack of spot absorption leading to a long liquidation cascade and rejection back below VAH (69,400.0)."
+}
