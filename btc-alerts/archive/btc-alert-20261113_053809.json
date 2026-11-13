@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T05:38:09.599150+00:00",
+  "price": 68411.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 2.7139,
+  "perp_cvd": -682.381,
+  "divergence": 685.0949,
+  "poc": 68600.0,
+  "vah": 68800.0,
+  "val": 68500.0,
+  "analysis": "Price has broken below the Value Area Low driven almost entirely by aggressive perpetual market selling, while spot CVD remains relatively neutral. This notable spot-perp CVD divergence at local lows signals prospective seller exhaustion and a heightened risk of a short squeeze back toward POC.",
+  "key_risk": "Sustained trading below 68,500 VAL triggering forced spot sell orders and value area migration downward."
+}
