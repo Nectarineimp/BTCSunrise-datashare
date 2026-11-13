@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T10:28:23.061247+00:00",
+  "price": 69300.36,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -21.5642,
+  "perp_cvd": 297.353,
+  "divergence": -318.9172,
+  "poc": 69000.0,
+  "vah": 69300.0,
+  "val": 68900.0,
+  "analysis": "Perpetual futures aggressors are pushing price slightly above the Value Area High, but negative spot CVD highlights a distinct lack of institutional spot demand. This leverage-led drive without spot confirmation creates significant exhaustion risk and vulnerability to a swift mean-reversion move.",
+  "key_risk": "Failure to sustain acceptance above VAH at 69,300, risking a long liquidation cascade back toward the POC at 69,000."
+}
