@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T05:18:07.380769+00:00",
+  "price": 68810.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -54.4758,
+  "perp_cvd": -617.682,
+  "divergence": 563.2062,
+  "poc": 68600.0,
+  "vah": 68800.0,
+  "val": 68500.0,
+  "analysis": "Price has pushed above VAH at 68,826 despite negative spot and perp CVD deltas, indicating an unconvincing breakout driven by passive limit absorption rather than aggressive spot buying. Without spot CVD confirmation, the move carries significant exhaustion risk and potential for mean-reversion back into the value area.",
+  "key_risk": "Acceptance back below VAH at 68,800 risking a mean-reversion move toward POC at 68,600."
+}
