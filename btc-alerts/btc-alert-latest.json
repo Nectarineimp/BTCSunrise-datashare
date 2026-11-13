@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-13T13:33:34.234242+00:00",
-  "price": 69120.5,
+  "timestamp": "2026-11-13T13:38:34.261552+00:00",
+  "price": 69374.1,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -17.8669,
-  "perp_cvd": -140.59,
-  "divergence": 122.7231,
-  "poc": 69150.0,
+  "spot_cvd": 32.7144,
+  "perp_cvd": -59.321,
+  "divergence": 92.0353,
+  "poc": 69200.0,
   "vah": 69300.0,
-  "val": 69150.0,
-  "analysis": "Price trades above VAH despite negative 60m CVD deltas across spot and perps, indicating strong passive bid absorption of aggressive perp selling. This structural divergence creates latent short squeeze potential if price maintains acceptance above the 69,300 level.",
-  "key_risk": "Auction failure and re-entry into the Value Area below 69,300 VAH, which would invalidate absorption and trigger long liquidations."
+  "val": 69100.0,
+  "analysis": "Price testing liquidity above VAH at $69,374.10. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($69,200.00)."
 }
