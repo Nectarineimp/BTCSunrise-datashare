@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T21:43:46.461515+00:00",
+  "price": 68118.06,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -56.2157,
+  "perp_cvd": -364.057,
+  "divergence": 307.8414,
+  "poc": 68300.0,
+  "vah": 68700.0,
+  "val": 68200.0,
+  "analysis": "Aggressive derivative selling has pushed price below the Value Area Low of $68,200 while spot cumulative volume delta remains comparatively flat. This pronounced perp-led divergence creates structural vulnerability to a short squeeze if passive spot liquidity absorbs aggressive sellers.",
+  "key_risk": "Perp short-side exhaustion driving a rapid mean-reversion squeeze back into the Value Area above $68,200."
+}
