@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-13T01:08:04.577561+00:00",
-  "price": 70833.5,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": -204.3992,
-  "perp_cvd": -109.182,
-  "divergence": -95.2172,
+  "timestamp": "2026-11-13T01:13:04.591196+00:00",
+  "price": 70889.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -208.5425,
+  "perp_cvd": -18.765,
+  "divergence": -189.7775,
   "poc": 71100.0,
   "vah": 71250.0,
   "val": 70900.0,
-  "analysis": "Spot aggressive selling is actively pushing price below the 70,900 Value Area Low with aligned negative delta across both spot and derivatives markets. Dominant perpetual volume alongside spot-led delta indicates solid short-term downside conviction unless buyers aggressively reclaim value.",
-  "key_risk": "Auction failure and swift reclaim above VAL at 70,900 triggering a short-squeeze mean reversion."
+  "analysis": "Price testing liquidity below VAL at $70,889.80. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($71,100.00)."
 }
