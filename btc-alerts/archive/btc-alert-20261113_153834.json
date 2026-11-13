@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T15:38:34.844442+00:00",
+  "price": 68535.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -49.0455,
+  "perp_cvd": -532.632,
+  "divergence": 483.5865,
+  "poc": 68750.0,
+  "vah": 69150.0,
+  "val": 68750.0,
+  "analysis": "Price has broken below Value Area Low driven almost entirely by aggressive perp shorting while spot selling remains muted. The extreme divergence between perp and spot CVD indicates leverage-driven downside pressure that risks exhaustion if spot absorption holds.",
+  "key_risk": "Lack of spot bid support allowing perp short momentum to trigger cascading liquidation sweeps below current price."
+}
