@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T09:48:20.291028+00:00",
+  "price": 68978.5,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -98.2036,
+  "perp_cvd": 293.006,
+  "divergence": -391.2096,
+  "poc": 68750.0,
+  "vah": 69000.0,
+  "val": 68700.0,
+  "analysis": "Price is probing above VAH driven entirely by aggressive derivative buyers, while negative spot CVD indicates spot traders are distributing into the rally. Without spot market order confirmation, the breakout lacks structural integrity and is vulnerable to a sharp leverage-driven rejection.",
+  "key_risk": "Derivatives exhaustion leading to a long liquidation cascade back below VAH (69,000)."
+}
