@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T11:38:31.112547+00:00",
+  "price": 69165.1,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": -34.1414,
+  "perp_cvd": -5.295,
+  "divergence": -28.8464,
+  "poc": 69300.0,
+  "vah": 69400.0,
+  "val": 69250.0,
+  "analysis": "Aggressive spot market selling is driving price acceptance below the Value Area Low at 69,250, significantly outpacing derivative order flow. Market bias remains tilted to the downside while price continues to trade beneath the 69,300 POC.",
+  "key_risk": "Spot CVD selling exhaustion triggering a sharp mean-reversion retest of the 69,250 VAL."
+}
