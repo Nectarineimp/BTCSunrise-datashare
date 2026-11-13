@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-13T19:58:41.618136+00:00",
+  "price": 69091.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 32.6817,
+  "perp_cvd": 77.515,
+  "divergence": -44.8333,
+  "poc": 69000.0,
+  "vah": 69050.0,
+  "val": 68950.0,
+  "analysis": "Perpetual leverage is aggressively driving the price test above VAH while spot CVD lags significantly, highlighting weak underlying spot conviction. The breakout faces elevated exhaustion risk if perpetual buying meets passive absorption near local resistance.",
+  "key_risk": "Long liquidation cascade triggered by a rejection back inside the Value Area below 69,050."
+}
