@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-14T02:18:56.339661+00:00",
+  "price": 68168.52,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -105.7171,
+  "perp_cvd": 90.69,
+  "divergence": -196.4071,
+  "poc": 68250.0,
+  "vah": 68400.0,
+  "val": 68200.0,
+  "analysis": "Spot distribution is aggressively driving price below the Value Area Low ($68,200) despite persistent derivative long positioning. This pronounced spot-perp CVD divergence leaves overleveraged perp longs vulnerable to a cascading liquidity squeeze.",
+  "key_risk": "Cascading liquidation of unhedged perp longs upon failure to reclaim VAL at $68,200."
+}
