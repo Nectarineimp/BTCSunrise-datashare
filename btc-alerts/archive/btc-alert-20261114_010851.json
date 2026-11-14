@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-14T01:08:51.797640+00:00",
+  "price": 68252.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 32.8058,
+  "perp_cvd": -29.817,
+  "divergence": 62.6228,
+  "poc": 68300.0,
+  "vah": 68400.0,
+  "val": 68250.0,
+  "analysis": "Spot bids are actively absorbing aggressive perp market sells right below the Value Area Low at 68,250. This pronounced spot-to-perp CVD divergence points to potential short-seller exhaustion and a squeeze back toward the POC.",
+  "key_risk": "Sustained acceptance below 68,250 VAL leading to spot accumulation failure and cascading breakdown."
+}
