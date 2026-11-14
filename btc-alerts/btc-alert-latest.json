@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-14T01:28:52.533560+00:00",
-  "price": 68404.0,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 91.5928,
-  "perp_cvd": 215.318,
-  "divergence": -123.7252,
+  "timestamp": "2026-11-14T01:33:52.531407+00:00",
+  "price": 68241.0,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 92.8011,
+  "perp_cvd": 306.353,
+  "divergence": -213.5519,
   "poc": 68250.0,
   "vah": 68350.0,
   "val": 68200.0,
-  "analysis": "Price has pushed above VAH at 68,350, but order flow is heavily skewed toward derivatives with perp CVD outstripping spot CVD by over 2x. Without strong spot absorption confirming the move, this breakout lacks structural support and carries heightened risk of perp exhaustion.",
-  "key_risk": "Derivatives leverage unwinding triggering a rapid mean-reversion back into the Value Area below 68,350."
+  "analysis": "Price rotating inside Value Area near POC ($68,250.00). Spot CVD delta is positive (+92.80 BTC).",
+  "key_risk": "Range chop between VAL ($68,200.00) and VAH ($68,350.00)."
 }
