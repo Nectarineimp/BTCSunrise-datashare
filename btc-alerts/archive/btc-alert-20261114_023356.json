@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-14T02:33:56.384667+00:00",
+  "price": 67296.45,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -167.299,
+  "perp_cvd": -367.875,
+  "divergence": 200.576,
+  "poc": 68250.0,
+  "vah": 68400.0,
+  "val": 67800.0,
+  "analysis": "Price has accepted below the Value Area Low at $67,800 driven predominantly by aggressive perpetual swap selling relative to spot flow. While directional order flow is aligned to the downside, heavy derivatives volume dominance elevates the risk of a short-covering exhaustion squeeze.",
+  "key_risk": "Perp short-squeeze and mean-reversion risk upon any reclaim of the $67,800 Value Area Low."
+}
