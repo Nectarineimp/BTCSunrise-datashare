@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-16T20:12:11.849681+00:00",
+  "price": 65093.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -278.6079,
+  "perp_cvd": -145.99,
+  "divergence": -132.6179,
+  "poc": 64850.0,
+  "vah": 64950.0,
+  "val": 64750.0,
+  "analysis": "Price has traded above VAH (64,950) despite strong negative net delta across both spot and perpetual order flow over the last 60 minutes. This pronounced negative CVD divergence highlights persistent market sell pressure, raising the probability of a breakout failure and return to value.",
+  "key_risk": "Failed breakout re-entry below VAH (64,950) triggering leverage liquidation back toward POC (64,850)."
+}
