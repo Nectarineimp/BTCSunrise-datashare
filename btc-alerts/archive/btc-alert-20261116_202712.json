@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-16T20:27:12.405432+00:00",
+  "price": 65139.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 0.0,
+  "perp_cvd": -28.843,
+  "divergence": 28.843,
+  "poc": 65000.0,
+  "vah": 65100.0,
+  "val": 64850.0,
+  "analysis": "Price is marginally holding above the Value Area High despite negative perp CVD and a complete lack of spot volume confirmation. This derivative-only push exhibits low structural conviction and heightened exhaustion risk if passive absorption fails.",
+  "key_risk": "Lack of spot volume support to confirm price acceptance above the 65,100 VAH level."
+}
