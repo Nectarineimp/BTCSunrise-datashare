@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-16T20:54:09.386587+00:00",
+  "price": 65030.01,
+  "regime": "Consolidation",
+  "spot_cvd": 0.0015,
+  "perp_cvd": 0.0,
+  "divergence": 0.0015,
+  "poc": 65000.0,
+  "vah": 65050.0,
+  "val": 65000.0,
+  "analysis": "",
+  "key_risk": ""
+}
