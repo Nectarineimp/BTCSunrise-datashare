@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-16T19:57:08.126610+00:00",
-  "price": 65011.0,
+  "timestamp": "2026-11-16T20:02:11.380823+00:00",
+  "price": 65060.4,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -243.7783,
-  "perp_cvd": -182.828,
-  "divergence": -60.9503,
+  "spot_cvd": -252.0191,
+  "perp_cvd": -200.868,
+  "divergence": -51.1511,
   "poc": 64900.0,
   "vah": 65000.0,
   "val": 64800.0,
-  "analysis": "Price has moved above VAH at 65000 despite negative spot and perp CVD deltas, indicating passive limit absorption or a low-conviction leverage squeeze. Without spot buyer aggressive market-order support, the move above the Value Area High lacks structural spot backing and remains vulnerable to rejection.",
-  "key_risk": "Breakout failure and rapid mean-reversion back inside the Value Area toward POC (64900) driven by spot sell-side persistence."
+  "analysis": "Price testing liquidity above VAH at $65,060.40. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($64,900.00)."
 }
