@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-16T22:09:14.338608+00:00",
-  "price": 65496.18,
-  "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 93.1195,
-  "perp_cvd": 566.095,
-  "divergence": -472.9755,
+  "timestamp": "2026-11-16T22:14:14.367064+00:00",
+  "price": 65410.2,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 85.9577,
+  "perp_cvd": 509.303,
+  "divergence": -423.3453,
   "poc": 65250.0,
-  "vah": 65350.0,
+  "vah": 65450.0,
   "val": 65100.0,
-  "analysis": "Bitcoin has pushed above VAH at 65,350, but the breakout is overwhelmingly driven by derivative leverage rather than organic spot buying. The large negative CVD divergence (-475.48) indicates structural vulnerability to exhaustion and a potential mean-reverting dip back into the value area.",
-  "key_risk": "Perpetual long liquidation cascade driving price back below VAH (65,350) due to weak spot bid support."
+  "analysis": "Price rotating inside Value Area near POC ($65,250.00). Spot CVD delta is positive (+85.96 BTC).",
+  "key_risk": "Range chop between VAL ($65,100.00) and VAH ($65,450.00)."
 }
