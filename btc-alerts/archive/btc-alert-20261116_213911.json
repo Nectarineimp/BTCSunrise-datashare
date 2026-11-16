@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-16T21:39:11.985699+00:00",
+  "price": 65256.52,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 67.1604,
+  "perp_cvd": 426.183,
+  "divergence": -359.0226,
+  "poc": 65000.0,
+  "vah": 65250.0,
+  "val": 64950.0,
+  "analysis": "Price is attempting a breakout above VAH at 65,250, but order flow is heavily dominated by perpetual leverage with minimal spot CVD participation. This derivative-led push creates a heightened risk of exhaustion or a sharp long squeeze if spot buyers fail to absorb overhead liquidity.",
+  "key_risk": "Perp-driven divergence leading to a failure to hold above VAH and a subsequent liquidation cascade back toward the POC."
+}
