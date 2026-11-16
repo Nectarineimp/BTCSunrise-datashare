@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-16T13:31:58.288761+00:00",
+  "price": 64337.05,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 24.0635,
+  "perp_cvd": -15.924,
+  "divergence": 39.9875,
+  "poc": 64200.0,
+  "vah": 64350.0,
+  "val": 64150.0,
+  "analysis": "Aggressive spot buying is driving price acceptance above the 64350 VAH despite perpetual sellers absorbing flow. The strong positive spot-to-perp CVD divergence confirms an organic spot-led breakout bias in the short term.",
+  "key_risk": "Price rejection back inside the Value Area below 64350 triggering a mean-reversion move toward the 64200 POC."
+}
