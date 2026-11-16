@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-16T23:24:21.554085+00:00",
+  "price": 65199.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -60.5453,
+  "perp_cvd": -186.914,
+  "divergence": 126.3687,
+  "poc": 65250.0,
+  "vah": 65400.0,
+  "val": 65200.0,
+  "analysis": "Perpetual futures aggressive selling is driving price marginally below the Value Area Low of 65,200, outstripping spot delta pressure. The lack of heavy spot-led selling indicates potential leverage exhaustion and absorption near local support.",
+  "key_risk": "Confirmed value area acceptance below 65,200 triggering secondary perpetual liquidation cascades."
+}
