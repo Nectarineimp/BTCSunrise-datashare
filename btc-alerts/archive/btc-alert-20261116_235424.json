@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-16T23:54:24.285182+00:00",
+  "price": 64874.2,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -21.3219,
+  "perp_cvd": -349.52,
+  "divergence": 328.1981,
+  "poc": 65250.0,
+  "vah": 65400.0,
+  "val": 64950.0,
+  "analysis": "Price has accepted below Value Area Low driven predominantly by aggressive perpetual shorting rather than spot distribution. The significant divergence between heavy perp selling and muted spot delta points to potential derivative seller exhaustion and short-squeeze risk back toward POC.",
+  "key_risk": "Sustained spot market selling accelerating breakdown below 64900 towards lower liquidity pools."
+}
