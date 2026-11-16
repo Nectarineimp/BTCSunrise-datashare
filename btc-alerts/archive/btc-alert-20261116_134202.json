@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-16T13:42:02.925678+00:00",
+  "price": 64400.13,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 104.6528,
+  "perp_cvd": -45.094,
+  "divergence": 149.7468,
+  "poc": 64300.0,
+  "vah": 64400.0,
+  "val": 64200.0,
+  "analysis": "Spot order flow is driving a marginal breakout above VAH despite persistent perpetual swap selling pressure, indicating organic spot demand leading price higher. Sustained value acceptance above 64,400 is required to confirm the breakout and avoid a mean-reverting pullback.",
+  "key_risk": "Failure to maintain acceptance above VAH (64,400) triggering a rotational collapse back to POC (64,300)."
+}
