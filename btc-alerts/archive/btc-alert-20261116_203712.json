@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-16T20:37:12.429292+00:00",
+  "price": 64992.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 0.0,
+  "perp_cvd": 114.539,
+  "divergence": -114.539,
+  "poc": 65050.0,
+  "vah": 65200.0,
+  "val": 65000.0,
+  "analysis": "Price has fallen below the Value Area Low of 65,000 driven entirely by derivative flows in the absence of spot volume. Positive perpetual CVD during downside price action indicates aggressive perp buyers are being absorbed, raising immediate liquidation risk.",
+  "key_risk": "Cascading long liquidations below 65,000 due to unbacked perp positioning and zero spot bid."
+}
