@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-16T22:44:18.529392+00:00",
-  "price": 65499.99,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 31.4852,
-  "perp_cvd": 20.568,
-  "divergence": 10.9172,
+  "timestamp": "2026-11-16T22:49:19.004108+00:00",
+  "price": 65386.1,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 38.6671,
+  "perp_cvd": 65.637,
+  "divergence": -26.9699,
   "poc": 65350.0,
   "vah": 65500.0,
   "val": 65300.0,
-  "analysis": "Spot net buying is outpacing derivatives delta as price marginally breaks above the 65,500 VAH level, signaling organic spot-driven upside initiative. Sustained volume acceptance above VAH is required to prevent a mean-reverting rotation back into the value area towards the 65,350 POC.",
-  "key_risk": "Lack of spot follow-through leading to a false breakout above VAH and swift re-entry into the value area."
+  "analysis": "Price rotating inside Value Area near POC ($65,350.00). Spot CVD delta is positive (+38.67 BTC).",
+  "key_risk": "Range chop between VAL ($65,300.00) and VAH ($65,500.00)."
 }
