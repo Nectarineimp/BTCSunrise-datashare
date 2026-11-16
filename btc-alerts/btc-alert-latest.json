@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-16T18:52:02.138730+00:00",
-  "price": 65056.0,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 184.3261,
-  "perp_cvd": 82.061,
-  "divergence": 102.2651,
+  "timestamp": "2026-11-16T18:57:02.144589+00:00",
+  "price": 65088.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 175.6149,
+  "perp_cvd": 250.381,
+  "divergence": -74.7661,
   "poc": 64900.0,
   "vah": 65000.0,
-  "val": 64800.0,
-  "analysis": "Spot CVD is actively driving price acceptance above the 65,000 VAH with strong spot-to-perp CVD divergence. This signals solid institutional spot buying conviction pushing price into expansion out of the value area.",
-  "key_risk": "Failed auction re-entry back below the 65,000 VAH leading to a mean reversion toward the 64,900 POC."
+  "val": 64750.0,
+  "analysis": "Price testing liquidity above VAH at $65,088.80. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($64,900.00)."
 }
