@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-17T21:20:40.927813+00:00",
-  "price": 64105.5,
+  "timestamp": "2026-11-17T21:25:40.941523+00:00",
+  "price": 64316.28,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 8.064,
-  "perp_cvd": 46.576,
-  "divergence": -38.512,
+  "spot_cvd": 15.5771,
+  "perp_cvd": 214.981,
+  "divergence": -199.4039,
   "poc": 64000.0,
   "vah": 64100.0,
-  "val": 63950.0,
-  "analysis": "Perpetual futures are aggressively pushing price slightly above VAH while spot CVD remains net-negative, signaling a low-conviction leverage-driven move. Without spot market buying confirmation, the asset faces elevated risk of a long liquidation cascade back into the value area.",
-  "key_risk": "Leveraged perp unwinding on lack of spot follow-through above VAH."
+  "val": 63900.0,
+  "analysis": "Price testing liquidity above VAH at $64,316.28. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($64,000.00)."
 }
