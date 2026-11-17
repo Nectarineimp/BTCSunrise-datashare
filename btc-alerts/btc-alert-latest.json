@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-17T01:29:38.277574+00:00",
-  "price": 64653.0,
+  "timestamp": "2026-11-17T01:34:38.280753+00:00",
+  "price": 64612.23,
   "regime": "Spot-Led Expansion",
-  "spot_cvd": 242.5322,
-  "perp_cvd": 138.178,
-  "divergence": 104.3542,
+  "spot_cvd": 270.9873,
+  "perp_cvd": -88.328,
+  "divergence": 359.3153,
   "poc": 64600.0,
   "vah": 64650.0,
   "val": 64500.0,
-  "analysis": "Bitcoin is testing a breakout above the 64,650 VAH, supported by spot CVD delta leading perpetual buying interest. Order flow exhibits organic spot-driven demand, favoring continued bullish expansion as long as price maintains acceptance above VAH.",
-  "key_risk": "Failure to sustain acceptance above 64,650 VAH triggering a mean-reversion rotation back into the Value Area toward the 64,600 POC."
+  "analysis": "Positive spot CVD against negative perp CVD indicates genuine spot demand driving price acceptance above the 60m Value Area High. This spot-led divergence confirms healthy upside expansion with minimal immediate leverage exhaustion risk.",
+  "key_risk": "Spot CVD momentum deceleration leading to price rejection back inside the value area below 64650.0."
 }
