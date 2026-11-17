@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-17T19:45:37.706366+00:00",
+  "price": 63796.5,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 28.8924,
+  "perp_cvd": -118.655,
+  "divergence": 147.5474,
+  "poc": 63700.0,
+  "vah": 63800.0,
+  "val": 63650.0,
+  "analysis": "Spot absorption is defending price above the Value Area High despite aggressive perpetual market selling and delta divergence. Continued spot buying conviction is required to sustain this breakout and avoid a failure back into the value area.",
+  "key_risk": "Failure of spot buyers to absorb perpetual sell pressure, triggering a sharp rejection back into the value area toward POC at 63,700."
+}
