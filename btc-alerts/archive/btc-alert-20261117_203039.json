@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-17T20:30:39.788186+00:00",
+  "price": 63968.47,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 144.887,
+  "perp_cvd": -16.746,
+  "divergence": 161.633,
+  "poc": 63750.0,
+  "vah": 63950.0,
+  "val": 63650.0,
+  "analysis": "Spot CVD (+144.1 BTC) is actively driving price acceptance above the Value Area High ($63,950), comfortably outpacing negative perp delta. This spot-led delta divergence favors bullish continuation provided price holds above VAH during retests.",
+  "key_risk": "Failure to maintain acceptance above VAH ($63,950), risking a mean-reversion move back down to POC ($63,750)."
+}
