@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-17T18:25:35.973859+00:00",
+  "price": 64024.63,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 33.7677,
+  "perp_cvd": 134.92,
+  "divergence": -101.1523,
+  "poc": 63750.0,
+  "vah": 63900.0,
+  "val": 63700.0,
+  "analysis": "Price accepted above the Value Area High ($63,900) driven predominantly by aggressive futures buying rather than spot accumulation. The large negative CVD divergence (-81.99 BTC) highlights a leverage-led expansion that lacks spot backing, creating structural vulnerability.",
+  "key_risk": "Leverage unwinding and long squeeze leading to a sharp mean-reversion back inside the Value Area below $63,900."
+}
