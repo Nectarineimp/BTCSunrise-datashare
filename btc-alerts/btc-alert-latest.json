@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-17T17:25:32.787859+00:00",
-  "price": 63836.1,
+  "timestamp": "2026-11-17T17:30:32.798123+00:00",
+  "price": 63733.3,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 106.865,
-  "perp_cvd": 247.269,
-  "divergence": -140.404,
-  "poc": 63900.0,
-  "vah": 64100.0,
-  "val": 63800.0,
-  "analysis": "Aggressive perpetual market orders are failing to push price back into the Value Area, indicating passive absorption of leverage below 63,800. Without spot volume participating to validate the positive CVD delta, late derivative longs face severe risk of a downside liquidation squeeze.",
-  "key_risk": "Inability of spot volume to drive a reclaim above VAL (63,800), leaving net-long perps exposed to downside liquidation cascades."
+  "spot_cvd": 137.6731,
+  "perp_cvd": 112.358,
+  "divergence": 25.3151,
+  "poc": 63800.0,
+  "vah": 64050.0,
+  "val": 63750.0,
+  "analysis": "Price testing liquidity below VAL at $63,733.30. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($63,800.00)."
 }
