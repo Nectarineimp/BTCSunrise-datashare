@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-17T19:10:36.533462+00:00",
+  "price": 63868.7,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": -25.8651,
+  "perp_cvd": -238.352,
+  "divergence": 212.4869,
+  "poc": 63700.0,
+  "vah": 63850.0,
+  "val": 63650.0,
+  "analysis": "Price is testing just above VAH at 63,850 despite heavy net negative perp CVD (-248.1), indicating passive absorption of aggressive derivative selling. Without aggressive spot buying follow-through, this break above VAH lacks structural conviction and risks a mean-reversion back toward POC.",
+  "key_risk": "Failure of spot buyers to support price above VAH leading to rejection back into the value area toward POC at 63,700."
+}
