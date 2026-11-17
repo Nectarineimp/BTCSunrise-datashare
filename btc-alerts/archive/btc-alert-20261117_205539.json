@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-17T20:55:39.964123+00:00",
+  "price": 63837.6,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": -46.353,
+  "perp_cvd": -30.851,
+  "divergence": -15.502,
+  "poc": 64000.0,
+  "vah": 64100.0,
+  "val": 63850.0,
+  "analysis": "Spot aggressive market orders are leading price action slightly below the 63,850 Value Area Low with aligned negative perpetual delta. Sustained acceptance below value confirms a bearish expansion bias toward lower liquidity pools.",
+  "key_risk": "Failure of sellers to maintain acceptance below VAL (63,850) triggering a mean-reversion move toward the 64,000 POC."
+}
