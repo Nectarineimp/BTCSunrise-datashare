@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-17T16:55:32.702147+00:00",
-  "price": 63566.4,
+  "timestamp": "2026-11-17T17:00:32.727804+00:00",
+  "price": 63483.0,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 166.6888,
-  "perp_cvd": 314.295,
-  "divergence": -147.6062,
-  "poc": 63800.0,
-  "vah": 64250.0,
-  "val": 63700.0,
-  "analysis": "Aggressive perp buyers are being heavily absorbed below Value Area Low as spot volume remains too weak to support higher prices. This leverage overhang beneath 63,700 leaves the market vulnerable to a downside liquidation cascade.",
-  "key_risk": "Long liquidation cascade triggered by passive absorption of leverage below the 63,700 VAL."
+  "spot_cvd": 130.449,
+  "perp_cvd": -79.0,
+  "divergence": 209.449,
+  "poc": 64150.0,
+  "vah": 64300.0,
+  "val": 63800.0,
+  "analysis": "Price testing liquidity below VAL at $63,483.00. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($64,150.00)."
 }
