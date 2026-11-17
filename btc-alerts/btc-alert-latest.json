@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-17T00:24:28.416835+00:00",
-  "price": 64440.4,
+  "timestamp": "2026-11-17T00:29:29.110843+00:00",
+  "price": 64572.0,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -99.0199,
-  "perp_cvd": -428.095,
-  "divergence": 329.0751,
+  "spot_cvd": -69.8402,
+  "perp_cvd": -404.228,
+  "divergence": 334.3878,
   "poc": 64850.0,
-  "vah": 65100.0,
+  "vah": 65050.0,
   "val": 64600.0,
-  "analysis": "Price testing liquidity below VAL at $64,440.40. Delta volume lacks high-conviction institutional participation.",
-  "key_risk": "Mean-reversion trap back toward Value Area POC ($64,850.00)."
+  "analysis": "Aggressive perpetual shorting has pushed price slightly below Value Area Low while spot selling remains relatively passive. The lack of spot delta confirmation at these lows elevates the probability of short exhaustion and a mean-reverting squeeze back into value.",
+  "key_risk": "Lack of spot market selling confirmation below VAL (64,600), increasing squeeze risk back toward POC (64,850)."
 }
