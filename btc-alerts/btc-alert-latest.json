@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-17T01:04:35.373067+00:00",
-  "price": 64650.29,
+  "timestamp": "2026-11-17T01:09:35.635352+00:00",
+  "price": 64711.11,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -7.1456,
-  "perp_cvd": 56.634,
-  "divergence": -63.7796,
+  "spot_cvd": -26.6663,
+  "perp_cvd": 129.715,
+  "divergence": -156.3813,
   "poc": 64500.0,
   "vah": 64650.0,
-  "val": 64450.0,
-  "analysis": "Price probing marginally above VAH is driven entirely by aggressive perp buying while spot CVD remains negative, displaying clear bearish divergence. Without spot market conviction, this derivative-led push above value area high carries significant exhaustion and rejection risk.",
-  "key_risk": "Acceptance failure back inside VAH (64,650.0) triggering a long liquidation cascade toward the POC (64,500.0)."
+  "val": 64500.0,
+  "analysis": "Price testing liquidity above VAH at $64,711.11. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($64,500.00)."
 }
