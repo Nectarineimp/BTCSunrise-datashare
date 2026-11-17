@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-17T20:15:39.713037+00:00",
-  "price": 63815.42,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 72.9909,
-  "perp_cvd": -73.953,
-  "divergence": 146.9439,
+  "timestamp": "2026-11-17T20:20:39.728361+00:00",
+  "price": 63924.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 100.3716,
+  "perp_cvd": -35.078,
+  "divergence": 135.4496,
   "poc": 63750.0,
   "vah": 63800.0,
-  "val": 63700.0,
-  "analysis": "Aggressive spot CVD delta is absorbing heavy perpetual short selling, driving price acceptance above the 63,800 Value Area High. This spot-led divergence indicates organic upside conviction and potential for further expansion while above VAH.",
-  "key_risk": "Loss of spot volume aggressive buying resulting in a failed breakout and re-entry into the 63,700-63,800 value area."
+  "val": 63650.0,
+  "analysis": "Price testing liquidity above VAH at $63,924.80. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($63,750.00)."
 }
