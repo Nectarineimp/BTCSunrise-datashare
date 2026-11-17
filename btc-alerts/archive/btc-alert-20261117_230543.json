@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-17T23:05:43.267234+00:00",
+  "price": 64922.9,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 312.4045,
+  "perp_cvd": -156.075,
+  "divergence": 468.4795,
+  "poc": 64750.0,
+  "vah": 64900.0,
+  "val": 64650.0,
+  "analysis": "Aggressive spot CVD accumulation is driving price acceptance above the Value Area High ($64,900) despite active derivative shorting. This strong positive spot-to-perp divergence confirms genuine spot demand absorbing perp liquidity, leaning bullish while above VAH.",
+  "key_risk": "Failure to sustain acceptance above VAH ($64,900) leading to a mean-reversion rotation back toward the POC ($64,750)."
+}
