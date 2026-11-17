@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-17T23:35:43.393385+00:00",
-  "price": 64905.3,
-  "regime": "Mean Reverting / Consolidation",
-  "spot_cvd": 351.9345,
-  "perp_cvd": -38.873,
-  "divergence": 390.8075,
-  "poc": 64750.0,
-  "vah": 65000.0,
-  "val": 64700.0,
-  "analysis": "Price rotating inside Value Area near POC ($64,750.00). Spot CVD delta is positive (+351.93 BTC).",
-  "key_risk": "Range chop between VAL ($64,700.00) and VAH ($65,000.00)."
+  "timestamp": "2026-11-17T23:40:43.417128+00:00",
+  "price": 65132.7,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 288.2848,
+  "perp_cvd": 38.218,
+  "divergence": 250.0668,
+  "poc": 64800.0,
+  "vah": 65050.0,
+  "val": 64750.0,
+  "analysis": "Bitcoin is executing a spot-led breakout above the Value Area High at 65,050, supported by spot CVD delta heavily outstripping perpetual swap flow. Continued acceptance above VAH reinforces a constructive bullish bias driven by genuine spot demand rather than over-leveraged speculation.",
+  "key_risk": "A swift rejection back into the Value Area below 65,050 leading to a failed breakout and mean-reversion toward POC."
 }
