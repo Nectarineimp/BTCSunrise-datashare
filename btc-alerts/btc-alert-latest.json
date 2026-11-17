@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-17T02:29:40.771662+00:00",
-  "price": 64427.24,
+  "timestamp": "2026-11-17T02:34:40.872330+00:00",
+  "price": 64457.78,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 16.7878,
-  "perp_cvd": 49.246,
-  "divergence": -32.4582,
+  "spot_cvd": 0.9801,
+  "perp_cvd": 212.153,
+  "divergence": -211.1729,
   "poc": 64800.0,
-  "vah": 64850.0,
-  "val": 64600.0,
-  "analysis": "Price testing liquidity below VAL at $64,427.24. Delta volume lacks high-conviction institutional participation.",
-  "key_risk": "Mean-reversion trap back toward Value Area POC ($64,800.00)."
+  "vah": 64900.0,
+  "val": 64550.0,
+  "analysis": "Price has fallen below the Value Area Low while aggressive perpetual CVD diverges sharply from flat spot flow. This unbacked leverage buying outside of value leaves overextended perp longs vulnerable to a downside liquidation cascade.",
+  "key_risk": "Cascading long liquidations triggered by failure to reclaim VAL at 64,600"
 }
