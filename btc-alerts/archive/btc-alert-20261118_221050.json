@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-18T22:10:50.728002+00:00",
+  "price": 62400.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 79.4316,
+  "perp_cvd": -286.643,
+  "divergence": 366.0746,
+  "poc": 62400.0,
+  "vah": 62500.0,
+  "val": 62300.0,
+  "analysis": "Price has pushed below VAL driven by heavy perp market selling, yet spot CVD remains positive indicating passive bid absorption. This derivative-led breakdown paired with spot divergence raises significant short exhaustion and mean-reversion risk.",
+  "key_risk": "Perp short aggression overwhelming passive spot absorption and confirming acceptance below VAL."
+}
