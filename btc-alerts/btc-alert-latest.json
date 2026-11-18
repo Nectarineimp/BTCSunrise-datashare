@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-18T01:25:54.854212+00:00",
-  "price": 64470.7,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": -185.1738,
-  "perp_cvd": -126.563,
-  "divergence": -58.6108,
-  "poc": 64650.0,
-  "vah": 64800.0,
+  "timestamp": "2026-11-18T01:30:54.855252+00:00",
+  "price": 64516.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -49.2093,
+  "perp_cvd": -66.914,
+  "divergence": 17.7047,
+  "poc": 64550.0,
+  "vah": 64750.0,
   "val": 64550.0,
-  "analysis": "Aggressive spot selling has pushed price below the Value Area Low at $64,550, signaling strong downside conviction across spot and perpetual markets. With both spot and perp CVD deltas aligned negatively, market bias remains firmly bearish until value area re-acceptance occurs.",
-  "key_risk": "Reclaiming the Value Area Low ($64,550) on declining volume, which could trigger a short squeeze back toward the POC."
+  "analysis": "Synchronized negative CVD across spot and perpetual markets highlights aggressive sell order flow as price tests the Value Area Low at 64,550. Elevated perpetual volume relative to spot indicates derivative-led pressure, creating risk of a leverage squeeze if support fails.",
+  "key_risk": "Acceptance below VAL (64,550.0) triggering cascading derivative sell liquidations."
 }
