@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-18T01:46:02.022639+00:00",
-  "price": 64449.7,
+  "timestamp": "2026-11-18T01:51:02.118837+00:00",
+  "price": 64423.2,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 6.2673,
-  "perp_cvd": -221.821,
-  "divergence": 228.0883,
+  "spot_cvd": 18.6022,
+  "perp_cvd": -203.675,
+  "divergence": 222.2772,
   "poc": 64550.0,
   "vah": 64700.0,
   "val": 64450.0,
-  "analysis": "Passive spot buyers are actively absorbing aggressive perpetual short selling just below the 64,450 Value Area Low. This pronounced positive CVD divergence signals downside perp exhaustion and increases the probability of a squeeze back toward the 64,550 POC.",
-  "key_risk": "Aggressive perpetual short momentum overwhelming spot absorption, confirming structural acceptance below VAL."
+  "analysis": "Price testing liquidity below VAL at $64,423.20. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($64,550.00)."
 }
