@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-18T19:00:25.968083+00:00",
-  "price": 63053.6,
+  "timestamp": "2026-11-18T19:05:36.000957+00:00",
+  "price": 62789.2,
   "regime": "Leverage Squeeze / Exhaustion Risk",
   "spot_cvd": 0.0,
-  "perp_cvd": 128.139,
-  "divergence": -128.139,
+  "perp_cvd": -79.026,
+  "divergence": 79.026,
   "poc": 63100.0,
   "vah": 63250.0,
-  "val": 63100.0,
-  "analysis": "Perpetual buyers are aggressively chasing long positions without any supporting spot volume, pushing price marginally below the Value Area Low of $63,100. This stark derivative divergence exposes overleveraged long positions to a swift liquidation squeeze if spot demand remains non-existent.",
-  "key_risk": "Liquidation cascade of perp longs due to zero spot volume participation below the $63,100 VAL."
+  "val": 63050.0,
+  "analysis": "Price testing liquidity below VAL at $62,789.20. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($63,100.00)."
 }
