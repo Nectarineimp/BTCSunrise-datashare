@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-18T00:35:50.347540+00:00",
+  "price": 64792.2,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 1.7743,
+  "perp_cvd": -81.911,
+  "divergence": 83.6853,
+  "poc": 64800.0,
+  "vah": 65000.0,
+  "val": 64800.0,
+  "analysis": "Aggressive perpetual selling is pushing price slightly below the 64,800 Value Area Low, while spot CVD remains positive to indicate passive spot absorption. This significant spot-perp CVD divergence creates high risk for a short squeeze if perpetual aggressive sellers exhaust.",
+  "key_risk": "Failure of spot absorption leading to spot capitulation below the 64,800 VAL level."
+}
