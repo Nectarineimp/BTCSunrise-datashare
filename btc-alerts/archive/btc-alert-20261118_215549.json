@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-18T21:55:49.922089+00:00",
+  "price": 62311.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 53.6023,
+  "perp_cvd": -180.914,
+  "divergence": 234.5163,
+  "poc": 62400.0,
+  "vah": 62600.0,
+  "val": 62350.0,
+  "analysis": "Price has pushed below the Value Area Low driven by aggressive perpetual futures shorting despite positive spot CVD indicating spot absorption. This spot-perp CVD divergence creates significant short exhaustion and squeeze risk if spot bids continue defending lower liquidity.",
+  "key_risk": "Failure of spot buyers to sustain absorption and reclaim the Value Area Low at 62,350."
+}
