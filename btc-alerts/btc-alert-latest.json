@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-18T13:10:06.815247+00:00",
-  "price": 64030.2,
-  "regime": "Absorption at Resistance",
-  "spot_cvd": -13.0106,
-  "perp_cvd": -74.029,
-  "divergence": 61.0184,
+  "timestamp": "2026-11-18T13:15:06.853089+00:00",
+  "price": 64050.1,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": -6.0663,
+  "perp_cvd": -40.675,
+  "divergence": 34.6087,
   "poc": 63950.0,
-  "vah": 64050.0,
+  "vah": 64100.0,
   "val": 63950.0,
-  "analysis": "Price is holding marginally above the Value Area High despite heavy aggressive market selling across both spot and perpetual derivatives. This divergence points to strong passive limit bid absorption at resistance, raising the potential for seller exhaustion.",
-  "key_risk": "Breakdown of passive absorption leading to rapid mean-reversion inside the Value Area toward the POC at 63,950.00."
+  "analysis": "Price rotating inside Value Area near POC ($63,950.00). Spot CVD delta is negative (-6.07 BTC).",
+  "key_risk": "Range chop between VAL ($63,950.00) and VAH ($64,100.00)."
 }
