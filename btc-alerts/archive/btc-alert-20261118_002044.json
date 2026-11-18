@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-18T00:20:44.093156+00:00",
+  "price": 64845.6,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 55.0423,
+  "perp_cvd": -35.616,
+  "divergence": 90.6583,
+  "poc": 64900.0,
+  "vah": 65000.0,
+  "val": 64850.0,
+  "analysis": "Spot accumulation is actively absorbing aggressive derivative shorting just below the 64,850 Value Area Low, generating a strong positive CVD divergence. A swift reclaim of VAL threatens to trigger a bullish leverage squeeze back toward the 64,900 Point of Control.",
+  "key_risk": "Failure of spot absorption to sustain price, exposing market to perp-driven breakdown momentum."
+}
