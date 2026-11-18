@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-18T19:35:36.082292+00:00",
+  "price": 62751.5,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -11.683,
+  "perp_cvd": -311.396,
+  "divergence": 299.713,
+  "poc": 62800.0,
+  "vah": 63000.0,
+  "val": 62750.0,
+  "analysis": "Aggressive derivative selling has pushed price marginally below the Value Area Low while spot delta remains relatively passive. This heavy perpetual imbalance creates localized downside exhaustion risk if passive spot bids absorb the leverage-driven flow.",
+  "key_risk": "Short liquidation cascade and mean reversion if price reclaims Value Area Low at 62,750."
+}
