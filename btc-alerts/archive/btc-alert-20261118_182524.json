@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-18T18:25:24.123802+00:00",
+  "price": 63235.5,
+  "regime": "Absorption at Resistance",
+  "spot_cvd": 0.0,
+  "perp_cvd": -95.415,
+  "divergence": 95.415,
+  "poc": 63100.0,
+  "vah": 63250.0,
+  "val": 63050.0,
+  "analysis": "Aggressive perp market selling is being absorbed at the Value Area High while spot volume remains completely absent. The lack of spot participation creates a fragile breakout structure vulnerable to mean-reversion if passive bids withdraw.",
+  "key_risk": "Absence of spot buying volume to sustain acceptance above VAH at 63,250."
+}
