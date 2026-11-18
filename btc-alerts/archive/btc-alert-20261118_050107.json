@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-18T05:01:07.798293+00:00",
+  "price": 64332.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 110.6986,
+  "perp_cvd": 127.58,
+  "divergence": -16.8814,
+  "poc": 64400.0,
+  "vah": 64550.0,
+  "val": 64350.0,
+  "analysis": "Price has breached below the Value Area Low despite positive net aggressor buy flow across both spot and perp venues. This delta-price divergence signals strong passive sell-side absorption, leaving aggressive long positions exposed to downside liquidation risk if value is not reclaimed.",
+  "key_risk": "Passive sell-side absorption below 64,350 VAL triggering long liquidations"
+}
