@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-18T16:35:17.171698+00:00",
-  "price": 62529.0,
+  "timestamp": "2026-11-18T16:40:17.164896+00:00",
+  "price": 62432.4,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -30.1362,
-  "perp_cvd": -86.262,
-  "divergence": 56.1258,
+  "spot_cvd": -15.7037,
+  "perp_cvd": -99.389,
+  "divergence": 83.6853,
   "poc": 63000.0,
-  "vah": 63250.0,
+  "vah": 63350.0,
   "val": 62750.0,
-  "analysis": "Aggressive derivative selling has pushed price below the 62,750 VAL, driven primarily by perpetual futures rather than spot distribution. Without spot volume confirmation, the breakdown risks short-side leverage exhaustion or a sharp squeeze back into the value area.",
-  "key_risk": "Perp sell-side exhaustion triggering a sharp mean-reversion squeeze back into the Value Area above 62,750."
+  "analysis": "Price testing liquidity below VAL at $62,432.40. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($63,000.00)."
 }
