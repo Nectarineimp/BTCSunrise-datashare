@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-18T01:15:54.527626+00:00",
+  "price": 64627.8,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": -167.3988,
+  "perp_cvd": -125.946,
+  "divergence": -41.4528,
+  "poc": 64650.0,
+  "vah": 64850.0,
+  "val": 64600.0,
+  "analysis": "Spot order flow is driving net selling pressure, pushing price below the Value Area Low of 64,600 with aligned negative derivative CVD. Market bias remains bearish towards lower liquidity, supported by active spot delta taking price outside value.",
+  "key_risk": "Spot delta absorption below 64,500 prompting a sharp short squeeze back into the value area."
+}
