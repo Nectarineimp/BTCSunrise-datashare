@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-18T02:26:02.246073+00:00",
-  "price": 64444.1,
-  "regime": "Spot-Led Expansion",
-  "spot_cvd": 84.5661,
-  "perp_cvd": -40.915,
-  "divergence": 125.4811,
+  "timestamp": "2026-11-18T02:31:02.250148+00:00",
+  "price": 64498.1,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": -40.9029,
+  "perp_cvd": -54.147,
+  "divergence": 13.2441,
   "poc": 64400.0,
   "vah": 64500.0,
   "val": 64250.0,
-  "analysis": "Spot accumulation (+81.3 BTC CVD) is driving price acceptance above VAH ($64,500) despite passive absorption and aggressive selling in derivative markets (-66.3 BTC Perp CVD). This spot-led impulse indicates organic buying interest, though perp resistance must yield to sustain the breakout.",
-  "key_risk": "Failure to build acceptance above VAH ($64,500), risking a rapid mean-reversion rotation back to the POC ($64,400)."
+  "analysis": "Price rotating inside Value Area near POC ($64,400.00). Spot CVD delta is negative (-40.90 BTC).",
+  "key_risk": "Range chop between VAL ($64,250.00) and VAH ($64,500.00)."
 }
