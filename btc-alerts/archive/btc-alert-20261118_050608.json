@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-18T05:06:08.178465+00:00",
+  "price": 64385.5,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 156.4005,
+  "perp_cvd": 170.718,
+  "divergence": -14.3175,
+  "poc": 64400.0,
+  "vah": 64550.0,
+  "val": 64350.0,
+  "analysis": "Price rotating inside Value Area near POC ($64,400.00). Spot CVD delta is positive (+156.40 BTC).",
+  "key_risk": "Range chop between VAL ($64,350.00) and VAH ($64,550.00)."
+}
