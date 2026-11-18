@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-18T21:15:48.776269+00:00",
+  "price": 62477.09,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 51.3516,
+  "perp_cvd": 112.194,
+  "divergence": -60.8424,
+  "poc": 62550.0,
+  "vah": 62650.0,
+  "val": 62500.0,
+  "analysis": "Price acceptance below the Value Area Low alongside strong perpetual delta buying indicates passive absorption of leveraged long positioning. This negative spot-perp CVD divergence leaves the market vulnerable to a cascading long squeeze if spot supply persists.",
+  "key_risk": "Liquidation cascade from trapped perpetual longs following value area breakdown"
+}
