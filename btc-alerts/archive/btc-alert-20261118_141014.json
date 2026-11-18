@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-18T14:10:14.313098+00:00",
+  "price": 63899.4,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 44.5698,
+  "perp_cvd": -278.114,
+  "divergence": 322.6838,
+  "poc": 63900.0,
+  "vah": 64100.0,
+  "val": 63900.0,
+  "analysis": "Aggressive perpetual selling is currently being absorbed by spot buying at Value Area Low, establishing a sharp CVD divergence. A sustained reclaim back above 63,900 risks triggering a squeeze against overextended derivative short positions.",
+  "key_risk": "Breakdown below 63,900 accompanied by spot sell-side participation, invalidating the absorption thesis."
+}
