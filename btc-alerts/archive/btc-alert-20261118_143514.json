@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-11-18T14:35:14.356553+00:00",
+  "price": 63784.08,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 107.2695,
+  "perp_cvd": -574.041,
+  "divergence": 681.3105,
+  "poc": 63900.0,
+  "vah": 64050.0,
+  "val": 63850.0,
+  "analysis": "Price has fallen below the Value Area Low driven by aggressive perpetual swap selling, while spot CVD shows net positive absorption. This structural CVD divergence indicates overextended derivative shorting that risks a sharp squeeze back toward the POC.",
+  "key_risk": "Sustained volume acceptance below 63850 VAL invalidating spot absorption."
+}
