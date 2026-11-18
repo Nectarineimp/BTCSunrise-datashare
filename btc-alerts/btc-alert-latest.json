@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-18T01:30:54.855252+00:00",
-  "price": 64516.0,
+  "timestamp": "2026-11-18T01:35:54.872297+00:00",
+  "price": 64492.5,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": -49.2093,
-  "perp_cvd": -66.914,
-  "divergence": 17.7047,
+  "spot_cvd": -37.9907,
+  "perp_cvd": -152.196,
+  "divergence": 114.2053,
   "poc": 64550.0,
   "vah": 64750.0,
   "val": 64550.0,
-  "analysis": "Synchronized negative CVD across spot and perpetual markets highlights aggressive sell order flow as price tests the Value Area Low at 64,550. Elevated perpetual volume relative to spot indicates derivative-led pressure, creating risk of a leverage squeeze if support fails.",
-  "key_risk": "Acceptance below VAL (64,550.0) triggering cascading derivative sell liquidations."
+  "analysis": "Price testing liquidity below VAL at $64,492.50. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($64,550.00)."
 }
