@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T04:12:23.059279+00:00",
+  "price": 60349.0,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 20.2348,
+  "perp_cvd": 33.014,
+  "divergence": -12.7792,
+  "poc": 60250.0,
+  "vah": 60400.0,
+  "val": 60050.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.18,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Spot CVD outpaces perpetual CVD, driving a marginal breakout above the Value Area High at 60,350 from oversold daily RSI levels. Solid spot aggressive buying indicates organic demand, though low spot volume relative to perpetual activity warrants caution until acceptance outside value is confirmed.",
+  "key_risk": "Failure to sustain acceptance above VAH at 60,350 leading to a rapid mean-reversion move back toward the POC at 60,250.",
+  "rsi_label": "Oversold"
+}
