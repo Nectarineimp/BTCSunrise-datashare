@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T03:22:22.101970+00:00",
+  "price": 60163.2,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -103.6895,
+  "perp_cvd": -1129.334,
+  "divergence": 1025.6445,
+  "poc": 60650.0,
+  "vah": 61050.0,
+  "val": 60300.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.93,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Aggressive perpetual selling has pushed price below the Value Area Low into oversold territory while spot CVD remains relatively passive. This heavy leverage-driven divergence signals potential short-seller exhaustion and heightened squeeze risk back toward POC.",
+  "key_risk": "Failure of spot absorption allowing leverage cascades to extend breakdowns below psychological 60k support.",
+  "rsi_label": "Oversold"
+}
