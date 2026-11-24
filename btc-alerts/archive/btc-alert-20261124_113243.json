@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T11:32:43.472725+00:00",
+  "price": 59819.2,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -118.9389,
+  "perp_cvd": 173.768,
+  "divergence": -292.7069,
+  "poc": 59800.0,
+  "vah": 59850.0,
+  "val": 59600.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.46,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Price has broken above VAH driven strictly by perpetual leverage while spot market participants aggressively distribute into the strength. This pronounced negative spot-perp CVD divergence creates severe exhaustion risk and potential structural failure back into the value area.",
+  "key_risk": "Spot absorption of perp market orders triggering a long squeeze back below 59,850 VAH.",
+  "rsi_label": "Oversold"
+}
