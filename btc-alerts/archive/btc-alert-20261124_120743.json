@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T12:07:43.562177+00:00",
+  "price": 60384.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 105.7213,
+  "perp_cvd": 332.97,
+  "divergence": -227.2487,
+  "poc": 59800.0,
+  "vah": 60350.0,
+  "val": 59450.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.23,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Price testing liquidity above VAH at $60,384.00. Delta volume lacks high-conviction institutional participation.",
+  "key_risk": "Mean-reversion trap back toward Value Area POC ($59,800.00).",
+  "rsi_label": "Oversold"
+}
