@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T16:22:45.768232+00:00",
+  "price": 59677.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 28.8131,
+  "perp_cvd": 12.206,
+  "divergence": 16.6071,
+  "poc": 59750.0,
+  "vah": 60000.0,
+  "val": 59700.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.28,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Spot CVD exhibits positive divergence below Value Area Low despite heavy derivative volume, signaling spot passive absorption of perpetual aggressive selling. Deeply oversold daily RSI coupled with derivative dominance elevates the probability of a short leverage squeeze back into the value area.",
+  "key_risk": "Perpetual aggressive market selling overwhelming passive spot bid absorption below 59600.",
+  "rsi_label": "Oversold"
+}
