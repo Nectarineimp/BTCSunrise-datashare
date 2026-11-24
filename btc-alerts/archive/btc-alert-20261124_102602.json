@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T10:26:02.526486+00:00",
+  "price": 59899.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 13.544,
+  "perp_cvd": 58.939,
+  "divergence": -45.395,
+  "poc": 60000.0,
+  "vah": 60050.0,
+  "val": 59900.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.57,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Perpetual traders are aggressively buying into weakness while spot demand remains sluggish, leaving price trading below the Value Area Low. This structural disconnect between aggressive leverage and spot flow leaves vulnerable long positions exposed to further downside liquidation risk.",
+  "key_risk": "Cascade of overleveraged perpetual longs if price fails to reclaim the 59,900 Value Area Low.",
+  "rsi_label": "Oversold"
+}
