@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T11:17:43.292514+00:00",
+  "price": 59548.1,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -148.1617,
+  "perp_cvd": -197.981,
+  "divergence": 49.8193,
+  "poc": 59800.0,
+  "vah": 59850.0,
+  "val": 59600.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.11,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Price acceptance below VAL at 59,600 is driven by aggressive perpetual order flow with perp volume outstripping spot by more than 2:1. While both spot and perp CVD remain negative, deeply oversold daily RSI metrics elevate the risk of short-side exhaustion.",
+  "key_risk": "Perp short overextension driving a violent mean-reversion squeeze back into the Value Area above 59,600.",
+  "rsi_label": "Oversold"
+}
