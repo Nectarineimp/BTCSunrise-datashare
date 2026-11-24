@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T15:07:44.410497+00:00",
+  "price": 60122.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 17.0521,
+  "perp_cvd": -4.457,
+  "divergence": 21.5091,
+  "poc": 60400.0,
+  "vah": 60500.0,
+  "val": 60250.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.87,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Bitcoin trades below the Value Area Low in oversold territory, but positive spot CVD indicates passive absorption of derivative selling pressure. A quick reclaim of VAL at 60,250 is necessary to confirm downside exhaustion and target a mean-reversion move toward the POC.",
+  "key_risk": "Failure of spot CVD to absorb perp selling pressure, leading to acceptance below 60,100 and cascading derivative liquidations.",
+  "rsi_label": "Oversold"
+}
