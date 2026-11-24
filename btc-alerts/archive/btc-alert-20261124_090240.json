@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T09:02:40.925012+00:00",
+  "price": 60000.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -11.7785,
+  "perp_cvd": -18.813,
+  "divergence": 7.0345,
+  "poc": 60200.0,
+  "vah": 60350.0,
+  "val": 60100.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.71,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Spot CVD (+13.5) is actively absorbing aggressive perp selling (-18.8) as price trades just below the Value Area Low of $60,100 with oversold daily RSI. The significant CVD divergence signals perp short exhaustion risk, favoring a mean-reversion move back toward POC if spot absorption persists.",
+  "key_risk": "Breakdown of spot passive bids leading to sustained acceptance below $60,100 VAL.",
+  "rsi_label": "Oversold"
+}
