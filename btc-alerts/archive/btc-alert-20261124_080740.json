@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T08:07:40.714108+00:00",
+  "price": 60269.84,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 95.1549,
+  "perp_cvd": 13.129,
+  "divergence": 82.0259,
+  "poc": 60400.0,
+  "vah": 60500.0,
+  "val": 60350.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.07,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Spot buyers are absorbing supply below the Value Area Low (60,350) amid deeply oversold daily RSI metrics. Strong positive spot CVD divergence against lower derivative buying indicates downside seller exhaustion and potential squeeze risk back into the value area.",
+  "key_risk": "Failure to reclaim VAL at 60,350 risks acceptance below value area and sustained continuation lower.",
+  "rsi_label": "Oversold"
+}
