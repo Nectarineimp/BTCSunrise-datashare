@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T02:37:21.866909+00:00",
+  "price": 60560.64,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -142.6582,
+  "perp_cvd": -1616.409,
+  "divergence": 1473.7508,
+  "poc": 60650.0,
+  "vah": 61100.0,
+  "val": 60550.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.48,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Price has broken below the Value Area Low driven primarily by aggressive derivative shorting while spot CVD delta remains relatively flat. Deeply oversold daily RSI metrics coupled with strong perp volume dominance point toward severe seller exhaustion and potential short squeeze risk.",
+  "key_risk": "Reclaim of Value Area Low (60,600) triggering aggressive derivative short covering.",
+  "rsi_label": "Oversold"
+}
