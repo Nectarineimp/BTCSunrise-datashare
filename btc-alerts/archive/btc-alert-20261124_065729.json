@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T06:57:29.148288+00:00",
+  "price": 60524.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 32.7305,
+  "perp_cvd": -171.372,
+  "divergence": 204.1025,
+  "poc": 60400.0,
+  "vah": 60500.0,
+  "val": 60350.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.43,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Spot buying has pushed price above VAH at 60500 despite heavy aggressive shorting in perpetual swaps. The significant positive CVD divergence alongside oversold daily RSI metrics elevates the potential for a short-side leverage squeeze if VAH holds as support.",
+  "key_risk": "Failure to maintain acceptance above VAH 60500 resulting in re-entry into the Value Area.",
+  "rsi_label": "Oversold"
+}
