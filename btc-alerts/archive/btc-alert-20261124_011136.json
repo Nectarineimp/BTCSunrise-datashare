@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-11-24T01:11:36.576143+00:00",
+  "price": 61579.1,
+  "regime": "Consolidation",
+  "spot_cvd": 0.0,
+  "perp_cvd": -0.002,
+  "divergence": 0.002,
+  "poc": 61550.0,
+  "vah": 61600.0,
+  "val": 61550.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 27.93,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "",
+  "key_risk": ""
+}
