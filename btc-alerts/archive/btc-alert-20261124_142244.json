@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T14:22:44.295434+00:00",
+  "price": 60329.6,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 7.9478,
+  "perp_cvd": -142.921,
+  "divergence": 150.8688,
+  "poc": 60100.0,
+  "vah": 60200.0,
+  "val": 60050.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.16,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Spot buying is absorbing aggressive derivative short volume, driving price acceptance above the 60,200 VAH. Continued perp shorting into spot demand creates high potential for a leverage squeeze out of oversold daily conditions.",
+  "key_risk": "Rejection back inside the Value Area below 60,200 VAH leading to a failed breakout mean-reversion.",
+  "rsi_label": "Oversold"
+}
