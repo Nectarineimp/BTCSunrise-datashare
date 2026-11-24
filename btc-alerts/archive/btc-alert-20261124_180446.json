@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T18:04:46.220566+00:00",
+  "price": 60254.13,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 83.7124,
+  "perp_cvd": 228.733,
+  "divergence": -145.0206,
+  "poc": 59950.0,
+  "vah": 60150.0,
+  "val": 59750.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.05,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Price has pushed above the Value Area High (60,150) driven predominantly by aggressive perpetual swap positioning rather than spot demand. This leverage-heavy expansion into an oversold daily RSI background creates structural vulnerability if spot flow fails to validate the breakout.",
+  "key_risk": "Lack of spot CVD follow-through above VAH leading to a leverage-driven long liquidation cascade back into the value area.",
+  "rsi_label": "Oversold"
+}
