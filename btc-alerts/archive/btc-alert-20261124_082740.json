@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T08:27:40.770465+00:00",
+  "price": 60219.7,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 74.6354,
+  "perp_cvd": -68.033,
+  "divergence": 142.6684,
+  "poc": 60400.0,
+  "vah": 60500.0,
+  "val": 60250.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.01,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Spot CVD accumulation (+70.15 BTC) alongside aggressive perp selling (-53.22 BTC) below VAL indicates passive spot absorption in an oversold regime. This divergence between spot buying and derivative shorting creates strong short-squeeze potential despite current price trading below the 60,300 value area low.",
+  "key_risk": "Breakdown acceptance below 60,300 VAL invalidating spot absorption and triggering cascading leverage liquidations.",
+  "rsi_label": "Oversold"
+}
