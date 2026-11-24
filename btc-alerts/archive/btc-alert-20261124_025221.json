@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T02:52:21.921819+00:00",
+  "price": 60217.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -119.4507,
+  "perp_cvd": -1484.227,
+  "divergence": 1364.7763,
+  "poc": 60650.0,
+  "vah": 61000.0,
+  "val": 60500.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.0,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Price has broken below VAL driven primarily by aggressive derivative selling rather than spot distribution, with perpetual volume heavily dominating activity. Deeply oversold daily RSI metrics combined with relative spot CVD resilience point to elevated short exhaustion risk and potential mean-reversion back toward POC.",
+  "key_risk": "Failure of spot absorption leading to breakdown below 60,000 psychological support.",
+  "rsi_label": "Oversold"
+}
