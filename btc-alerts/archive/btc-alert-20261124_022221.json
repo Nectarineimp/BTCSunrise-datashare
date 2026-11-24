@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T02:22:21.755840+00:00",
+  "price": 60636.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -98.9126,
+  "perp_cvd": -1429.218,
+  "divergence": 1330.3054,
+  "poc": 60650.0,
+  "vah": 61150.0,
+  "val": 60600.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.59,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Heavy perp aggressive selling is driving price just below VAL, while spot CVD shows relative absorption and mild selling. Oversold daily RSI alongside strong spot-perp divergence points to derivative short exhaustion and potential squeeze risk back into value.",
+  "key_risk": "Potential short squeeze triggered by derivative over-extension below 60,600 VAL.",
+  "rsi_label": "Oversold"
+}
