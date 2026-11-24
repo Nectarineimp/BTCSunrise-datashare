@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T11:56:19.997746+00:00",
+  "price": 60318.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 69.0373,
+  "perp_cvd": 443.039,
+  "divergence": -374.0017,
+  "poc": 59800.0,
+  "vah": 59950.0,
+  "val": 59500.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.14,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Price has accepted above VAH at $60,318, but the move is heavily driven by derivative buying with Perp CVD (+443.04) significantly outstripping Spot CVD (+69.04). Without aggressive spot accumulation to back the breakout, the advance remains highly vulnerable to leverage exhaustion.",
+  "key_risk": "Failure of spot buyers to support the expansion, risking a sharp re-entry and long liquidation cascade back inside the Value Area below $59,950.",
+  "rsi_label": "Oversold"
+}
