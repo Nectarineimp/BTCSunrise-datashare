@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T01:37:21.340579+00:00",
+  "price": 61492.8,
+  "regime": "Consolidation",
+  "spot_cvd": 0.0,
+  "perp_cvd": 0.001,
+  "divergence": -0.001,
+  "poc": 61450.0,
+  "vah": 61500.0,
+  "val": 61450.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 27.57,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "",
+  "key_risk": "",
+  "rsi_label": "Oversold"
+}
