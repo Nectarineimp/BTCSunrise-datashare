@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T09:37:42.480789+00:00",
+  "price": 59958.39,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -21.0831,
+  "perp_cvd": 22.524,
+  "divergence": -43.6071,
+  "poc": 59900.0,
+  "vah": 60250.0,
+  "val": 59750.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.65,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Aggressive perp buying is being heavily absorbed by spot selling, forcing price acceptance below the Value Area Low at 59,750. This pronounced spot-perp CVD divergence indicates weak derivative-led support vulnerable to liquidation under continued spot pressure.",
+  "key_risk": "Cascading long liquidations if spot sellers push price further below the 59,750 Value Area Low.",
+  "rsi_label": "Oversold"
+}
