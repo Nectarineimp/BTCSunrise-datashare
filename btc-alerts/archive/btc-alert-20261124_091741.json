@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T09:17:41.974356+00:00",
+  "price": 59982.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -10.1344,
+  "perp_cvd": -77.316,
+  "divergence": 67.1816,
+  "poc": 60200.0,
+  "vah": 60400.0,
+  "val": 60050.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.68,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Perpetual aggressive selling has pushed price below the Value Area Low of 60,050 while spot delta remains relatively muted. Given extreme daily oversold conditions and strong CVD divergence, downside momentum shows signs of leverage exhaustion.",
+  "key_risk": "Failure to reclaim Value Area Low at 60,050 triggering secondary perpetual liquidation cascades.",
+  "rsi_label": "Oversold"
+}
