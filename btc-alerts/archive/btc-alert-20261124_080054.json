@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T08:00:54.091815+00:00",
+  "price": 60349.7,
+  "regime": "Mean Reverting / Consolidation",
+  "spot_cvd": 104.9121,
+  "perp_cvd": 66.285,
+  "divergence": 38.6271,
+  "poc": 60400.0,
+  "vah": 60500.0,
+  "val": 60350.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.19,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Price trades marginally below the Value Area Low of 60,350 despite positive spot and perp CVD deltas, indicating spot passive absorption in oversold conditions. High derivative volume relative to spot suggests exhaustion risk and potential mean-reversion toward the 60,400 POC.",
+  "key_risk": "Sustained acceptance below VAL (60,350) exposing secondary liquidity pools beneath 60,000.",
+  "rsi_label": "Oversold"
+}
