@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T07:22:39.521414+00:00",
+  "price": 60357.2,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 66.9171,
+  "perp_cvd": -52.896,
+  "divergence": 119.8131,
+  "poc": 60400.0,
+  "vah": 60550.0,
+  "val": 60350.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.2,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Spot buyers are actively absorbing aggressive perpetual short positioning below the Value Area Low of 60,350. With daily RSI deeply oversold, the market exhibits high potential for a short-side leverage squeeze back into value.",
+  "key_risk": "Breakdown of spot CVD absorption leading to sustained value acceptance below 60,350 VAL.",
+  "rsi_label": "Oversold"
+}
