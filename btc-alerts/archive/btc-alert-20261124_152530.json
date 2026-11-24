@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T15:25:30.867686+00:00",
+  "price": 59739.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -2.4247,
+  "perp_cvd": -36.397,
+  "divergence": 33.9723,
+  "poc": 60400.0,
+  "vah": 60500.0,
+  "val": 60150.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.36,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Price has broken below the Value Area Low driven primarily by aggressive derivative selling rather than spot distribution, highlighted by substantial CVD divergence. With daily RSI in deeply oversold territory, the downside leverage push carries heightened short-side exhaustion risk.",
+  "key_risk": "Spot CVD turning aggressively negative to confirm structural acceptance below VAL at 60,150.",
+  "rsi_label": "Oversold"
+}
