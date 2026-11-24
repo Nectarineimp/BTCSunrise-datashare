@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T15:02:55.755009+00:00",
+  "price": 60299.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 20.0057,
+  "perp_cvd": 63.262,
+  "divergence": -43.2563,
+  "poc": 60400.0,
+  "vah": 60500.0,
+  "val": 60300.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.12,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Price is currently trading below the Value Area Low (60,300) despite positive derivative CVD, signaling passive absorption of aggressive perpetual buyers. With volume heavily skewed toward perpetual futures and daily RSI deeply oversold, the market exhibits structural vulnerability to a leverage unwind or short-term exhaustion rally.",
+  "key_risk": "Liquidation cascade of trapped perpetual long positions if price fails to reclaim the Value Area Low.",
+  "rsi_label": "Oversold"
+}
