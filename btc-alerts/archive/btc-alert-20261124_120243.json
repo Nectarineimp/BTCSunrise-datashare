@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T12:02:43.558990+00:00",
+  "price": 60407.8,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 86.5097,
+  "perp_cvd": 496.861,
+  "divergence": -410.3513,
+  "poc": 59800.0,
+  "vah": 60050.0,
+  "val": 59500.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.27,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Price has expanded above VAH driven predominantly by aggressive perpetual leverage while spot CVD lags significantly, indicating weak institutional spot participation. Given the oversold daily RSI and heavy derivative volume dominance, the breakout carries high risk of buyer exhaustion and a retracement into the value area.",
+  "key_risk": "Long liquidation cascade and re-entry into Value Area below VAH (60,050 USD)",
+  "rsi_label": "Oversold"
+}
