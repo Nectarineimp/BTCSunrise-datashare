@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T09:29:07.403127+00:00",
+  "price": 59909.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -13.3207,
+  "perp_cvd": -164.98,
+  "divergence": 151.6593,
+  "poc": 60200.0,
+  "vah": 60400.0,
+  "val": 59950.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.58,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Aggressive perpetual shorting is driving price below Value Area Low ($59,950) despite relatively muted spot selling. Oversold daily RSI combined with heavy leverage imbalance elevates short-term short squeeze and exhaustion risk.",
+  "key_risk": "Price reclaim of Value Area Low at $59,950 triggering short-covering liquidations.",
+  "rsi_label": "Oversold"
+}
