@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T08:45:17.016946+00:00",
+  "price": 60400.01,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 59.2133,
+  "perp_cvd": -53.074,
+  "divergence": 112.2873,
+  "poc": 60200.0,
+  "vah": 60400.0,
+  "val": 60050.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.26,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Spot CVD aggressive accumulation is absorbing perpetual short flow, driving price marginally above the Value Area High at $60,400. Continued spot bidding above VAH risks triggering a leverage unwind of over-extended short positions given oversold daily RSI readings.",
+  "key_risk": "Lack of spot follow-through above $60,400 causing acceptance back within the Value Area toward POC at $60,200.",
+  "rsi_label": "Oversold"
+}
