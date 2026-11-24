@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T15:46:35.422821+00:00",
+  "price": 59728.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 13.3865,
+  "perp_cvd": -55.958,
+  "divergence": 69.3445,
+  "poc": 60400.0,
+  "vah": 60550.0,
+  "val": 59900.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.35,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Aggressive derivative shorting has pushed price below the Value Area Low into deeply oversold RSI territory while spot CVD remains positive. This strong spot-perp delta divergence highlights significant risk of a short-covering squeeze if spot absorption holds current levels.",
+  "key_risk": "Failure of spot bid absorption to sustain against overwhelming perp market selling volume.",
+  "rsi_label": "Oversold"
+}
