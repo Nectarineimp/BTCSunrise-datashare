@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-11-24T01:16:36.627743+00:00",
-  "price": 61432.5,
+  "timestamp": "2026-11-24T01:21:36.906019+00:00",
+  "price": 61577.85,
   "regime": "Leverage Squeeze / Exhaustion Risk",
-  "spot_cvd": 2.5727,
-  "perp_cvd": 60.652,
-  "divergence": -58.0793,
+  "spot_cvd": 5.7106,
+  "perp_cvd": 78.572,
+  "divergence": -72.8614,
   "poc": 61500.0,
   "vah": 61600.0,
-  "val": 61500.0,
+  "val": 61450.0,
   "daily_rsi": 26.49,
   "rsi_delta": 1.31,
-  "provisional_rsi": 27.32,
+  "provisional_rsi": 27.92,
   "rsi_close_date_et": "2026-11-23",
-  "analysis": "Price testing liquidity below VAL at $61,432.50. Delta volume lacks high-conviction institutional participation.",
-  "key_risk": "Mean-reversion trap back toward Value Area POC ($61,500.00)."
+  "analysis": "Price has pushed marginally above VAH driven almost entirely by aggressive derivative volume while spot market accumulation remains heavily muted. Without organic spot spot-led follow-through, this perp-driven push faces severe exhaustion risk and potential mean reversion back into the Value Area.",
+  "key_risk": "Derivative buyer exhaustion triggering long liquidations back below VAH (61,600) toward POC (61,500)."
 }
