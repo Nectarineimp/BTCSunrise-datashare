@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T08:23:59.267353+00:00",
+  "price": 60299.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 77.6026,
+  "perp_cvd": -13.906,
+  "divergence": 91.5086,
+  "poc": 60400.0,
+  "vah": 60500.0,
+  "val": 60300.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.12,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Spot accumulation is actively absorbing aggressive derivative selling near the Value Area Low in heavily oversold daily conditions. The strong positive spot-to-perp CVD divergence creates structural conditions for a potential short-side leverage squeeze if price reclaims 60300.0.",
+  "key_risk": "Acceptance below the Value Area Low at 60300.0 triggering perp-driven downside momentum expansion.",
+  "rsi_label": "Oversold"
+}
