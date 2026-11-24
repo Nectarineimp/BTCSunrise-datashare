@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T18:31:05.878712+00:00",
+  "price": 60150.01,
+  "regime": "Spot-Led Expansion",
+  "spot_cvd": 39.9125,
+  "perp_cvd": 21.059,
+  "divergence": 18.8535,
+  "poc": 60050.0,
+  "vah": 60150.0,
+  "val": 59950.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.91,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Spot order flow is actively driving price acceptance above the Value Area High (60,150) with spot CVD delta leading perpetuals. Deeply oversold daily RSI combined with spot-led aggression supports short-term bullish continuation, provided VAH holds.",
+  "key_risk": "Failure to hold acceptance above VAH (60,150) leading to a rapid rotation back into the Value Area toward POC (60,050).",
+  "rsi_label": "Oversold"
+}
