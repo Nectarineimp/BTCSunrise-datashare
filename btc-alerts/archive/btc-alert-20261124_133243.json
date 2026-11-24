@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T13:32:43.912330+00:00",
+  "price": 59954.5,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 21.4154,
+  "perp_cvd": 183.718,
+  "divergence": -162.3026,
+  "poc": 60400.0,
+  "vah": 60600.0,
+  "val": 60000.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.64,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Price acceptance below the 60,000 Value Area Low alongside aggressive perpetual CVD buying reveals leverage attempting to absorb structural selling without spot confirmation. The severe spot-perp CVD divergence leaves the market vulnerable to long liquidation cascades into oversold territory.",
+  "key_risk": "Cascading perpetual long liquidations if spot fails to confirm aggressive derivative buying and reclaim the 60,000 VAL.",
+  "rsi_label": "Oversold"
+}
