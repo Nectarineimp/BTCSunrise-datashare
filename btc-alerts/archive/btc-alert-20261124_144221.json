@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T14:42:21.674670+00:00",
+  "price": 60500.01,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 34.528,
+  "perp_cvd": 56.565,
+  "divergence": -22.037,
+  "poc": 60400.0,
+  "vah": 60500.0,
+  "val": 60150.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 25.4,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Price is probing acceptance above the 60,500 Value Area High driven primarily by aggressive perpetual volume rather than spot accumulation. Without stronger spot CVD follow-through, this leverage-led push risks exhaustion and rotation back toward the 60,400 POC.",
+  "key_risk": "Lack of spot buying follow-through leading to a false breakout above VAH and subsequent unwind of derivative long positions.",
+  "rsi_label": "Oversold"
+}
