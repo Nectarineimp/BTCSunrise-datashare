@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T19:58:05.704557+00:00",
+  "price": 59667.9,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 33.5556,
+  "perp_cvd": 65.436,
+  "divergence": -31.8804,
+  "poc": 59850.0,
+  "vah": 59900.0,
+  "val": 59700.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.27,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Price acceptance below VAL despite positive spot and perp CVD indicates passive seller absorption of aggressive takers. Derivative volume dominance combined with oversold momentum leaves positioning vulnerable to a long liquidation cascade without spot-driven recovery.",
+  "key_risk": "Failure to reclaim VAL at 59,700 leading to aggressive taker long liquidation into thin downside liquidity.",
+  "rsi_label": "Oversold"
+}
