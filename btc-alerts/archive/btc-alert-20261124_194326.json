@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T19:43:26.042428+00:00",
+  "price": 59740.0,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 50.0982,
+  "perp_cvd": 60.364,
+  "divergence": -10.2658,
+  "poc": 59850.0,
+  "vah": 60050.0,
+  "val": 59800.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.36,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Price trading below VAL (59,800) alongside deeply oversold RSI metrics signals immediate structural weakness despite positive 60m CVD delta. High derivative volume relative to spot indicates leverage-heavy positioning, making the market vulnerable to a swift squeeze or liquidation continuation.",
+  "key_risk": "Failure to reclaim VAL at 59,800, risking an unwinding of perp long absorption into thin bids below.",
+  "rsi_label": "Oversold"
+}
