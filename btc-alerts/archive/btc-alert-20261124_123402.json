@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-24T12:34:02.710891+00:00",
+  "price": 60199.3,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": 65.4792,
+  "perp_cvd": -27.694,
+  "divergence": 93.1732,
+  "poc": 60250.0,
+  "vah": 60450.0,
+  "val": 60200.0,
+  "daily_rsi": 26.49,
+  "rsi_delta": 1.31,
+  "provisional_rsi": 24.98,
+  "rsi_close_date_et": "2026-11-23",
+  "analysis": "Derivative short aggression has pushed price marginally below the Value Area Low while spot CVD remains positive, absorbing sell pressure at oversold levels. This clear spot-perp divergence sets up high risk for short-side exhaustion and a potential leverage squeeze.",
+  "key_risk": "Sustained volume acceptance below the 60,200 VAL triggering panic spot capitulation.",
+  "rsi_label": "Oversold"
+}
