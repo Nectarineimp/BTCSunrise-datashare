@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-25T00:18:21.227269+00:00",
+  "price": 59495.95,
+  "regime": "Leverage Squeeze / Exhaustion Risk",
+  "spot_cvd": -59.1184,
+  "perp_cvd": -150.544,
+  "divergence": 91.4256,
+  "poc": 59800.0,
+  "vah": 59900.0,
+  "val": 59500.0,
+  "daily_rsi": 24.39,
+  "rsi_delta": -2.1,
+  "provisional_rsi": 24.02,
+  "rsi_close_date_et": "2026-11-24",
+  "analysis": "Aggressive derivative-led selling has forced price below the Value Area Low while spot CVD displays relative absorption. Deeply oversold RSI metrics combined with perp-dominated volume suggest elevated short exhaustion and squeeze risk.",
+  "key_risk": "Sustained perp aggressive selling triggering domino liquidation cascades below local liquidity pockets before spot absorption materializes.",
+  "rsi_label": "Oversold"
+}
